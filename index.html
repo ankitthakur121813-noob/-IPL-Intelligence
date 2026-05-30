@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IPL Intelligence Platform — 2008–2025</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="noise"></div>
+
+<!-- SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-brand">
+    <span class="brand-icon">◈</span>
+    <span class="brand-text">IPL<br><em>Intelligence</em></span>
+  </div>
+  <nav class="sidebar-nav">
+    <a href="#overview"  class="nav-link active" data-tab="overview">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>Overview
+    </a>
+    <a href="#batting"   class="nav-link" data-tab="batting">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 20L18 4M6 20l4-4M18 4l-4 4"/><circle cx="20" cy="4" r="2"/></svg>Batting
+    </a>
+    <a href="#bowling"   class="nav-link" data-tab="bowling">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 9 9M3 12a9 9 0 0 1 9-9"/></svg>Bowling
+    </a>
+    <a href="#venues"    class="nav-link" data-tab="venues">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>Venues
+    </a>
+    <a href="#leaders"   class="nav-link" data-tab="leaders">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>Season Leaders
+    </a>
+    <a href="#advanced"  class="nav-link" data-tab="advanced">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 20h20M6 20V10M12 20V4M18 20v-6"/></svg>Advanced
+    </a>
+    <a href="#moneyball" class="nav-link" data-tab="moneyball">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><path d="M12 6v2m0 8v2M8 12h8"/></svg>Moneyball
+    </a>
+    <a href="#gallery"   class="nav-link" data-tab="gallery">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>Records
+    </a>
+  </nav>
+  <div class="sidebar-footer"><span>2008–2025</span><span class="dot"></span><span>18 seasons</span></div>
+</aside>
+
+<button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+
+<main class="main" id="main">
+
+<!-- ── OVERVIEW ── -->
+<section class="tab-section" id="tab-overview">
+  <header class="page-header">
+    <div><p class="page-eyebrow">Indian Premier League · Real Data</p><h1 class="page-title">Tournament<br>Overview</h1></div>
+    <div class="header-badge">2008–2025</div>
+  </header>
+  <div class="insight-strip" id="insight-strip"></div>
+  <div class="stat-grid" id="stat-grid"></div>
+  <div class="two-col">
+    <div class="card">
+      <div class="card-header-row">
+        <h2 class="card-title">Season Trends</h2>
+        <div class="toggle-btns" id="season-toggle">
+          <button class="toggle-btn active" data-metric="runs">Runs</button>
+          <button class="toggle-btn" data-metric="sixes">Sixes</button>
+          <button class="toggle-btn" data-metric="wickets">Wickets</button>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="season-chart"></canvas></div>
+    </div>
+    <div class="card"><h2 class="card-title">All-Time Wins by Team</h2><div class="chart-wrap"><canvas id="team-wins-chart"></canvas></div></div>
+  </div>
+  <div class="card mt"><h2 class="card-title">Head-to-Head Records</h2><div class="table-wrap" id="h2h-table-wrap"></div></div>
+</section>
+
+<!-- ── BATTING ── -->
+<section class="tab-section hidden" id="tab-batting">
+  <header class="page-header">
+    <div><p class="page-eyebrow">Run Scorers · Real IPL Data</p><h1 class="page-title">Batting<br>Dashboard</h1></div>
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input id="bat-search" type="text" placeholder="Search player…" autocomplete="off"/>
+    </div>
+  </header>
+  <div class="card">
+    <div class="table-controls">
+      <span class="sort-label">Sort by</span>
+      <div class="sort-btns" id="bat-sort-btns">
+        <button class="sort-btn active" data-col="total_runs">Runs</button>
+        <button class="sort-btn" data-col="average">Average</button>
+        <button class="sort-btn" data-col="strike_rate">SR</button>
+        <button class="sort-btn" data-col="sixes">Sixes</button>
+        <button class="sort-btn" data-col="impact_score">Impact</button>
+      </div>
+    </div>
+    <div class="table-wrap" id="bat-table-wrap"></div>
+    <p class="empty-state hidden" id="bat-empty">No players found.</p>
+  </div>
+  <div class="two-col mt">
+    <div class="card">
+      <h2 class="card-title">Strike Rate vs Average</h2>
+      <p class="card-sub">🟠 Orange = 5000+ runs · Bubble size = total runs · Click any bubble</p>
+      <div class="chart-wrap tall"><canvas id="scatter-chart"></canvas></div>
+    </div>
+    <div class="card"><h2 class="card-title">Top Scorer by Season</h2><div class="chart-wrap tall"><canvas id="season-runs-chart"></canvas></div></div>
+  </div>
+  <div class="two-col mt">
+    <div class="card"><h2 class="card-title">Top Partnerships</h2><div class="chart-wrap"><canvas id="partnership-chart"></canvas></div></div>
+    <div class="card"><h2 class="card-title">Boundary Breakdown — Fours vs Sixes</h2><p class="card-sub">Top 10 boundary hitters</p><div class="chart-wrap"><canvas id="boundary-chart"></canvas></div></div>
+  </div>
+  <!-- Player detail panel -->
+  <div class="player-detail hidden" id="player-detail">
+    <div class="player-detail-header">
+      <div id="pd-name" class="pd-name"></div>
+      <button id="pd-close" class="pd-close">✕</button>
+    </div>
+    <div class="player-detail-body">
+      <div class="pd-stats" id="pd-stats"></div>
+      <div class="pd-similar" id="pd-similar"></div>
+      <div class="chart-wrap"><canvas id="pd-radar-chart"></canvas></div>
+    </div>
+  </div>
+</section>
+
+<!-- ── BOWLING ── -->
+<section class="tab-section hidden" id="tab-bowling">
+  <header class="page-header">
+    <div><p class="page-eyebrow">Wicket Takers · Real IPL Data</p><h1 class="page-title">Bowling<br>Hub</h1></div>
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input id="bowl-search" type="text" placeholder="Search bowler…" autocomplete="off"/>
+    </div>
+  </header>
+  <div class="card"><div class="table-wrap" id="bowl-table-wrap"></div><p class="empty-state hidden" id="bowl-empty">No bowlers found.</p></div>
+  <div class="two-col mt">
+    <div class="card"><h2 class="card-title">Economy vs Wickets</h2><p class="card-sub">🟢 Teal = economy under 7.5 (elite control)</p><div class="chart-wrap"><canvas id="bowl-scatter-chart"></canvas></div></div>
+    <div class="card"><h2 class="card-title">Best Match Figures</h2><div class="chart-wrap"><canvas id="figures-chart"></canvas></div></div>
+  </div>
+  <div class="card mt"><h2 class="card-title">Economy Rate Leaders</h2><p class="card-sub">Min 50 wickets · Narine leads all spinners at 6.90</p><div class="chart-wrap"><canvas id="economy-chart"></canvas></div></div>
+</section>
+
+<!-- ── VENUES ── -->
+<section class="tab-section hidden" id="tab-venues">
+  <header class="page-header"><div><p class="page-eyebrow">Ground Analysis</p><h1 class="page-title">Stadium<br>Intelligence</h1></div></header>
+  <div class="venue-banner-row">
+    <div class="toss-banner"><span class="toss-icon">🪙</span><div><p class="toss-label">Toss Winner → Match Winner</p><p class="toss-value" id="toss-value">—%</p></div></div>
+    <div class="toss-banner" style="--accent:#3b82f6"><span class="toss-icon">🏏</span><div><p class="toss-label">Avg 1st Innings Score</p><p class="toss-value" id="avg-first-val">—</p></div></div>
+    <div class="toss-banner" style="--accent:#a855f7"><span class="toss-icon">🏃</span><div><p class="toss-label">Avg 2nd Innings Score</p><p class="toss-value" id="avg-second-val">—</p></div></div>
+  </div>
+  <!-- Venue profile cards -->
+  <div class="venue-cards-grid" id="venue-cards-grid"></div>
+  <div class="card mt"><h2 class="card-title">Bat First vs Chase Win %</h2><div class="chart-wrap tall"><canvas id="venue-chart"></canvas></div></div>
+  <div class="two-col mt">
+    <div class="card"><h2 class="card-title">Scoring Difficulty Index</h2><p class="card-sub">Average 1st innings runs per venue</p><div class="chart-wrap"><canvas id="venue-score-chart"></canvas></div></div>
+    <div class="card"><h2 class="card-title">Venue Radar</h2><div class="venue-select-wrap"><select id="venue-select" class="season-select"></select></div><div class="chart-wrap"><canvas id="venue-radar-chart"></canvas></div></div>
+  </div>
+  <div class="card mt"><h2 class="card-title">Venue Details</h2><div class="table-wrap" id="venue-table-wrap"></div></div>
+</section>
+
+<!-- ── SEASON LEADERS ── -->
+<section class="tab-section hidden" id="tab-leaders">
+  <header class="page-header"><div><p class="page-eyebrow">Orange &amp; Purple Cap</p><h1 class="page-title">Season<br>Leaders</h1></div></header>
+  <div class="card" id="leaders-slider-wrap"></div>
+  <div id="leader-grid" class="leader-grid"></div>
+  <div class="two-col mt">
+    <div class="card"><h2 class="card-title">Orange Cap History</h2><p class="card-sub">Click any bar to jump to that season</p><div class="chart-wrap"><canvas id="orange-chart"></canvas></div></div>
+    <div class="card"><h2 class="card-title">Purple Cap History</h2><p class="card-sub">Click any bar to jump to that season</p><div class="chart-wrap"><canvas id="purple-chart"></canvas></div></div>
+  </div>
+</section>
+
+<!-- ── ADVANCED ANALYTICS ── -->
+<section class="tab-section hidden" id="tab-advanced">
+  <header class="page-header"><div><p class="page-eyebrow">Deep Analytics · Phase Analysis · Heatmaps</p><h1 class="page-title">Advanced<br>Analytics</h1></div></header>
+
+  <!-- Impact score KPI strip -->
+  <div class="kpi-strip" id="kpi-strip"></div>
+
+  <div class="two-col mt">
+    <div class="card">
+      <h2 class="card-title">Player Impact Score</h2>
+      <p class="card-sub">Formula: (Runs × Strike Rate / 100) ÷ Innings — rewards consistency + aggression</p>
+      <div class="chart-wrap tall"><canvas id="impact-chart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2 class="card-title">Phase Analysis</h2>
+      <p class="card-sub">Run rate, wickets &amp; boundaries by over phase</p>
+      <div class="chart-wrap tall"><canvas id="phase-chart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="card mt">
+    <h2 class="card-title">Season Performance Heatmap</h2>
+    <p class="card-sub">Top 10 batters · darker = more runs that season · hover for exact value</p>
+    <div id="heatmap-container" class="heatmap-container"></div>
+  </div>
+
+  <div class="two-col mt">
+    <div class="card">
+      <h2 class="card-title">Toss Impact Analysis</h2>
+      <p class="card-sub">Does winning the toss really help?</p>
+      <div class="chart-wrap"><canvas id="toss-chart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2 class="card-title">Player Similarity Search</h2>
+      <p class="card-sub">Find batters with similar style based on avg, SR, six-rate</p>
+      <div class="similarity-wrap">
+        <div class="sim-search-row">
+          <input id="sim-search" type="text" placeholder="Type player name…" class="sim-input" autocomplete="off"/>
+          <button id="sim-btn" class="sim-btn">Find Similar</button>
+        </div>
+        <div id="sim-results" class="sim-results"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mt">
+    <div class="card-header-row">
+      <div><h2 class="card-title">Player Comparison Radar</h2><p class="card-sub" style="margin:0">Compare up to 3 players across 5 metrics</p></div>
+      <div class="compare-selects" id="compare-selects">
+        <select class="season-select compare-sel" id="cmp1"></select>
+        <select class="season-select compare-sel" id="cmp2"></select>
+        <select class="season-select compare-sel" id="cmp3"></select>
+      </div>
+    </div>
+    <div class="chart-wrap"><canvas id="compare-radar-chart"></canvas></div>
+  </div>
+</section>
+
+<!-- ── MONEYBALL ── -->
+<section class="tab-section hidden" id="tab-moneyball">
+  <header class="page-header">
+    <div><p class="page-eyebrow">IPL Auction · Value Analytics · Cost Efficiency</p><h1 class="page-title">IPL<br>Moneyball</h1></div>
+    <div class="header-badge" style="background:rgba(234,179,8,0.15);border-color:rgba(234,179,8,0.4);color:#eab308">₹ Auction</div>
+  </header>
+
+  <div class="insight-strip" id="money-insight-strip"></div>
+
+  <div class="two-col mt">
+    <div class="card">
+      <h2 class="card-title">🏏 Runs per Crore — Batting Value</h2>
+      <p class="card-sub">Most runs delivered per ₹1 Crore auction spend</p>
+      <div class="chart-wrap tall"><canvas id="money-bat-chart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2 class="card-title">🎳 Wickets per Crore — Bowling Value</h2>
+      <p class="card-sub">Most wickets delivered per ₹1 Crore auction spend</p>
+      <div class="chart-wrap tall"><canvas id="money-bowl-chart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="card mt">
+    <h2 class="card-title">Full Auction Value Rankings — Batting</h2>
+    <div class="table-wrap" id="money-bat-table"></div>
+  </div>
+
+  <div class="card mt">
+    <h2 class="card-title">Full Auction Value Rankings — Bowling</h2>
+    <div class="table-wrap" id="money-bowl-table"></div>
+  </div>
+</section>
+
+<!-- ── RECORDS & GALLERY ── -->
+<section class="tab-section hidden" id="tab-gallery">
+  <header class="page-header"><div><p class="page-eyebrow">Records · Milestones · History</p><h1 class="page-title">Records &amp;<br>Timeline</h1></div></header>
+  <div class="records-grid" id="records-grid"></div>
+  <div class="card mt"><h2 class="card-title">IPL Evolution Timeline</h2><div class="timeline" id="ipl-timeline"></div></div>
+  <h2 class="section-title mt">Python Analytics Gallery</h2>
+  <div class="gallery-grid">
+    <div class="gallery-card" data-img="assets/top_batsmen.png" data-title="Top Run-Scorers" data-caption="Generated with Matplotlib from real IPL data. Aggregated career totals for all players with 200+ balls faced.">
+      <div class="gallery-thumb" style="background-image:url('assets/top_batsmen.png')"></div>
+      <div class="gallery-info"><h3>Top 15 Run-Scorers</h3><p>Real data · Matplotlib horizontal bar</p></div>
+      <span class="gallery-zoom">⤢</span>
+    </div>
+    <div class="gallery-card" data-img="assets/economy_rates.png" data-title="Economy Rates" data-caption="Best economy rates among bowlers with 60+ overs. Sunil Narine leads all bowlers with a career economy of 6.90.">
+      <div class="gallery-thumb" style="background-image:url('assets/economy_rates.png')"></div>
+      <div class="gallery-info"><h3>Best Economy Rates</h3><p>Real data · Matplotlib vertical bar</p></div>
+      <span class="gallery-zoom">⤢</span>
+    </div>
+    <div class="gallery-card" data-img="assets/venue_win_rate.png" data-title="Venue Win Rates" data-caption="Bat first vs chase win percentages per venue. Only venues with 5+ matches included. Rajiv Gandhi Stadium shows strong chase-friendly trend.">
+      <div class="gallery-thumb" style="background-image:url('assets/venue_win_rate.png')"></div>
+      <div class="gallery-info"><h3>Venue Win Rates</h3><p>Real data · Matplotlib grouped bar</p></div>
+      <span class="gallery-zoom">⤢</span>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ERROR TOAST -->
+<div class="error-toast hidden" id="error-toast"><span id="error-msg">Failed to load data.</span><button id="error-retry">Retry</button></div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox hidden" id="lightbox">
+  <div class="lightbox-backdrop" id="lightbox-backdrop"></div>
+  <div class="lightbox-modal">
+    <button class="lightbox-close" id="lightbox-close">✕</button>
+    <img id="lightbox-img" src="" alt=""/>
+    <div class="lightbox-caption"><h3 id="lightbox-title"></h3><p id="lightbox-caption-text"></p></div>
+  </div>
+</div>
+
+<!-- AI CHATBOT -->
+<button class="chat-fab" id="chat-fab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="22" height="22"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span class="chat-fab-label">AI Analyst</span></button>
+<div class="chat-panel hidden" id="chat-panel">
+  <div class="chat-header">
+    <div class="chat-header-left"><span class="chat-avatar">🏏</span><div><div class="chat-title">IPL AI Analyst</div><div class="chat-subtitle">Real data · 250 players</div></div></div>
+    <button class="chat-close" id="chat-close">✕</button>
+  </div>
+  <div class="chat-suggestions">
+    <button class="chip" data-q="Most runs overall?">Most runs?</button>
+    <button class="chip" data-q="Best economy bowler?">Best economy?</button>
+    <button class="chip" data-q="Who is the best value batter in auctions?">Best auction value?</button>
+    <button class="chip" data-q="Orange Cap 2016?">OC 2016?</button>
+    <button class="chip" data-q="Who has the highest impact score?">Impact score?</button>
+    <button class="chip" data-q="Best bowling figures ever?">Best figures?</button>
+    <button class="chip" data-q="Compare Kohli vs Rohit">Kohli vs Rohit?</button>
+    <button class="chip" data-q="Who is similar to Virat Kohli?">Similar to Kohli?</button>
+  </div>
+  <div class="chat-messages" id="chat-messages">
+    <div class="chat-msg bot-msg"><span class="msg-avatar">🏏</span><div class="msg-bubble">Hey! I'm your IPL AI Analyst — powered by <strong>real data from 250 players</strong> across 18 seasons. Ask me about stats, records, auction value, player similarities, or season caps.</div></div>
+  </div>
+  <div class="chat-input-row">
+    <input id="chat-input" type="text" placeholder="Ask about any player, stat or record…" autocomplete="off"/>
+    <button id="chat-send"><svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M2 21l21-9L2 3v7l15 2-15 2z"/></svg></button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

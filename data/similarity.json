@@ -1,0 +1,1916 @@
+{
+  "Virat Kohli": [
+    [
+      "Shubman Gill",
+      1.0
+    ],
+    [
+      "KL Rahul",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ],
+    [
+      "Ruturaj Gaikwad",
+      0.999
+    ],
+    [
+      "Rohit Sharma",
+      0.997
+    ]
+  ],
+  "Rohit Sharma": [
+    [
+      "Surya Kumar Yadav",
+      1.0
+    ],
+    [
+      "Rishabh Pant",
+      1.0
+    ],
+    [
+      "Yashasvi Jaiswal",
+      1.0
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ]
+  ],
+  "MS Dhoni": [
+    [
+      "David Miller",
+      0.999
+    ],
+    [
+      "Aiden Markram",
+      0.999
+    ],
+    [
+      "Manish Pandey",
+      0.998
+    ],
+    [
+      "Quinton de Kock",
+      0.997
+    ],
+    [
+      "Heinrich Klaasen",
+      0.997
+    ]
+  ],
+  "KL Rahul": [
+    [
+      "Ruturaj Gaikwad",
+      1.0
+    ],
+    [
+      "Virat Kohli",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ],
+    [
+      "Shubman Gill",
+      0.999
+    ],
+    [
+      "Surya Kumar Yadav",
+      0.998
+    ]
+  ],
+  "Ajinkya Rahane": [
+    [
+      "Quinton de Kock",
+      1.0
+    ],
+    [
+      "Ishan Kishan",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ],
+    [
+      "Devdutt Padikkal",
+      0.999
+    ],
+    [
+      "Venkatesh Iyer",
+      0.999
+    ]
+  ],
+  "Surya Kumar Yadav": [
+    [
+      "Rohit Sharma",
+      1.0
+    ],
+    [
+      "Jos Buttler",
+      1.0
+    ],
+    [
+      "Shreyas Iyer",
+      1.0
+    ],
+    [
+      "Rishabh Pant",
+      1.0
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ]
+  ],
+  "Sanju Samson": [
+    [
+      "Ishan Kishan",
+      1.0
+    ],
+    [
+      "Rohit Sharma",
+      0.999
+    ],
+    [
+      "Surya Kumar Yadav",
+      0.999
+    ],
+    [
+      "Shreyas Iyer",
+      0.999
+    ],
+    [
+      "Rishabh Pant",
+      0.999
+    ]
+  ],
+  "Jos Buttler": [
+    [
+      "Surya Kumar Yadav",
+      1.0
+    ],
+    [
+      "Shreyas Iyer",
+      1.0
+    ],
+    [
+      "Ruturaj Gaikwad",
+      1.0
+    ],
+    [
+      "Virat Kohli",
+      0.999
+    ],
+    [
+      "Rohit Sharma",
+      0.999
+    ]
+  ],
+  "Manish Pandey": [
+    [
+      "David Miller",
+      1.0
+    ],
+    [
+      "MS Dhoni",
+      0.998
+    ],
+    [
+      "Ravindra Jadeja",
+      0.998
+    ],
+    [
+      "Aiden Markram",
+      0.998
+    ],
+    [
+      "Marcus Stoinis",
+      0.997
+    ]
+  ],
+  "Shubman Gill": [
+    [
+      "Virat Kohli",
+      1.0
+    ],
+    [
+      "KL Rahul",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ],
+    [
+      "Ruturaj Gaikwad",
+      0.999
+    ],
+    [
+      "Rohit Sharma",
+      0.998
+    ]
+  ],
+  "Shreyas Iyer": [
+    [
+      "Surya Kumar Yadav",
+      1.0
+    ],
+    [
+      "Jos Buttler",
+      1.0
+    ],
+    [
+      "Rishabh Pant",
+      1.0
+    ],
+    [
+      "Rohit Sharma",
+      0.999
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ]
+  ],
+  "Rishabh Pant": [
+    [
+      "Rohit Sharma",
+      1.0
+    ],
+    [
+      "Surya Kumar Yadav",
+      1.0
+    ],
+    [
+      "Shreyas Iyer",
+      1.0
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ]
+  ],
+  "Quinton de Kock": [
+    [
+      "Ajinkya Rahane",
+      1.0
+    ],
+    [
+      "Ishan Kishan",
+      1.0
+    ],
+    [
+      "Nitish Rana",
+      1.0
+    ],
+    [
+      "Venkatesh Iyer",
+      1.0
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ]
+  ],
+  "Ravindra Jadeja": [
+    [
+      "Marcus Stoinis",
+      0.999
+    ],
+    [
+      "Krunal Pandya",
+      0.999
+    ],
+    [
+      "Rinku Singh",
+      0.999
+    ],
+    [
+      "Tim David",
+      0.999
+    ],
+    [
+      "Manish Pandey",
+      0.998
+    ]
+  ],
+  "David Miller": [
+    [
+      "Manish Pandey",
+      1.0
+    ],
+    [
+      "MS Dhoni",
+      0.999
+    ],
+    [
+      "Aiden Markram",
+      0.999
+    ],
+    [
+      "Ravindra Jadeja",
+      0.998
+    ],
+    [
+      "Marcus Stoinis",
+      0.998
+    ]
+  ],
+  "Ishan Kishan": [
+    [
+      "Sanju Samson",
+      1.0
+    ],
+    [
+      "Quinton de Kock",
+      1.0
+    ],
+    [
+      "Nitish Rana",
+      1.0
+    ],
+    [
+      "Venkatesh Iyer",
+      1.0
+    ],
+    [
+      "Ajinkya Rahane",
+      0.999
+    ]
+  ],
+  "Nitish Rana": [
+    [
+      "Quinton de Kock",
+      1.0
+    ],
+    [
+      "Ishan Kishan",
+      1.0
+    ],
+    [
+      "Venkatesh Iyer",
+      1.0
+    ],
+    [
+      "Ajinkya Rahane",
+      0.999
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ]
+  ],
+  "Hardik Pandya": [
+    [
+      "Abhishek Sharma",
+      1.0
+    ],
+    [
+      "Riyan Parag",
+      1.0
+    ],
+    [
+      "Rahul Tripathi",
+      0.999
+    ],
+    [
+      "Marcus Stoinis",
+      0.999
+    ],
+    [
+      "Shivam Dube",
+      0.999
+    ]
+  ],
+  "Ruturaj Gaikwad": [
+    [
+      "KL Rahul",
+      1.0
+    ],
+    [
+      "Jos Buttler",
+      1.0
+    ],
+    [
+      "Virat Kohli",
+      0.999
+    ],
+    [
+      "Surya Kumar Yadav",
+      0.999
+    ],
+    [
+      "Shubman Gill",
+      0.999
+    ]
+  ],
+  "Nicholas Pooran": [
+    [
+      "Sanju Samson",
+      0.999
+    ],
+    [
+      "Ishan Kishan",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ],
+    [
+      "Shivam Dube",
+      0.999
+    ],
+    [
+      "Heinrich Klaasen",
+      0.999
+    ]
+  ],
+  "Rahul Tripathi": [
+    [
+      "Quinton de Kock",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ],
+    [
+      "Prithvi Shaw",
+      0.999
+    ],
+    [
+      "Abhishek Sharma",
+      0.999
+    ]
+  ],
+  "Yashasvi Jaiswal": [
+    [
+      "Rohit Sharma",
+      1.0
+    ],
+    [
+      "Surya Kumar Yadav",
+      0.999
+    ],
+    [
+      "Jos Buttler",
+      0.999
+    ],
+    [
+      "Rishabh Pant",
+      0.999
+    ],
+    [
+      "Sanju Samson",
+      0.998
+    ]
+  ],
+  "Marcus Stoinis": [
+    [
+      "Riyan Parag",
+      1.0
+    ],
+    [
+      "Shimron Hetmyer",
+      1.0
+    ],
+    [
+      "Mitchell Marsh",
+      1.0
+    ],
+    [
+      "Ravindra Jadeja",
+      0.999
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ]
+  ],
+  "Axar Patel": [
+    [
+      "Krunal Pandya",
+      1.0
+    ],
+    [
+      "Rinku Singh",
+      1.0
+    ],
+    [
+      "Sam Curran",
+      1.0
+    ],
+    [
+      "Shahrukh Khan",
+      1.0
+    ],
+    [
+      "Shimron Hetmyer",
+      0.999
+    ]
+  ],
+  "Prithvi Shaw": [
+    [
+      "Rahul Tripathi",
+      0.999
+    ],
+    [
+      "Ajinkya Rahane",
+      0.998
+    ],
+    [
+      "Quinton de Kock",
+      0.998
+    ],
+    [
+      "Ishan Kishan",
+      0.998
+    ],
+    [
+      "Nitish Rana",
+      0.998
+    ]
+  ],
+  "Shivam Dube": [
+    [
+      "Heinrich Klaasen",
+      1.0
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ],
+    [
+      "Nicholas Pooran",
+      0.999
+    ],
+    [
+      "Abhishek Sharma",
+      0.999
+    ],
+    [
+      "Riyan Parag",
+      0.999
+    ]
+  ],
+  "Abhishek Sharma": [
+    [
+      "Hardik Pandya",
+      1.0
+    ],
+    [
+      "Riyan Parag",
+      1.0
+    ],
+    [
+      "Prabhsimran Singh",
+      1.0
+    ],
+    [
+      "Rahul Tripathi",
+      0.999
+    ],
+    [
+      "Marcus Stoinis",
+      0.999
+    ]
+  ],
+  "Devdutt Padikkal": [
+    [
+      "Ajinkya Rahane",
+      0.999
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ],
+    [
+      "Quinton de Kock",
+      0.999
+    ],
+    [
+      "Ishan Kishan",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ]
+  ],
+  "Sunil Narine": [
+    [
+      "Karun Nair",
+      0.998
+    ],
+    [
+      "Liam Livingstone",
+      0.998
+    ],
+    [
+      "Sam Curran",
+      0.998
+    ],
+    [
+      "Abdul Samad",
+      0.998
+    ],
+    [
+      "Shahrukh Khan",
+      0.998
+    ]
+  ],
+  "Krunal Pandya": [
+    [
+      "Axar Patel",
+      1.0
+    ],
+    [
+      "Mitchell Marsh",
+      1.0
+    ],
+    [
+      "Rinku Singh",
+      1.0
+    ],
+    [
+      "Sam Curran",
+      1.0
+    ],
+    [
+      "Ravindra Jadeja",
+      0.999
+    ]
+  ],
+  "Karun Nair": [
+    [
+      "Abhishek Sharma",
+      0.999
+    ],
+    [
+      "Krunal Pandya",
+      0.999
+    ],
+    [
+      "Prabhsimran Singh",
+      0.999
+    ],
+    [
+      "Mitchell Marsh",
+      0.999
+    ],
+    [
+      "Liam Livingstone",
+      0.999
+    ]
+  ],
+  "Riyan Parag": [
+    [
+      "Hardik Pandya",
+      1.0
+    ],
+    [
+      "Marcus Stoinis",
+      1.0
+    ],
+    [
+      "Abhishek Sharma",
+      1.0
+    ],
+    [
+      "Rahul Tripathi",
+      0.999
+    ],
+    [
+      "Shivam Dube",
+      0.999
+    ]
+  ],
+  "Shimron Hetmyer": [
+    [
+      "Marcus Stoinis",
+      1.0
+    ],
+    [
+      "Mitchell Marsh",
+      1.0
+    ],
+    [
+      "Rinku Singh",
+      1.0
+    ],
+    [
+      "Liam Livingstone",
+      1.0
+    ],
+    [
+      "Tim David",
+      1.0
+    ]
+  ],
+  "Heinrich Klaasen": [
+    [
+      "Shivam Dube",
+      1.0
+    ],
+    [
+      "Quinton de Kock",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ],
+    [
+      "Nicholas Pooran",
+      0.999
+    ]
+  ],
+  "Venkatesh Iyer": [
+    [
+      "Quinton de Kock",
+      1.0
+    ],
+    [
+      "Ishan Kishan",
+      1.0
+    ],
+    [
+      "Nitish Rana",
+      1.0
+    ],
+    [
+      "Ajinkya Rahane",
+      0.999
+    ],
+    [
+      "Sanju Samson",
+      0.999
+    ]
+  ],
+  "Aiden Markram": [
+    [
+      "MS Dhoni",
+      0.999
+    ],
+    [
+      "Quinton de Kock",
+      0.999
+    ],
+    [
+      "David Miller",
+      0.999
+    ],
+    [
+      "Nitish Rana",
+      0.999
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ]
+  ],
+  "Prabhsimran Singh": [
+    [
+      "Abhishek Sharma",
+      1.0
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ],
+    [
+      "Rahul Tripathi",
+      0.999
+    ],
+    [
+      "Karun Nair",
+      0.999
+    ],
+    [
+      "Riyan Parag",
+      0.999
+    ]
+  ],
+  "Mitchell Marsh": [
+    [
+      "Marcus Stoinis",
+      1.0
+    ],
+    [
+      "Krunal Pandya",
+      1.0
+    ],
+    [
+      "Shimron Hetmyer",
+      1.0
+    ],
+    [
+      "Liam Livingstone",
+      1.0
+    ],
+    [
+      "Hardik Pandya",
+      0.999
+    ]
+  ],
+  "Rahul Tewatia": [
+    [
+      "Axar Patel",
+      0.999
+    ],
+    [
+      "Sam Curran",
+      0.999
+    ],
+    [
+      "Abdul Samad",
+      0.999
+    ],
+    [
+      "Shahrukh Khan",
+      0.999
+    ],
+    [
+      "Pat Cummins",
+      0.999
+    ]
+  ],
+  "Rinku Singh": [
+    [
+      "Axar Patel",
+      1.0
+    ],
+    [
+      "Krunal Pandya",
+      1.0
+    ],
+    [
+      "Shimron Hetmyer",
+      1.0
+    ],
+    [
+      "Tim David",
+      1.0
+    ],
+    [
+      "Ravindra Jadeja",
+      0.999
+    ]
+  ],
+  "Liam Livingstone": [
+    [
+      "Shimron Hetmyer",
+      1.0
+    ],
+    [
+      "Mitchell Marsh",
+      1.0
+    ],
+    [
+      "Marcus Stoinis",
+      0.999
+    ],
+    [
+      "Axar Patel",
+      0.999
+    ],
+    [
+      "Krunal Pandya",
+      0.999
+    ]
+  ],
+  "Sam Curran": [
+    [
+      "Axar Patel",
+      1.0
+    ],
+    [
+      "Krunal Pandya",
+      1.0
+    ],
+    [
+      "Shahrukh Khan",
+      1.0
+    ],
+    [
+      "Mitchell Marsh",
+      0.999
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ]
+  ],
+  "Tim David": [
+    [
+      "Shimron Hetmyer",
+      1.0
+    ],
+    [
+      "Rinku Singh",
+      1.0
+    ],
+    [
+      "Ravindra Jadeja",
+      0.999
+    ],
+    [
+      "Marcus Stoinis",
+      0.999
+    ],
+    [
+      "Axar Patel",
+      0.999
+    ]
+  ],
+  "Abdul Samad": [
+    [
+      "Shahrukh Khan",
+      1.0
+    ],
+    [
+      "Axar Patel",
+      0.999
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ],
+    [
+      "Sam Curran",
+      0.999
+    ],
+    [
+      "Pat Cummins",
+      0.999
+    ]
+  ],
+  "Shahrukh Khan": [
+    [
+      "Axar Patel",
+      1.0
+    ],
+    [
+      "Sam Curran",
+      1.0
+    ],
+    [
+      "Abdul Samad",
+      1.0
+    ],
+    [
+      "Krunal Pandya",
+      0.999
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ]
+  ],
+  "Pat Cummins": [
+    [
+      "Shahbaz Ahamad",
+      1.0
+    ],
+    [
+      "Washington Sundar",
+      1.0
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ],
+    [
+      "Abdul Samad",
+      0.999
+    ],
+    [
+      "Rashid Khan",
+      0.999
+    ]
+  ],
+  "Rashid Khan": [
+    [
+      "Jofra Archer",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Pat Cummins",
+      0.999
+    ],
+    [
+      "Shahbaz Ahamad",
+      0.999
+    ],
+    [
+      "Washington Sundar",
+      0.999
+    ]
+  ],
+  "Shahbaz Ahamad": [
+    [
+      "Pat Cummins",
+      1.0
+    ],
+    [
+      "Washington Sundar",
+      1.0
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ],
+    [
+      "Abdul Samad",
+      0.999
+    ],
+    [
+      "Rashid Khan",
+      0.999
+    ]
+  ],
+  "Washington Sundar": [
+    [
+      "Pat Cummins",
+      1.0
+    ],
+    [
+      "Shahbaz Ahamad",
+      1.0
+    ],
+    [
+      "Jason Holder",
+      1.0
+    ],
+    [
+      "Rahul Tewatia",
+      0.999
+    ],
+    [
+      "Rashid Khan",
+      0.999
+    ]
+  ],
+  "Sarfaraz Khan": [
+    [
+      "Rahul Tewatia",
+      0.999
+    ],
+    [
+      "Washington Sundar",
+      0.999
+    ],
+    [
+      "Sam Curran",
+      0.998
+    ],
+    [
+      "Abdul Samad",
+      0.998
+    ],
+    [
+      "Pat Cummins",
+      0.998
+    ]
+  ],
+  "Shardul Thakur": [
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Trent Boult",
+      1.0
+    ],
+    [
+      "Mohammad Shami",
+      1.0
+    ]
+  ],
+  "Bhuvneshwar Kumar": [
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Marco Jansen",
+      1.0
+    ]
+  ],
+  "Harshal Patel": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Jofra Archer",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ]
+  ],
+  "Jofra Archer": [
+    [
+      "Rashid Khan",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Pat Cummins",
+      0.999
+    ]
+  ],
+  "Harpreet Brar": [
+    [
+      "Rashid Khan",
+      1.0
+    ],
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Jofra Archer",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ]
+  ],
+  "Kagiso Rabada": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Jofra Archer",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ]
+  ],
+  "Kuldeep Yadav": [
+    [
+      "Mitchell Santner",
+      1.0
+    ],
+    [
+      "Jason Holder",
+      0.999
+    ],
+    [
+      "Marco Jansen",
+      0.999
+    ],
+    [
+      "Nathan Ellis",
+      0.999
+    ],
+    [
+      "Washington Sundar",
+      0.998
+    ]
+  ],
+  "Jaydev Unadkat": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ]
+  ],
+  "Jason Holder": [
+    [
+      "Washington Sundar",
+      1.0
+    ],
+    [
+      "Marco Jansen",
+      1.0
+    ],
+    [
+      "Mitchell Santner",
+      1.0
+    ],
+    [
+      "Pat Cummins",
+      0.999
+    ],
+    [
+      "Rashid Khan",
+      0.999
+    ]
+  ],
+  "Shreyas Gopal": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ]
+  ],
+  "Marco Jansen": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jason Holder",
+      1.0
+    ],
+    [
+      "Mohammed Siraj",
+      1.0
+    ]
+  ],
+  "Rahul Chahar": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Deepak Chahar",
+      1.0
+    ]
+  ],
+  "Deepak Chahar": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ]
+  ],
+  "Mohammed Siraj": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ]
+  ],
+  "Mitchell Santner": [
+    [
+      "Kuldeep Yadav",
+      1.0
+    ],
+    [
+      "Jason Holder",
+      1.0
+    ],
+    [
+      "Marco Jansen",
+      1.0
+    ],
+    [
+      "Nathan Ellis",
+      1.0
+    ],
+    [
+      "Washington Sundar",
+      0.999
+    ]
+  ],
+  "Trent Boult": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ]
+  ],
+  "Mohammad Shami": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Deepak Chahar",
+      1.0
+    ]
+  ],
+  "Lockie Ferguson": [
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ],
+    [
+      "Yuzvendra Chahal",
+      1.0
+    ],
+    [
+      "Arshdeep Singh",
+      1.0
+    ],
+    [
+      "Varun Chakaravarthy",
+      1.0
+    ]
+  ],
+  "Jasprit Bumrah": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Trent Boult",
+      1.0
+    ]
+  ],
+  "Avesh Khan": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Trent Boult",
+      1.0
+    ],
+    [
+      "Mohammad Shami",
+      1.0
+    ]
+  ],
+  "Sandeep Sharma": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ],
+    [
+      "Mayank Markande",
+      1.0
+    ],
+    [
+      "Yuzvendra Chahal",
+      1.0
+    ]
+  ],
+  "Ishant Sharma": [
+    [
+      "Mohammad Shami",
+      1.0
+    ],
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Jasprit Bumrah",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ]
+  ],
+  "Anrich Nortje": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Deepak Chahar",
+      1.0
+    ]
+  ],
+  "Mayank Markande": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Mohammad Shami",
+      1.0
+    ],
+    [
+      "Jasprit Bumrah",
+      1.0
+    ]
+  ],
+  "Ravi Bishnoi": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ]
+  ],
+  "Jayant Yadav": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Harpreet Brar",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ]
+  ],
+  "Yuzvendra Chahal": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ],
+    [
+      "Mayank Markande",
+      1.0
+    ]
+  ],
+  "Arshdeep Singh": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Jasprit Bumrah",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ]
+  ],
+  "Tushar Deshpande": [
+    [
+      "Bhuvneshwar Kumar",
+      1.0
+    ],
+    [
+      "Harshal Patel",
+      1.0
+    ],
+    [
+      "Kagiso Rabada",
+      1.0
+    ],
+    [
+      "Jaydev Unadkat",
+      1.0
+    ],
+    [
+      "Marco Jansen",
+      1.0
+    ]
+  ],
+  "Anukul Roy": [
+    [
+      "Shardul Thakur",
+      1.0
+    ],
+    [
+      "Shreyas Gopal",
+      1.0
+    ],
+    [
+      "Rahul Chahar",
+      1.0
+    ],
+    [
+      "Trent Boult",
+      1.0
+    ],
+    [
+      "Mohammad Shami",
+      1.0
+    ]
+  ],
+  "Varun Chakaravarthy": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ],
+    [
+      "Mayank Markande",
+      1.0
+    ]
+  ],
+  "Josh Hazlewood": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Varun Chakaravarthy",
+      1.0
+    ],
+    [
+      "T. Natarajan",
+      1.0
+    ],
+    [
+      "Khaleel Ahmed",
+      1.0
+    ]
+  ],
+  "Nathan Ellis": [
+    [
+      "Marco Jansen",
+      1.0
+    ],
+    [
+      "Mitchell Santner",
+      1.0
+    ],
+    [
+      "Bhuvneshwar Kumar",
+      0.999
+    ],
+    [
+      "Harshal Patel",
+      0.999
+    ],
+    [
+      "Kagiso Rabada",
+      0.999
+    ]
+  ],
+  "Kartik Tyagi": [
+    [
+      "Mohammad Shami",
+      1.0
+    ],
+    [
+      "Jasprit Bumrah",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ]
+  ],
+  "Prasidh Krishna": [
+    [
+      "Trent Boult",
+      1.0
+    ],
+    [
+      "Mohammad Shami",
+      1.0
+    ],
+    [
+      "Jasprit Bumrah",
+      1.0
+    ],
+    [
+      "Avesh Khan",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ]
+  ],
+  "T. Natarajan": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Varun Chakaravarthy",
+      1.0
+    ],
+    [
+      "Josh Hazlewood",
+      1.0
+    ],
+    [
+      "Khaleel Ahmed",
+      1.0
+    ]
+  ],
+  "Khaleel Ahmed": [
+    [
+      "Lockie Ferguson",
+      1.0
+    ],
+    [
+      "Sandeep Sharma",
+      1.0
+    ],
+    [
+      "Ishant Sharma",
+      1.0
+    ],
+    [
+      "Yuzvendra Chahal",
+      1.0
+    ],
+    [
+      "Arshdeep Singh",
+      1.0
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "venues": [
+    {
+      "venue": "Wankhede Stadium, Mumbai",
+      "matches": 77,
+      "bat_first_wins": 41,
+      "chase_wins": 36,
+      "bat_first_win_pct": 53.2,
+      "avg_first_innings": 176.3,
+      "avg_second_innings": 168.1,
+      "pitch_type": "Batting Paradise",
+      "boundary_opportunity": "High",
+      "boundary_pct": 50.7
+    },
+    {
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "matches": 76,
+      "bat_first_wins": 39,
+      "chase_wins": 37,
+      "bat_first_win_pct": 51.3,
+      "avg_first_innings": 179.2,
+      "avg_second_innings": 171.4,
+      "pitch_type": "Batting Paradise",
+      "boundary_opportunity": "Very High",
+      "boundary_pct": 52.1
+    },
+    {
+      "venue": "Eden Gardens, Kolkata",
+      "matches": 73,
+      "bat_first_wins": 37,
+      "chase_wins": 36,
+      "bat_first_win_pct": 50.7,
+      "avg_first_innings": 163.4,
+      "avg_second_innings": 155.2,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Medium",
+      "boundary_pct": 44.2
+    },
+    {
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "matches": 72,
+      "bat_first_wins": 37,
+      "chase_wins": 35,
+      "bat_first_win_pct": 51.4,
+      "avg_first_innings": 155.3,
+      "avg_second_innings": 147.8,
+      "pitch_type": "Spin Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 40.2
+    },
+    {
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "matches": 71,
+      "bat_first_wins": 37,
+      "chase_wins": 34,
+      "bat_first_win_pct": 52.1,
+      "avg_first_innings": 168.7,
+      "avg_second_innings": 161.2,
+      "pitch_type": "Batting Friendly",
+      "boundary_opportunity": "High",
+      "boundary_pct": 46.8
+    },
+    {
+      "venue": "Punjab Cricket Association Stadium, Mohali",
+      "matches": 68,
+      "bat_first_wins": 35,
+      "chase_wins": 33,
+      "bat_first_win_pct": 51.5,
+      "avg_first_innings": 172.1,
+      "avg_second_innings": 164.3,
+      "pitch_type": "Batting Friendly",
+      "boundary_opportunity": "High",
+      "boundary_pct": 48.5
+    },
+    {
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "matches": 65,
+      "bat_first_wins": 30,
+      "chase_wins": 35,
+      "bat_first_win_pct": 46.2,
+      "avg_first_innings": 162.8,
+      "avg_second_innings": 168.5,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Medium",
+      "boundary_pct": 43.9
+    },
+    {
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "matches": 60,
+      "bat_first_wins": 28,
+      "chase_wins": 32,
+      "bat_first_win_pct": 46.7,
+      "avg_first_innings": 158.4,
+      "avg_second_innings": 165.1,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Medium",
+      "boundary_pct": 41.7
+    },
+    {
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "matches": 52,
+      "bat_first_wins": 22,
+      "chase_wins": 30,
+      "bat_first_win_pct": 42.3,
+      "avg_first_innings": 167.2,
+      "avg_second_innings": 174.6,
+      "pitch_type": "Run Fest",
+      "boundary_opportunity": "Very High",
+      "boundary_pct": 46.1
+    },
+    {
+      "venue": "BRSABV Ekana Cricket Stadium, Lucknow",
+      "matches": 48,
+      "bat_first_wins": 25,
+      "chase_wins": 23,
+      "bat_first_win_pct": 52.1,
+      "avg_first_innings": 164.1,
+      "avg_second_innings": 157.8,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Medium",
+      "boundary_pct": 44.5
+    },
+    {
+      "venue": "DY Patil Stadium, Navi Mumbai",
+      "matches": 42,
+      "bat_first_wins": 21,
+      "chase_wins": 21,
+      "bat_first_win_pct": 50.0,
+      "avg_first_innings": 171.2,
+      "avg_second_innings": 168.3,
+      "pitch_type": "Batting Friendly",
+      "boundary_opportunity": "High",
+      "boundary_pct": 48.1
+    },
+    {
+      "venue": "Brabourne Stadium, Mumbai",
+      "matches": 38,
+      "bat_first_wins": 20,
+      "chase_wins": 18,
+      "bat_first_win_pct": 52.6,
+      "avg_first_innings": 169.4,
+      "avg_second_innings": 162.1,
+      "pitch_type": "Batting Friendly",
+      "boundary_opportunity": "High",
+      "boundary_pct": 47.2
+    },
+    {
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "matches": 32,
+      "bat_first_wins": 18,
+      "chase_wins": 14,
+      "bat_first_win_pct": 56.3,
+      "avg_first_innings": 174.8,
+      "avg_second_innings": 161.2,
+      "pitch_type": "Bat First Venue",
+      "boundary_opportunity": "High",
+      "boundary_pct": 49.9
+    }
+  ],
+  "toss_win_pct": 52.4
+}

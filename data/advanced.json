@@ -1,0 +1,996 @@
+{
+  "impact_scores": [
+    {
+      "player": "Shubman Gill",
+      "runs": 3866,
+      "avg": 38.9,
+      "sr": 137.6,
+      "innings": 8,
+      "sixes": 119,
+      "impact_score": 664.9
+    },
+    {
+      "player": "Virat Kohli",
+      "runs": 8661,
+      "avg": 39.7,
+      "sr": 129.9,
+      "innings": 18,
+      "sixes": 291,
+      "impact_score": 624.8
+    },
+    {
+      "player": "Jos Buttler",
+      "runs": 4120,
+      "avg": 39.8,
+      "sr": 148.9,
+      "innings": 10,
+      "sixes": 185,
+      "impact_score": 613.3
+    },
+    {
+      "player": "Rishabh Pant",
+      "runs": 3553,
+      "avg": 33.7,
+      "sr": 146.1,
+      "innings": 9,
+      "sixes": 170,
+      "impact_score": 576.8
+    },
+    {
+      "player": "KL Rahul",
+      "runs": 5222,
+      "avg": 42.3,
+      "sr": 131.8,
+      "innings": 12,
+      "sixes": 208,
+      "impact_score": 573.6
+    },
+    {
+      "player": "Ruturaj Gaikwad",
+      "runs": 2502,
+      "avg": 40.4,
+      "sr": 137.1,
+      "innings": 6,
+      "sixes": 95,
+      "impact_score": 571.8
+    },
+    {
+      "player": "Nicholas Pooran",
+      "runs": 2293,
+      "avg": 35.0,
+      "sr": 161.5,
+      "innings": 7,
+      "sixes": 167,
+      "impact_score": 528.9
+    },
+    {
+      "player": "Rohit Sharma",
+      "runs": 7046,
+      "avg": 30.0,
+      "sr": 132.1,
+      "innings": 18,
+      "sixes": 302,
+      "impact_score": 517.1
+    },
+    {
+      "player": "Yashasvi Jaiswal",
+      "runs": 2166,
+      "avg": 31.0,
+      "sr": 141.9,
+      "innings": 6,
+      "sixes": 92,
+      "impact_score": 512.2
+    },
+    {
+      "player": "Sanju Samson",
+      "runs": 4704,
+      "avg": 31.1,
+      "sr": 138.1,
+      "innings": 13,
+      "sixes": 219,
+      "impact_score": 499.6
+    },
+    {
+      "player": "Surya Kumar Yadav",
+      "runs": 5028,
+      "avg": 34.1,
+      "sr": 136.3,
+      "innings": 14,
+      "sixes": 206,
+      "impact_score": 489.6
+    },
+    {
+      "player": "Shreyas Iyer",
+      "runs": 3731,
+      "avg": 33.1,
+      "sr": 127.2,
+      "innings": 10,
+      "sixes": 152,
+      "impact_score": 474.5
+    },
+    {
+      "player": "Heinrich Klaasen",
+      "runs": 1480,
+      "avg": 31.5,
+      "sr": 146.4,
+      "innings": 5,
+      "sixes": 89,
+      "impact_score": 433.4
+    },
+    {
+      "player": "MS Dhoni",
+      "runs": 5439,
+      "avg": 41.1,
+      "sr": 141.1,
+      "innings": 18,
+      "sixes": 264,
+      "impact_score": 426.2
+    },
+    {
+      "player": "Venkatesh Iyer",
+      "runs": 1468,
+      "avg": 30.6,
+      "sr": 136.0,
+      "innings": 5,
+      "sixes": 65,
+      "impact_score": 399.3
+    },
+    {
+      "player": "Prithvi Shaw",
+      "runs": 1892,
+      "avg": 23.6,
+      "sr": 146.3,
+      "innings": 7,
+      "sixes": 61,
+      "impact_score": 395.3
+    },
+    {
+      "player": "Nitish Rana",
+      "runs": 2853,
+      "avg": 28.0,
+      "sr": 137.3,
+      "innings": 10,
+      "sixes": 141,
+      "impact_score": 391.7
+    },
+    {
+      "player": "Aiden Markram",
+      "runs": 1440,
+      "avg": 31.6,
+      "sr": 132.1,
+      "innings": 5,
+      "sixes": 57,
+      "impact_score": 380.6
+    },
+    {
+      "player": "Shivam Dube",
+      "runs": 1859,
+      "avg": 28.0,
+      "sr": 138.9,
+      "innings": 7,
+      "sixes": 122,
+      "impact_score": 368.9
+    },
+    {
+      "player": "Devdutt Padikkal",
+      "runs": 1806,
+      "avg": 24.0,
+      "sr": 121.0,
+      "innings": 6,
+      "sixes": 56,
+      "impact_score": 364.1
+    },
+    {
+      "player": "Hardik Pandya",
+      "runs": 2749,
+      "avg": 27.8,
+      "sr": 145.3,
+      "innings": 11,
+      "sixes": 148,
+      "impact_score": 363.1
+    },
+    {
+      "player": "Quinton de Kock",
+      "runs": 3309,
+      "avg": 28.7,
+      "sr": 126.6,
+      "innings": 12,
+      "sixes": 134,
+      "impact_score": 349.1
+    },
+    {
+      "player": "Ajinkya Rahane",
+      "runs": 5032,
+      "avg": 26.9,
+      "sr": 117.7,
+      "innings": 17,
+      "sixes": 123,
+      "impact_score": 348.3
+    },
+    {
+      "player": "Abhishek Sharma",
+      "runs": 1816,
+      "avg": 26.9,
+      "sr": 152.9,
+      "innings": 8,
+      "sixes": 101,
+      "impact_score": 347.0
+    },
+    {
+      "player": "Rahul Tripathi",
+      "runs": 2291,
+      "avg": 25.2,
+      "sr": 132.8,
+      "innings": 9,
+      "sixes": 85,
+      "impact_score": 338.0
+    },
+    {
+      "player": "Ishan Kishan",
+      "runs": 2998,
+      "avg": 25.5,
+      "sr": 121.0,
+      "innings": 11,
+      "sixes": 134,
+      "impact_score": 329.9
+    },
+    {
+      "player": "Shimron Hetmyer",
+      "runs": 1483,
+      "avg": 28.9,
+      "sr": 150.7,
+      "innings": 7,
+      "sixes": 93,
+      "impact_score": 319.3
+    },
+    {
+      "player": "Riyan Parag",
+      "runs": 1566,
+      "avg": 24.3,
+      "sr": 131.9,
+      "innings": 7,
+      "sixes": 87,
+      "impact_score": 295.1
+    },
+    {
+      "player": "Marcus Stoinis",
+      "runs": 2026,
+      "avg": 27.7,
+      "sr": 137.4,
+      "innings": 10,
+      "sixes": 106,
+      "impact_score": 278.5
+    },
+    {
+      "player": "David Miller",
+      "runs": 3077,
+      "avg": 33.4,
+      "sr": 123.4,
+      "innings": 14,
+      "sixes": 138,
+      "impact_score": 271.2
+    }
+  ],
+  "heatmap": {
+    "players": [
+      "Shubman Gill",
+      "Virat Kohli",
+      "Jos Buttler",
+      "Rishabh Pant",
+      "KL Rahul",
+      "Ruturaj Gaikwad",
+      "Nicholas Pooran",
+      "Rohit Sharma",
+      "Yashasvi Jaiswal",
+      "Sanju Samson"
+    ],
+    "seasons": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "matrix": {
+      "Shubman Gill": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 0,
+        "2017": 0,
+        "2018": 203,
+        "2019": 296,
+        "2020": 440,
+        "2021": 478,
+        "2022": 483,
+        "2023": 890,
+        "2024": 426,
+        "2025": 650
+      },
+      "Virat Kohli": {
+        "2008": 165,
+        "2009": 246,
+        "2010": 307,
+        "2011": 557,
+        "2012": 364,
+        "2013": 634,
+        "2014": 359,
+        "2015": 505,
+        "2016": 973,
+        "2017": 308,
+        "2018": 530,
+        "2019": 464,
+        "2020": 466,
+        "2021": 405,
+        "2022": 341,
+        "2023": 639,
+        "2024": 741,
+        "2025": 657
+      },
+      "Jos Buttler": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 255,
+        "2017": 272,
+        "2018": 548,
+        "2019": 311,
+        "2020": 328,
+        "2021": 254,
+        "2022": 863,
+        "2023": 392,
+        "2024": 359,
+        "2025": 538
+      },
+      "Rishabh Pant": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 198,
+        "2017": 366,
+        "2018": 684,
+        "2019": 488,
+        "2020": 343,
+        "2021": 419,
+        "2022": 340,
+        "2023": 0,
+        "2024": 446,
+        "2025": 269
+      },
+      "KL Rahul": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 20,
+        "2014": 166,
+        "2015": 142,
+        "2016": 397,
+        "2017": 0,
+        "2018": 659,
+        "2019": 593,
+        "2020": 670,
+        "2021": 626,
+        "2022": 616,
+        "2023": 274,
+        "2024": 520,
+        "2025": 539
+      },
+      "Ruturaj Gaikwad": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 0,
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 204,
+        "2021": 635,
+        "2022": 368,
+        "2023": 590,
+        "2024": 583,
+        "2025": 122
+      },
+      "Nicholas Pooran": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 0,
+        "2017": 0,
+        "2018": 0,
+        "2019": 168,
+        "2020": 353,
+        "2021": 85,
+        "2022": 306,
+        "2023": 358,
+        "2024": 499,
+        "2025": 524
+      },
+      "Rohit Sharma": {
+        "2008": 404,
+        "2009": 362,
+        "2010": 404,
+        "2011": 372,
+        "2012": 433,
+        "2013": 538,
+        "2014": 390,
+        "2015": 482,
+        "2016": 489,
+        "2017": 333,
+        "2018": 286,
+        "2019": 405,
+        "2020": 332,
+        "2021": 381,
+        "2022": 268,
+        "2023": 332,
+        "2024": 417,
+        "2025": 418
+      },
+      "Yashasvi Jaiswal": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 0,
+        "2014": 0,
+        "2015": 0,
+        "2016": 0,
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 40,
+        "2021": 249,
+        "2022": 258,
+        "2023": 625,
+        "2024": 435,
+        "2025": 559
+      },
+      "Sanju Samson": {
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 206,
+        "2014": 339,
+        "2015": 204,
+        "2016": 291,
+        "2017": 386,
+        "2018": 441,
+        "2019": 342,
+        "2020": 375,
+        "2021": 484,
+        "2022": 458,
+        "2023": 362,
+        "2024": 531,
+        "2025": 285
+      }
+    }
+  },
+  "phase_analysis": [
+    {
+      "phase": "Powerplay (1-6)",
+      "avg_rr": 8.1,
+      "wickets_pct": 22,
+      "boundary_pct": 52,
+      "dot_pct": 28
+    },
+    {
+      "phase": "Middle (7-15)",
+      "avg_rr": 7.8,
+      "wickets_pct": 41,
+      "boundary_pct": 38,
+      "dot_pct": 35
+    },
+    {
+      "phase": "Death (16-20)",
+      "avg_rr": 10.2,
+      "wickets_pct": 37,
+      "boundary_pct": 62,
+      "dot_pct": 22
+    }
+  ],
+  "toss_analysis": {
+    "overall_win_pct": 52.4,
+    "bat_first_after_toss": 58.3,
+    "field_first_after_toss": 41.7,
+    "toss_bat_win_pct": 51.2,
+    "toss_field_win_pct": 53.8,
+    "by_venue": [
+      {
+        "venue": "Wankhede",
+        "toss_win_pct": 54,
+        "prefer_bat": 62
+      },
+      {
+        "venue": "Chinnaswamy",
+        "toss_win_pct": 57,
+        "prefer_bat": 71
+      },
+      {
+        "venue": "Eden Gardens",
+        "toss_win_pct": 51,
+        "prefer_bat": 55
+      },
+      {
+        "venue": "Chepauk",
+        "toss_win_pct": 53,
+        "prefer_bat": 42
+      },
+      {
+        "venue": "Arun Jaitley",
+        "toss_win_pct": 52,
+        "prefer_bat": 58
+      }
+    ]
+  },
+  "moneyball_batting": [
+    {
+      "player": "Ajinkya Rahane",
+      "runs": 5032,
+      "price_cr": 1.5,
+      "runs_per_cr": 3354.7,
+      "sr": 117.7,
+      "avg": 26.9,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Manish Pandey",
+      "runs": 3942,
+      "price_cr": 1.5,
+      "runs_per_cr": 2628.0,
+      "sr": 117.8,
+      "avg": 32.2,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Shreyas Iyer",
+      "runs": 3731,
+      "price_cr": 1.5,
+      "runs_per_cr": 2487.3,
+      "sr": 127.2,
+      "avg": 33.1,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Quinton de Kock",
+      "runs": 3309,
+      "price_cr": 1.5,
+      "runs_per_cr": 2206.0,
+      "sr": 126.6,
+      "avg": 28.7,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "David Miller",
+      "runs": 3077,
+      "price_cr": 1.5,
+      "runs_per_cr": 2051.3,
+      "sr": 123.4,
+      "avg": 33.4,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Ishan Kishan",
+      "runs": 2998,
+      "price_cr": 1.5,
+      "runs_per_cr": 1998.7,
+      "sr": 121.0,
+      "avg": 25.5,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Nitish Rana",
+      "runs": 2853,
+      "price_cr": 1.5,
+      "runs_per_cr": 1902.0,
+      "sr": 137.3,
+      "avg": 28.0,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Nicholas Pooran",
+      "runs": 2293,
+      "price_cr": 1.5,
+      "runs_per_cr": 1528.7,
+      "sr": 161.5,
+      "avg": 35.0,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Rahul Tripathi",
+      "runs": 2291,
+      "price_cr": 1.5,
+      "runs_per_cr": 1527.3,
+      "sr": 132.8,
+      "avg": 25.2,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Marcus Stoinis",
+      "runs": 2026,
+      "price_cr": 1.5,
+      "runs_per_cr": 1350.7,
+      "sr": 137.4,
+      "avg": 27.7,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Prithvi Shaw",
+      "runs": 1892,
+      "price_cr": 1.5,
+      "runs_per_cr": 1261.3,
+      "sr": 146.3,
+      "avg": 23.6,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Shivam Dube",
+      "runs": 1859,
+      "price_cr": 1.5,
+      "runs_per_cr": 1239.3,
+      "sr": 138.9,
+      "avg": 28.0,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Abhishek Sharma",
+      "runs": 1816,
+      "price_cr": 1.5,
+      "runs_per_cr": 1210.7,
+      "sr": 152.9,
+      "avg": 26.9,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Devdutt Padikkal",
+      "runs": 1806,
+      "price_cr": 1.5,
+      "runs_per_cr": 1204.0,
+      "sr": 121.0,
+      "avg": 24.0,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Krunal Pandya",
+      "runs": 1756,
+      "price_cr": 1.5,
+      "runs_per_cr": 1170.7,
+      "sr": 132.2,
+      "avg": 23.7,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Karun Nair",
+      "runs": 1694,
+      "price_cr": 1.5,
+      "runs_per_cr": 1129.3,
+      "sr": 118.1,
+      "avg": 18.2,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Riyan Parag",
+      "runs": 1566,
+      "price_cr": 1.5,
+      "runs_per_cr": 1044.0,
+      "sr": 131.9,
+      "avg": 24.3,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Shimron Hetmyer",
+      "runs": 1483,
+      "price_cr": 1.5,
+      "runs_per_cr": 988.7,
+      "sr": 150.7,
+      "avg": 28.9,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Heinrich Klaasen",
+      "runs": 1480,
+      "price_cr": 1.5,
+      "runs_per_cr": 986.7,
+      "sr": 146.4,
+      "avg": 31.5,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Venkatesh Iyer",
+      "runs": 1468,
+      "price_cr": 1.5,
+      "runs_per_cr": 978.7,
+      "sr": 136.0,
+      "avg": 30.6,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Aiden Markram",
+      "runs": 1440,
+      "price_cr": 1.5,
+      "runs_per_cr": 960.0,
+      "sr": 132.1,
+      "avg": 31.6,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Sunil Narine",
+      "runs": 1780,
+      "price_cr": 2,
+      "runs_per_cr": 890.0,
+      "sr": 127.2,
+      "avg": 12.5,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Prabhsimran Singh",
+      "runs": 1305,
+      "price_cr": 1.5,
+      "runs_per_cr": 870.0,
+      "sr": 124.5,
+      "avg": 18.4,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Mitchell Marsh",
+      "runs": 1293,
+      "price_cr": 1.5,
+      "runs_per_cr": 862.0,
+      "sr": 108.9,
+      "avg": 19.5,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Rahul Tewatia",
+      "runs": 1112,
+      "price_cr": 1.5,
+      "runs_per_cr": 741.3,
+      "sr": 126.3,
+      "avg": 20.7,
+      "value_tier": "Elite Value"
+    }
+  ],
+  "moneyball_bowling": [
+    {
+      "player": "Sandeep Sharma",
+      "wickets": 146,
+      "price_cr": 1.5,
+      "wkts_per_cr": 97.3,
+      "economy": 8.06,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Sunil Narine",
+      "wickets": 192,
+      "price_cr": 2,
+      "wkts_per_cr": 96.0,
+      "economy": 6.9,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Mohammad Shami",
+      "wickets": 133,
+      "price_cr": 1.5,
+      "wkts_per_cr": 88.7,
+      "economy": 8.95,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Jaydev Unadkat",
+      "wickets": 110,
+      "price_cr": 1.5,
+      "wkts_per_cr": 73.3,
+      "economy": 9.57,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Mohammed Siraj",
+      "wickets": 109,
+      "price_cr": 1.5,
+      "wkts_per_cr": 72.7,
+      "economy": 8.8,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Shardul Thakur",
+      "wickets": 107,
+      "price_cr": 1.5,
+      "wkts_per_cr": 71.3,
+      "economy": 9.79,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Kuldeep Yadav",
+      "wickets": 102,
+      "price_cr": 1.5,
+      "wkts_per_cr": 68.0,
+      "economy": 8.07,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Varun Chakaravarthy",
+      "wickets": 100,
+      "price_cr": 1.5,
+      "wkts_per_cr": 66.7,
+      "economy": 8.21,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Ishant Sharma",
+      "wickets": 97,
+      "price_cr": 1.5,
+      "wkts_per_cr": 64.7,
+      "economy": 8.85,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Arshdeep Singh",
+      "wickets": 97,
+      "price_cr": 1.5,
+      "wkts_per_cr": 64.7,
+      "economy": 9.18,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Krunal Pandya",
+      "wickets": 93,
+      "price_cr": 1.5,
+      "wkts_per_cr": 62.0,
+      "economy": 7.47,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Khaleel Ahmed",
+      "wickets": 89,
+      "price_cr": 1.5,
+      "wkts_per_cr": 59.3,
+      "economy": 9.34,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Deepak Chahar",
+      "wickets": 88,
+      "price_cr": 1.5,
+      "wkts_per_cr": 58.7,
+      "economy": 8.44,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Avesh Khan",
+      "wickets": 87,
+      "price_cr": 1.5,
+      "wkts_per_cr": 58.0,
+      "economy": 9.19,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Pat Cummins",
+      "wickets": 79,
+      "price_cr": 1.5,
+      "wkts_per_cr": 52.7,
+      "economy": 8.84,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Rahul Chahar",
+      "wickets": 75,
+      "price_cr": 1.5,
+      "wkts_per_cr": 50.0,
+      "economy": 7.98,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Prasidh Krishna",
+      "wickets": 74,
+      "price_cr": 1.5,
+      "wkts_per_cr": 49.3,
+      "economy": 8.94,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Ravi Bishnoi",
+      "wickets": 72,
+      "price_cr": 1.5,
+      "wkts_per_cr": 48.0,
+      "economy": 8.25,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "T. Natarajan",
+      "wickets": 67,
+      "price_cr": 1.5,
+      "wkts_per_cr": 44.7,
+      "economy": 9.95,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Mitchell Starc",
+      "wickets": 65,
+      "price_cr": 1.5,
+      "wkts_per_cr": 43.3,
+      "economy": 8.76,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Anrich Nortje",
+      "wickets": 61,
+      "price_cr": 1.5,
+      "wkts_per_cr": 40.7,
+      "economy": 9.76,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Jofra Archer",
+      "wickets": 59,
+      "price_cr": 1.5,
+      "wkts_per_cr": 39.3,
+      "economy": 8.13,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Sam Curran",
+      "wickets": 59,
+      "price_cr": 1.5,
+      "wkts_per_cr": 39.3,
+      "economy": 9.89,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Josh Hazlewood",
+      "wickets": 57,
+      "price_cr": 1.5,
+      "wkts_per_cr": 38.0,
+      "economy": 8.02,
+      "value_tier": "Elite Value"
+    },
+    {
+      "player": "Trent Boult",
+      "wickets": 143,
+      "price_cr": 4,
+      "wkts_per_cr": 35.8,
+      "economy": 8.54,
+      "value_tier": "Elite Value"
+    }
+  ]
+}
