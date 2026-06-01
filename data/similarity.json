@@ -1,0 +1,552 @@
+{
+  "V Kohli": [
+    [
+      "DA Warner",
+      0.654
+    ],
+    [
+      "RG Sharma",
+      0.651
+    ],
+    [
+      "MS Dhoni",
+      0.566
+    ],
+    [
+      "AB de Villiers",
+      0.488
+    ],
+    [
+      "KL Rahul",
+      0.487
+    ]
+  ],
+  "RG Sharma": [
+    [
+      "MS Dhoni",
+      0.656
+    ],
+    [
+      "V Kohli",
+      0.651
+    ],
+    [
+      "SK Raina",
+      0.627
+    ],
+    [
+      "SV Samson",
+      0.627
+    ],
+    [
+      "DA Warner",
+      0.622
+    ]
+  ],
+  "S Dhawan": [
+    [
+      "AM Rahane",
+      0.771
+    ],
+    [
+      "SK Raina",
+      0.75
+    ],
+    [
+      "F du Plessis",
+      0.734
+    ],
+    [
+      "RV Uthappa",
+      0.689
+    ],
+    [
+      "DA Warner",
+      0.688
+    ]
+  ],
+  "DA Warner": [
+    [
+      "MS Dhoni",
+      0.831
+    ],
+    [
+      "KL Rahul",
+      0.794
+    ],
+    [
+      "AB de Villiers",
+      0.778
+    ],
+    [
+      "SK Raina",
+      0.736
+    ],
+    [
+      "F du Plessis",
+      0.69
+    ]
+  ],
+  "SK Raina": [
+    [
+      "SV Samson",
+      0.885
+    ],
+    [
+      "F du Plessis",
+      0.857
+    ],
+    [
+      "RV Uthappa",
+      0.825
+    ],
+    [
+      "SR Watson",
+      0.795
+    ],
+    [
+      "KD Karthik",
+      0.783
+    ]
+  ],
+  "MS Dhoni": [
+    [
+      "DA Warner",
+      0.831
+    ],
+    [
+      "AB de Villiers",
+      0.825
+    ],
+    [
+      "SV Samson",
+      0.775
+    ],
+    [
+      "SK Raina",
+      0.768
+    ],
+    [
+      "KL Rahul",
+      0.765
+    ]
+  ],
+  "KL Rahul": [
+    [
+      "DA Warner",
+      0.794
+    ],
+    [
+      "MS Dhoni",
+      0.765
+    ],
+    [
+      "JC Buttler",
+      0.759
+    ],
+    [
+      "AB de Villiers",
+      0.748
+    ],
+    [
+      "F du Plessis",
+      0.698
+    ]
+  ],
+  "AM Rahane": [
+    [
+      "MK Pandey",
+      0.83
+    ],
+    [
+      "AT Rayudu",
+      0.826
+    ],
+    [
+      "RV Uthappa",
+      0.821
+    ],
+    [
+      "KD Karthik",
+      0.815
+    ],
+    [
+      "F du Plessis",
+      0.787
+    ]
+  ],
+  "AB de Villiers": [
+    [
+      "MS Dhoni",
+      0.825
+    ],
+    [
+      "JC Buttler",
+      0.795
+    ],
+    [
+      "DA Warner",
+      0.778
+    ],
+    [
+      "KL Rahul",
+      0.748
+    ],
+    [
+      "SV Samson",
+      0.725
+    ]
+  ],
+  "CH Gayle": [
+    [
+      "AB de Villiers",
+      0.696
+    ],
+    [
+      "MS Dhoni",
+      0.692
+    ],
+    [
+      "DA Warner",
+      0.587
+    ],
+    [
+      "RG Sharma",
+      0.554
+    ],
+    [
+      "SV Samson",
+      0.554
+    ]
+  ],
+  "RV Uthappa": [
+    [
+      "KD Karthik",
+      0.912
+    ],
+    [
+      "AT Rayudu",
+      0.912
+    ],
+    [
+      "SK Raina",
+      0.825
+    ],
+    [
+      "AM Rahane",
+      0.821
+    ],
+    [
+      "SR Watson",
+      0.821
+    ]
+  ],
+  "SV Samson": [
+    [
+      "SK Raina",
+      0.885
+    ],
+    [
+      "SR Watson",
+      0.835
+    ],
+    [
+      "F du Plessis",
+      0.807
+    ],
+    [
+      "RV Uthappa",
+      0.799
+    ],
+    [
+      "KA Pollard",
+      0.788
+    ]
+  ],
+  "KD Karthik": [
+    [
+      "RV Uthappa",
+      0.912
+    ],
+    [
+      "AT Rayudu",
+      0.884
+    ],
+    [
+      "AM Rahane",
+      0.815
+    ],
+    [
+      "SR Watson",
+      0.813
+    ],
+    [
+      "SK Raina",
+      0.783
+    ]
+  ],
+  "F du Plessis": [
+    [
+      "SS Iyer",
+      0.897
+    ],
+    [
+      "SK Raina",
+      0.857
+    ],
+    [
+      "SA Yadav",
+      0.842
+    ],
+    [
+      "SR Watson",
+      0.835
+    ],
+    [
+      "RR Pant",
+      0.814
+    ]
+  ],
+  "SA Yadav": [
+    [
+      "RR Pant",
+      0.908
+    ],
+    [
+      "F du Plessis",
+      0.842
+    ],
+    [
+      "SS Iyer",
+      0.834
+    ],
+    [
+      "SR Watson",
+      0.824
+    ],
+    [
+      "JC Buttler",
+      0.817
+    ]
+  ],
+  "AT Rayudu": [
+    [
+      "RV Uthappa",
+      0.912
+    ],
+    [
+      "KD Karthik",
+      0.884
+    ],
+    [
+      "SR Watson",
+      0.832
+    ],
+    [
+      "AM Rahane",
+      0.826
+    ],
+    [
+      "MK Pandey",
+      0.812
+    ]
+  ],
+  "JC Buttler": [
+    [
+      "SA Yadav",
+      0.817
+    ],
+    [
+      "AB de Villiers",
+      0.795
+    ],
+    [
+      "RR Pant",
+      0.793
+    ],
+    [
+      "Shubman Gill",
+      0.775
+    ],
+    [
+      "F du Plessis",
+      0.77
+    ]
+  ],
+  "G Gambhir": [
+    [
+      "MK Pandey",
+      0.822
+    ],
+    [
+      "RA Jadeja",
+      0.773
+    ],
+    [
+      "SPD Smith",
+      0.771
+    ],
+    [
+      "AM Rahane",
+      0.754
+    ],
+    [
+      "M Vijay",
+      0.748
+    ]
+  ],
+  "Shubman Gill": [
+    [
+      "DA Miller",
+      0.838
+    ],
+    [
+      "SS Iyer",
+      0.803
+    ],
+    [
+      "RD Gaikwad",
+      0.796
+    ],
+    [
+      "JC Buttler",
+      0.775
+    ],
+    [
+      "F du Plessis",
+      0.775
+    ]
+  ],
+  "MK Pandey": [
+    [
+      "RA Jadeja",
+      0.871
+    ],
+    [
+      "AM Rahane",
+      0.83
+    ],
+    [
+      "G Gambhir",
+      0.822
+    ],
+    [
+      "BB McCullum",
+      0.816
+    ],
+    [
+      "AT Rayudu",
+      0.812
+    ]
+  ],
+  "SS Iyer": [
+    [
+      "F du Plessis",
+      0.897
+    ],
+    [
+      "DA Miller",
+      0.87
+    ],
+    [
+      "SR Watson",
+      0.867
+    ],
+    [
+      "Q de Kock",
+      0.862
+    ],
+    [
+      "RR Pant",
+      0.862
+    ]
+  ],
+  "SR Watson": [
+    [
+      "SS Iyer",
+      0.867
+    ],
+    [
+      "YK Pathan",
+      0.86
+    ],
+    [
+      "RR Pant",
+      0.856
+    ],
+    [
+      "Ishan Kishan",
+      0.843
+    ],
+    [
+      "Q de Kock",
+      0.842
+    ]
+  ],
+  "RR Pant": [
+    [
+      "SA Yadav",
+      0.908
+    ],
+    [
+      "SS Iyer",
+      0.862
+    ],
+    [
+      "YK Pathan",
+      0.86
+    ],
+    [
+      "SR Watson",
+      0.856
+    ],
+    [
+      "DA Miller",
+      0.846
+    ]
+  ],
+  "Q de Kock": [
+    [
+      "Ishan Kishan",
+      0.917
+    ],
+    [
+      "RA Jadeja",
+      0.87
+    ],
+    [
+      "YK Pathan",
+      0.869
+    ],
+    [
+      "N Rana",
+      0.868
+    ],
+    [
+      "SS Iyer",
+      0.862
+    ]
+  ],
+  "KA Pollard": [
+    [
+      "SR Watson",
+      0.831
+    ],
+    [
+      "YK Pathan",
+      0.817
+    ],
+    [
+      "HH Pandya",
+      0.788
+    ],
+    [
+      "SV Samson",
+      0.788
+    ],
+    [
+      "RR Pant",
+      0.783
+    ]
+  ]
+}

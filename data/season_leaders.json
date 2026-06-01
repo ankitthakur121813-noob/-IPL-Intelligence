@@ -1,0 +1,1049 @@
+{
+  "seasons": [
+    {
+      "season": 2008,
+      "orange_cap": {
+        "player": "SE Marsh",
+        "runs": 614
+      },
+      "purple_cap": {
+        "player": "Sohail Tanvir",
+        "wickets": 24
+      },
+      "top_batsmen": [
+        {
+          "player": "SE Marsh",
+          "runs": 614
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 532
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 508
+        },
+        {
+          "player": "SR Watson",
+          "runs": 467
+        },
+        {
+          "player": "GC Smith",
+          "runs": 437
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "Sohail Tanvir",
+          "wickets": 24
+        },
+        {
+          "player": "IK Pathan",
+          "wickets": 20
+        },
+        {
+          "player": "JA Morkel",
+          "wickets": 20
+        },
+        {
+          "player": "SK Warne",
+          "wickets": 20
+        },
+        {
+          "player": "SR Watson",
+          "wickets": 20
+        }
+      ]
+    },
+    {
+      "season": 2009,
+      "orange_cap": {
+        "player": "ML Hayden",
+        "runs": 571
+      },
+      "purple_cap": {
+        "player": "RP Singh",
+        "wickets": 26
+      },
+      "top_batsmen": [
+        {
+          "player": "ML Hayden",
+          "runs": 571
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 486
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 459
+        },
+        {
+          "player": "SK Raina",
+          "runs": 433
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 414
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "RP Singh",
+          "wickets": 26
+        },
+        {
+          "player": "A Kumble",
+          "wickets": 22
+        },
+        {
+          "player": "A Nehra",
+          "wickets": 22
+        },
+        {
+          "player": "PP Ojha",
+          "wickets": 21
+        },
+        {
+          "player": "SL Malinga",
+          "wickets": 21
+        }
+      ]
+    },
+    {
+      "season": 2010,
+      "orange_cap": {
+        "player": "SR Tendulkar",
+        "runs": 616
+      },
+      "purple_cap": {
+        "player": "PP Ojha",
+        "wickets": 22
+      },
+      "top_batsmen": [
+        {
+          "player": "SR Tendulkar",
+          "runs": 616
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 566
+        },
+        {
+          "player": "SK Raina",
+          "runs": 520
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 493
+        },
+        {
+          "player": "M Vijay",
+          "runs": 458
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "PP Ojha",
+          "wickets": 22
+        },
+        {
+          "player": "A Mishra",
+          "wickets": 20
+        },
+        {
+          "player": "Harbhajan Singh",
+          "wickets": 20
+        },
+        {
+          "player": "A Kumble",
+          "wickets": 19
+        },
+        {
+          "player": "R Vinay Kumar",
+          "wickets": 19
+        }
+      ]
+    },
+    {
+      "season": 2011,
+      "orange_cap": {
+        "player": "CH Gayle",
+        "runs": 602
+      },
+      "purple_cap": {
+        "player": "SL Malinga",
+        "wickets": 30
+      },
+      "top_batsmen": [
+        {
+          "player": "CH Gayle",
+          "runs": 602
+        },
+        {
+          "player": "V Kohli",
+          "runs": 557
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 553
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 500
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 492
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "SL Malinga",
+          "wickets": 30
+        },
+        {
+          "player": "MM Patel",
+          "wickets": 22
+        },
+        {
+          "player": "S Aravind",
+          "wickets": 22
+        },
+        {
+          "player": "R Ashwin",
+          "wickets": 21
+        },
+        {
+          "player": "DE Bollinger",
+          "wickets": 20
+        }
+      ]
+    },
+    {
+      "season": 2012,
+      "orange_cap": {
+        "player": "CH Gayle",
+        "runs": 720
+      },
+      "purple_cap": {
+        "player": "M Morkel",
+        "wickets": 30
+      },
+      "top_batsmen": [
+        {
+          "player": "CH Gayle",
+          "runs": 720
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 590
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 568
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 560
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 495
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "M Morkel",
+          "wickets": 30
+        },
+        {
+          "player": "SP Narine",
+          "wickets": 29
+        },
+        {
+          "player": "SL Malinga",
+          "wickets": 25
+        },
+        {
+          "player": "UT Yadav",
+          "wickets": 22
+        },
+        {
+          "player": "R Vinay Kumar",
+          "wickets": 21
+        }
+      ]
+    },
+    {
+      "season": 2013,
+      "orange_cap": {
+        "player": "MEK Hussey",
+        "runs": 732
+      },
+      "purple_cap": {
+        "player": "DJ Bravo",
+        "wickets": 34
+      },
+      "top_batsmen": [
+        {
+          "player": "MEK Hussey",
+          "runs": 732
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 701
+        },
+        {
+          "player": "V Kohli",
+          "runs": 636
+        },
+        {
+          "player": "SK Raina",
+          "runs": 546
+        },
+        {
+          "player": "SR Watson",
+          "runs": 542
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "DJ Bravo",
+          "wickets": 34
+        },
+        {
+          "player": "JP Faulkner",
+          "wickets": 33
+        },
+        {
+          "player": "R Vinay Kumar",
+          "wickets": 27
+        },
+        {
+          "player": "SP Narine",
+          "wickets": 26
+        },
+        {
+          "player": "Harbhajan Singh",
+          "wickets": 25
+        }
+      ]
+    },
+    {
+      "season": 2014,
+      "orange_cap": {
+        "player": "RV Uthappa",
+        "runs": 659
+      },
+      "purple_cap": {
+        "player": "MM Sharma",
+        "wickets": 26
+      },
+      "top_batsmen": [
+        {
+          "player": "RV Uthappa",
+          "runs": 659
+        },
+        {
+          "player": "DR Smith",
+          "runs": 565
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 552
+        },
+        {
+          "player": "DA Warner",
+          "runs": 528
+        },
+        {
+          "player": "SK Raina",
+          "runs": 519
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "MM Sharma",
+          "wickets": 26
+        },
+        {
+          "player": "SP Narine",
+          "wickets": 22
+        },
+        {
+          "player": "B Kumar",
+          "wickets": 21
+        },
+        {
+          "player": "RA Jadeja",
+          "wickets": 20
+        },
+        {
+          "player": "AR Patel",
+          "wickets": 19
+        }
+      ]
+    },
+    {
+      "season": 2015,
+      "orange_cap": {
+        "player": "DA Warner",
+        "runs": 554
+      },
+      "purple_cap": {
+        "player": "DJ Bravo",
+        "wickets": 28
+      },
+      "top_batsmen": [
+        {
+          "player": "DA Warner",
+          "runs": 554
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 540
+        },
+        {
+          "player": "LMP Simmons",
+          "runs": 540
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 511
+        },
+        {
+          "player": "V Kohli",
+          "runs": 505
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "DJ Bravo",
+          "wickets": 28
+        },
+        {
+          "player": "SL Malinga",
+          "wickets": 26
+        },
+        {
+          "player": "A Nehra",
+          "wickets": 25
+        },
+        {
+          "player": "YS Chahal",
+          "wickets": 24
+        },
+        {
+          "player": "MA Starc",
+          "wickets": 22
+        }
+      ]
+    },
+    {
+      "season": 2016,
+      "orange_cap": {
+        "player": "V Kohli",
+        "runs": 966
+      },
+      "purple_cap": {
+        "player": "B Kumar",
+        "wickets": 24
+      },
+      "top_batsmen": [
+        {
+          "player": "V Kohli",
+          "runs": 966
+        },
+        {
+          "player": "DA Warner",
+          "runs": 844
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 682
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 501
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 497
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "B Kumar",
+          "wickets": 24
+        },
+        {
+          "player": "SR Watson",
+          "wickets": 23
+        },
+        {
+          "player": "YS Chahal",
+          "wickets": 22
+        },
+        {
+          "player": "DS Kulkarni",
+          "wickets": 20
+        },
+        {
+          "player": "AD Russell",
+          "wickets": 19
+        }
+      ]
+    },
+    {
+      "season": 2017,
+      "orange_cap": {
+        "player": "DA Warner",
+        "runs": 634
+      },
+      "purple_cap": {
+        "player": "B Kumar",
+        "wickets": 28
+      },
+      "top_batsmen": [
+        {
+          "player": "DA Warner",
+          "runs": 634
+        },
+        {
+          "player": "G Gambhir",
+          "runs": 498
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 478
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 472
+        },
+        {
+          "player": "SK Raina",
+          "runs": 438
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "B Kumar",
+          "wickets": 28
+        },
+        {
+          "player": "JD Unadkat",
+          "wickets": 27
+        },
+        {
+          "player": "JJ Bumrah",
+          "wickets": 23
+        },
+        {
+          "player": "MJ McClenaghan",
+          "wickets": 20
+        },
+        {
+          "player": "Imran Tahir",
+          "wickets": 19
+        }
+      ]
+    },
+    {
+      "season": 2018,
+      "orange_cap": {
+        "player": "KS Williamson",
+        "runs": 735
+      },
+      "purple_cap": {
+        "player": "AJ Tye",
+        "wickets": 28
+      },
+      "top_batsmen": [
+        {
+          "player": "KS Williamson",
+          "runs": 735
+        },
+        {
+          "player": "RR Pant",
+          "runs": 684
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 659
+        },
+        {
+          "player": "AT Rayudu",
+          "runs": 602
+        },
+        {
+          "player": "SR Watson",
+          "runs": 555
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "AJ Tye",
+          "wickets": 28
+        },
+        {
+          "player": "S Kaul",
+          "wickets": 24
+        },
+        {
+          "player": "Rashid Khan",
+          "wickets": 23
+        },
+        {
+          "player": "TA Boult",
+          "wickets": 20
+        },
+        {
+          "player": "UT Yadav",
+          "wickets": 20
+        }
+      ]
+    },
+    {
+      "season": 2019,
+      "orange_cap": {
+        "player": "DA Warner",
+        "runs": 692
+      },
+      "purple_cap": {
+        "player": "K Rabada",
+        "wickets": 29
+      },
+      "top_batsmen": [
+        {
+          "player": "DA Warner",
+          "runs": 692
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 592
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 529
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 520
+        },
+        {
+          "player": "AD Russell",
+          "runs": 508
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "K Rabada",
+          "wickets": 29
+        },
+        {
+          "player": "Imran Tahir",
+          "wickets": 26
+        },
+        {
+          "player": "JJ Bumrah",
+          "wickets": 23
+        },
+        {
+          "player": "DL Chahar",
+          "wickets": 22
+        },
+        {
+          "player": "Mohammed Shami",
+          "wickets": 22
+        }
+      ]
+    },
+    {
+      "season": 2020,
+      "orange_cap": {
+        "player": "KL Rahul",
+        "runs": 676
+      },
+      "purple_cap": {
+        "player": "K Rabada",
+        "wickets": 32
+      },
+      "top_batsmen": [
+        {
+          "player": "KL Rahul",
+          "runs": 676
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 613
+        },
+        {
+          "player": "DA Warner",
+          "runs": 547
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 515
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 514
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "K Rabada",
+          "wickets": 32
+        },
+        {
+          "player": "JJ Bumrah",
+          "wickets": 30
+        },
+        {
+          "player": "TA Boult",
+          "wickets": 26
+        },
+        {
+          "player": "A Nortje",
+          "wickets": 23
+        },
+        {
+          "player": "Mohammed Shami",
+          "wickets": 23
+        }
+      ]
+    },
+    {
+      "season": 2021,
+      "orange_cap": {
+        "player": "F du Plessis",
+        "runs": 632
+      },
+      "purple_cap": {
+        "player": "HV Patel",
+        "wickets": 35
+      },
+      "top_batsmen": [
+        {
+          "player": "F du Plessis",
+          "runs": 632
+        },
+        {
+          "player": "RD Gaikwad",
+          "runs": 632
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 626
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 587
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 513
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "HV Patel",
+          "wickets": 35
+        },
+        {
+          "player": "Avesh Khan",
+          "wickets": 27
+        },
+        {
+          "player": "JJ Bumrah",
+          "wickets": 22
+        },
+        {
+          "player": "SN Thakur",
+          "wickets": 22
+        },
+        {
+          "player": "Arshdeep Singh",
+          "wickets": 20
+        }
+      ]
+    },
+    {
+      "season": 2022,
+      "orange_cap": {
+        "player": "JC Buttler",
+        "runs": 857
+      },
+      "purple_cap": {
+        "player": "YS Chahal",
+        "wickets": 29
+      },
+      "top_batsmen": [
+        {
+          "player": "JC Buttler",
+          "runs": 857
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 615
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 502
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 486
+        },
+        {
+          "player": "DA Miller",
+          "runs": 481
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "YS Chahal",
+          "wickets": 29
+        },
+        {
+          "player": "PWH de Silva",
+          "wickets": 27
+        },
+        {
+          "player": "K Rabada",
+          "wickets": 23
+        },
+        {
+          "player": "Umran Malik",
+          "wickets": 23
+        },
+        {
+          "player": "AD Russell",
+          "wickets": 21
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "orange_cap": {
+        "player": "Shubman Gill",
+        "runs": 885
+      },
+      "purple_cap": {
+        "player": "MM Sharma",
+        "wickets": 31
+      },
+      "top_batsmen": [
+        {
+          "player": "Shubman Gill",
+          "runs": 885
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 728
+        },
+        {
+          "player": "DP Conway",
+          "runs": 671
+        },
+        {
+          "player": "V Kohli",
+          "runs": 639
+        },
+        {
+          "player": "YBK Jaiswal",
+          "runs": 619
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "MM Sharma",
+          "wickets": 31
+        },
+        {
+          "player": "Mohammed Shami",
+          "wickets": 28
+        },
+        {
+          "player": "Rashid Khan",
+          "wickets": 28
+        },
+        {
+          "player": "TU Deshpande",
+          "wickets": 24
+        },
+        {
+          "player": "M Pathirana",
+          "wickets": 23
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "orange_cap": {
+        "player": "V Kohli",
+        "runs": 741
+      },
+      "purple_cap": {
+        "player": "HV Patel",
+        "wickets": 30
+      },
+      "top_batsmen": [
+        {
+          "player": "V Kohli",
+          "runs": 741
+        },
+        {
+          "player": "RD Gaikwad",
+          "runs": 579
+        },
+        {
+          "player": "R Parag",
+          "runs": 573
+        },
+        {
+          "player": "TM Head",
+          "runs": 563
+        },
+        {
+          "player": "SV Samson",
+          "runs": 530
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "HV Patel",
+          "wickets": 30
+        },
+        {
+          "player": "Avesh Khan",
+          "wickets": 22
+        },
+        {
+          "player": "Mukesh Kumar",
+          "wickets": 22
+        },
+        {
+          "player": "CV Varun",
+          "wickets": 21
+        },
+        {
+          "player": "JJ Bumrah",
+          "wickets": 21
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "orange_cap": {
+        "player": "B Sai Sudharsan",
+        "runs": 759
+      },
+      "purple_cap": {
+        "player": "M Prasidh Krishna",
+        "wickets": 26
+      },
+      "top_batsmen": [
+        {
+          "player": "B Sai Sudharsan",
+          "runs": 759
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 717
+        },
+        {
+          "player": "V Kohli",
+          "runs": 657
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 649
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 627
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "M Prasidh Krishna",
+          "wickets": 26
+        },
+        {
+          "player": "Noor Ahmad",
+          "wickets": 24
+        },
+        {
+          "player": "TA Boult",
+          "wickets": 23
+        },
+        {
+          "player": "Arshdeep Singh",
+          "wickets": 22
+        },
+        {
+          "player": "JR Hazlewood",
+          "wickets": 22
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "orange_cap": {
+        "player": "V Kohli",
+        "runs": 228
+      },
+      "purple_cap": {
+        "player": "M Prasidh Krishna",
+        "wickets": 11
+      },
+      "top_batsmen": [
+        {
+          "player": "V Kohli",
+          "runs": 228
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 224
+        },
+        {
+          "player": "RM Patidar",
+          "runs": 222
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 213
+        },
+        {
+          "player": "P Simran Singh",
+          "runs": 211
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player": "M Prasidh Krishna",
+          "wickets": 11
+        },
+        {
+          "player": "A Kamboj",
+          "wickets": 10
+        },
+        {
+          "player": "Prince Yadav",
+          "wickets": 10
+        },
+        {
+          "player": "Ravi Bishnoi",
+          "wickets": 10
+        },
+        {
+          "player": "JC Archer",
+          "wickets": 8
+        }
+      ]
+    }
+  ]
+}

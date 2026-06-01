@@ -1,0 +1,5728 @@
+{
+  "leaderboard": [
+    {
+      "bowler": "YS Chahal",
+      "wickets": 233,
+      "economy": 8.0,
+      "average": 22.14,
+      "strike_rate": 16.61,
+      "four_wkt_hauls": 9,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "B Kumar",
+      "wickets": 220,
+      "economy": 7.72,
+      "average": 25.39,
+      "strike_rate": 19.74,
+      "four_wkt_hauls": 6,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "SP Narine",
+      "wickets": 215,
+      "economy": 6.8,
+      "average": 23.42,
+      "strike_rate": 20.66,
+      "four_wkt_hauls": 9,
+      "five_wkt_hauls": 3
+    },
+    {
+      "bowler": "DJ Bravo",
+      "wickets": 207,
+      "economy": 8.38,
+      "average": 21.06,
+      "strike_rate": 15.07,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Ashwin",
+      "wickets": 205,
+      "economy": 7.2,
+      "average": 27.57,
+      "strike_rate": 22.98,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "JJ Bumrah",
+      "wickets": 204,
+      "economy": 7.3,
+      "average": 20.7,
+      "strike_rate": 17.02,
+      "four_wkt_hauls": 10,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "PP Chawla",
+      "wickets": 201,
+      "economy": 7.96,
+      "average": 25.41,
+      "strike_rate": 19.15,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SL Malinga",
+      "wickets": 188,
+      "economy": 7.14,
+      "average": 17.9,
+      "strike_rate": 15.04,
+      "four_wkt_hauls": 11,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "A Mishra",
+      "wickets": 183,
+      "economy": 7.38,
+      "average": 22.65,
+      "strike_rate": 18.42,
+      "four_wkt_hauls": 6,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "RA Jadeja",
+      "wickets": 182,
+      "economy": 7.68,
+      "average": 28.82,
+      "strike_rate": 22.52,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "HV Patel",
+      "wickets": 168,
+      "economy": 8.92,
+      "average": 21.86,
+      "strike_rate": 14.7,
+      "four_wkt_hauls": 7,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "UT Yadav",
+      "wickets": 163,
+      "economy": 8.51,
+      "average": 26.58,
+      "strike_rate": 18.75,
+      "four_wkt_hauls": 5,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Harbhajan Singh",
+      "wickets": 161,
+      "economy": 7.08,
+      "average": 25.03,
+      "strike_rate": 21.22,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Mohammed Shami",
+      "wickets": 154,
+      "economy": 8.55,
+      "average": 25.24,
+      "strike_rate": 17.71,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TA Boult",
+      "wickets": 152,
+      "economy": 8.48,
+      "average": 25.47,
+      "strike_rate": 18.03,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MM Sharma",
+      "wickets": 149,
+      "economy": 8.77,
+      "average": 23.58,
+      "strike_rate": 16.13,
+      "four_wkt_hauls": 7,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "AR Patel",
+      "wickets": 140,
+      "economy": 7.38,
+      "average": 29.91,
+      "strike_rate": 24.32,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AD Russell",
+      "wickets": 133,
+      "economy": 9.51,
+      "average": 21.53,
+      "strike_rate": 13.58,
+      "four_wkt_hauls": 5,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "K Rabada",
+      "wickets": 132,
+      "economy": 8.7,
+      "average": 21.99,
+      "strike_rate": 15.16,
+      "four_wkt_hauls": 6,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Vinay Kumar",
+      "wickets": 127,
+      "economy": 8.42,
+      "average": 23.51,
+      "strike_rate": 16.75,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "JD Unadkat",
+      "wickets": 125,
+      "economy": 8.94,
+      "average": 28.03,
+      "strike_rate": 18.81,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "SN Thakur",
+      "wickets": 121,
+      "economy": 9.57,
+      "average": 28.38,
+      "strike_rate": 17.8,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Nehra",
+      "wickets": 121,
+      "economy": 7.85,
+      "average": 20.62,
+      "strike_rate": 15.77,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Z Khan",
+      "wickets": 119,
+      "economy": 7.59,
+      "average": 23.38,
+      "strike_rate": 18.49,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SR Watson",
+      "wickets": 107,
+      "economy": 7.93,
+      "average": 25.07,
+      "strike_rate": 18.96,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CH Morris",
+      "wickets": 107,
+      "economy": 8.03,
+      "average": 21.58,
+      "strike_rate": 16.13,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "DW Steyn",
+      "wickets": 105,
+      "economy": 6.94,
+      "average": 24.03,
+      "strike_rate": 20.78,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KH Pandya",
+      "wickets": 104,
+      "economy": 7.54,
+      "average": 30.2,
+      "strike_rate": 24.04,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Kumar",
+      "wickets": 102,
+      "economy": 7.73,
+      "average": 31.87,
+      "strike_rate": 24.75,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CV Varun",
+      "wickets": 102,
+      "economy": 7.69,
+      "average": 24.41,
+      "strike_rate": 19.04,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "I Sharma",
+      "wickets": 100,
+      "economy": 8.38,
+      "average": 33.77,
+      "strike_rate": 24.19,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "RP Singh",
+      "wickets": 100,
+      "economy": 7.9,
+      "average": 23.38,
+      "strike_rate": 17.75,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "PP Ojha",
+      "wickets": 99,
+      "economy": 7.37,
+      "average": 23.56,
+      "strike_rate": 19.18,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "IK Pathan",
+      "wickets": 99,
+      "economy": 7.78,
+      "average": 26.76,
+      "strike_rate": 20.64,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KK Ahmed",
+      "wickets": 96,
+      "economy": 8.96,
+      "average": 25.77,
+      "strike_rate": 17.26,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JA Morkel",
+      "wickets": 96,
+      "economy": 8.21,
+      "average": 24.57,
+      "strike_rate": 17.95,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DL Chahar",
+      "wickets": 92,
+      "economy": 8.24,
+      "average": 29.17,
+      "strike_rate": 21.24,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "M Prasidh Krishna",
+      "wickets": 91,
+      "economy": 8.82,
+      "average": 25.86,
+      "strike_rate": 17.59,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "DS Kulkarni",
+      "wickets": 91,
+      "economy": 8.31,
+      "average": 27.19,
+      "strike_rate": 19.64,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KV Sharma",
+      "wickets": 89,
+      "economy": 8.38,
+      "average": 24.89,
+      "strike_rate": 17.81,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "M Morkel",
+      "wickets": 88,
+      "economy": 7.69,
+      "average": 23.74,
+      "strike_rate": 18.51,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Imran Tahir",
+      "wickets": 86,
+      "economy": 7.76,
+      "average": 19.8,
+      "strike_rate": 15.3,
+      "four_wkt_hauls": 5,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "HH Pandya",
+      "wickets": 86,
+      "economy": 9.27,
+      "average": 30.53,
+      "strike_rate": 19.77,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "L Balaji",
+      "wickets": 85,
+      "economy": 8.05,
+      "average": 23.86,
+      "strike_rate": 17.79,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "R Bhatia",
+      "wickets": 82,
+      "economy": 7.41,
+      "average": 24.63,
+      "strike_rate": 19.95,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PJ Cummins",
+      "wickets": 82,
+      "economy": 8.81,
+      "average": 28.94,
+      "strike_rate": 19.72,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MM Patel",
+      "wickets": 82,
+      "economy": 7.52,
+      "average": 20.71,
+      "strike_rate": 16.52,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "AB Dinda",
+      "wickets": 82,
+      "economy": 8.2,
+      "average": 25.28,
+      "strike_rate": 18.49,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KA Pollard",
+      "wickets": 81,
+      "economy": 8.79,
+      "average": 26.91,
+      "strike_rate": 18.37,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MA Starc",
+      "wickets": 78,
+      "economy": 8.67,
+      "average": 19.71,
+      "strike_rate": 13.64,
+      "four_wkt_hauls": 5,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "RD Chahar",
+      "wickets": 76,
+      "economy": 7.78,
+      "average": 28.89,
+      "strike_rate": 22.29,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JP Faulkner",
+      "wickets": 76,
+      "economy": 8.72,
+      "average": 23.67,
+      "strike_rate": 16.29,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "MJ McClenaghan",
+      "wickets": 75,
+      "economy": 8.49,
+      "average": 24.04,
+      "strike_rate": 16.99,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mustafizur Rahman",
+      "wickets": 74,
+      "economy": 8.13,
+      "average": 24.99,
+      "strike_rate": 18.43,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JH Kallis",
+      "wickets": 74,
+      "economy": 7.9,
+      "average": 30.99,
+      "strike_rate": 23.54,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SK Trivedi",
+      "wickets": 73,
+      "economy": 7.59,
+      "average": 26.08,
+      "strike_rate": 20.63,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shakib Al Hasan",
+      "wickets": 71,
+      "economy": 7.44,
+      "average": 25.9,
+      "strike_rate": 20.9,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JC Archer",
+      "wickets": 69,
+      "economy": 7.94,
+      "average": 25.3,
+      "strike_rate": 19.13,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Muralitharan",
+      "wickets": 67,
+      "economy": 6.7,
+      "average": 25.46,
+      "strike_rate": 22.81,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MG Johnson",
+      "wickets": 66,
+      "economy": 8.3,
+      "average": 25.88,
+      "strike_rate": 18.71,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SM Curran",
+      "wickets": 63,
+      "economy": 9.74,
+      "average": 32.27,
+      "strike_rate": 19.89,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LH Ferguson",
+      "wickets": 63,
+      "economy": 8.96,
+      "average": 24.32,
+      "strike_rate": 16.29,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Nortje",
+      "wickets": 63,
+      "economy": 9.09,
+      "average": 26.92,
+      "strike_rate": 17.78,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Kaul",
+      "wickets": 63,
+      "economy": 8.63,
+      "average": 27.6,
+      "strike_rate": 19.19,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JR Hazlewood",
+      "wickets": 61,
+      "economy": 8.26,
+      "average": 20.66,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SK Warne",
+      "wickets": 60,
+      "economy": 7.27,
+      "average": 24.12,
+      "strike_rate": 19.9,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TU Deshpande",
+      "wickets": 59,
+      "economy": 9.96,
+      "average": 28.66,
+      "strike_rate": 17.27,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JO Holder",
+      "wickets": 59,
+      "economy": 8.81,
+      "average": 24.76,
+      "strike_rate": 16.86,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TG Southee",
+      "wickets": 57,
+      "economy": 8.67,
+      "average": 30.56,
+      "strike_rate": 21.16,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "S Nadeem",
+      "wickets": 54,
+      "economy": 7.56,
+      "average": 33.04,
+      "strike_rate": 26.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Pathirana",
+      "wickets": 53,
+      "economy": 8.68,
+      "average": 19.17,
+      "strike_rate": 13.25,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Gopal",
+      "wickets": 53,
+      "economy": 8.17,
+      "average": 25.45,
+      "strike_rate": 18.7,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NM Coulter-Nile",
+      "wickets": 52,
+      "economy": 7.7,
+      "average": 21.15,
+      "strike_rate": 16.48,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SB Jakati",
+      "wickets": 50,
+      "economy": 8.02,
+      "average": 29.02,
+      "strike_rate": 21.7,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Kumble",
+      "wickets": 49,
+      "economy": 6.58,
+      "average": 21.59,
+      "strike_rate": 19.69,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "S Aravind",
+      "wickets": 48,
+      "economy": 8.2,
+      "average": 21.65,
+      "strike_rate": 15.83,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AJ Tye",
+      "wickets": 48,
+      "economy": 8.59,
+      "average": 20.4,
+      "strike_rate": 14.25,
+      "four_wkt_hauls": 4,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "RJ Harris",
+      "wickets": 47,
+      "economy": 7.55,
+      "average": 22.28,
+      "strike_rate": 17.7,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PWH de Silva",
+      "wickets": 47,
+      "economy": 8.41,
+      "average": 23.81,
+      "strike_rate": 16.98,
+      "four_wkt_hauls": 3,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "MM Ali",
+      "wickets": 46,
+      "economy": 7.23,
+      "average": 22.37,
+      "strike_rate": 18.57,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "YK Pathan",
+      "wickets": 46,
+      "economy": 7.4,
+      "average": 30.76,
+      "strike_rate": 24.93,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MC Henriques",
+      "wickets": 46,
+      "economy": 8.14,
+      "average": 28.02,
+      "strike_rate": 20.65,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MP Stoinis",
+      "wickets": 46,
+      "economy": 9.84,
+      "average": 31.87,
+      "strike_rate": 19.43,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VR Aaron",
+      "wickets": 46,
+      "economy": 8.94,
+      "average": 32.2,
+      "strike_rate": 21.61,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yash Dayal",
+      "wickets": 45,
+      "economy": 9.58,
+      "average": 30.89,
+      "strike_rate": 19.36,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VG Arora",
+      "wickets": 45,
+      "economy": 9.87,
+      "average": 26.84,
+      "strike_rate": 16.31,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Iqbal Abdulla",
+      "wickets": 45,
+      "economy": 7.23,
+      "average": 24.64,
+      "strike_rate": 20.44,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GJ Maxwell",
+      "wickets": 45,
+      "economy": 8.3,
+      "average": 31.4,
+      "strike_rate": 22.71,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PJ Sangwan",
+      "wickets": 44,
+      "economy": 8.69,
+      "average": 28.18,
+      "strike_rate": 19.45,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Sreesanth",
+      "wickets": 43,
+      "economy": 8.14,
+      "average": 27.77,
+      "strike_rate": 20.47,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DE Bollinger",
+      "wickets": 43,
+      "economy": 7.22,
+      "average": 16.12,
+      "strike_rate": 13.4,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Awana",
+      "wickets": 43,
+      "economy": 8.27,
+      "average": 23.93,
+      "strike_rate": 17.37,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Sharma",
+      "wickets": 42,
+      "economy": 7.02,
+      "average": 25.86,
+      "strike_rate": 22.1,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Harshit Rana",
+      "wickets": 42,
+      "economy": 9.51,
+      "average": 24.5,
+      "strike_rate": 15.45,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Jansen",
+      "wickets": 41,
+      "economy": 9.28,
+      "average": 31.27,
+      "strike_rate": 20.22,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "WD Parnell",
+      "wickets": 40,
+      "economy": 7.78,
+      "average": 23.42,
+      "strike_rate": 18.08,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DT Christian",
+      "wickets": 40,
+      "economy": 8.1,
+      "average": 29.8,
+      "strike_rate": 22.08,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MS Gony",
+      "wickets": 39,
+      "economy": 8.7,
+      "average": 33.0,
+      "strike_rate": 22.77,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Kartik",
+      "wickets": 39,
+      "economy": 7.25,
+      "average": 35.59,
+      "strike_rate": 29.46,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yuvraj Singh",
+      "wickets": 39,
+      "economy": 7.44,
+      "average": 27.62,
+      "strike_rate": 22.28,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Negi",
+      "wickets": 38,
+      "economy": 7.87,
+      "average": 24.71,
+      "strike_rate": 18.84,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DP Nannes",
+      "wickets": 38,
+      "economy": 7.29,
+      "average": 20.66,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Markande",
+      "wickets": 37,
+      "economy": 9.16,
+      "average": 30.95,
+      "strike_rate": 20.27,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MR Marsh",
+      "wickets": 37,
+      "economy": 8.52,
+      "average": 21.49,
+      "strike_rate": 15.14,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NLTC Perera",
+      "wickets": 37,
+      "economy": 8.73,
+      "average": 27.46,
+      "strike_rate": 18.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "L Ngidi",
+      "wickets": 37,
+      "economy": 8.43,
+      "average": 17.7,
+      "strike_rate": 12.59,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CJ Jordan",
+      "wickets": 36,
+      "economy": 9.62,
+      "average": 30.03,
+      "strike_rate": 18.72,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Tewatia",
+      "wickets": 36,
+      "economy": 7.91,
+      "average": 30.86,
+      "strike_rate": 23.42,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KK Cooper",
+      "wickets": 36,
+      "economy": 7.89,
+      "average": 21.03,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Theekshana",
+      "wickets": 36,
+      "economy": 8.27,
+      "average": 33.53,
+      "strike_rate": 24.33,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Ashwin",
+      "wickets": 35,
+      "economy": 8.01,
+      "average": 33.2,
+      "strike_rate": 24.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DL Vettori",
+      "wickets": 34,
+      "economy": 6.79,
+      "average": 25.85,
+      "strike_rate": 22.85,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "MF Maharoof",
+      "wickets": 33,
+      "economy": 7.43,
+      "average": 15.76,
+      "strike_rate": 12.73,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shivam Mavi",
+      "wickets": 33,
+      "economy": 8.71,
+      "average": 28.55,
+      "strike_rate": 19.67,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AB Agarkar",
+      "wickets": 33,
+      "economy": 8.83,
+      "average": 34.88,
+      "strike_rate": 23.7,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Zampa",
+      "wickets": 32,
+      "economy": 8.38,
+      "average": 20.38,
+      "strike_rate": 14.59,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "R Sai Kishore",
+      "wickets": 32,
+      "economy": 8.86,
+      "average": 20.34,
+      "strike_rate": 13.78,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CR Woakes",
+      "wickets": 31,
+      "economy": 8.97,
+      "average": 21.23,
+      "strike_rate": 14.19,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Umran Malik",
+      "wickets": 31,
+      "economy": 9.4,
+      "average": 24.9,
+      "strike_rate": 15.9,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 2
+    },
+    {
+      "bowler": "A Singh",
+      "wickets": 31,
+      "economy": 7.86,
+      "average": 20.0,
+      "strike_rate": 15.26,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Azhar Mahmood",
+      "wickets": 31,
+      "economy": 7.82,
+      "average": 22.58,
+      "strike_rate": 17.32,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BA Stokes",
+      "wickets": 31,
+      "economy": 8.64,
+      "average": 32.0,
+      "strike_rate": 22.23,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Harmeet Singh",
+      "wickets": 31,
+      "economy": 7.99,
+      "average": 23.58,
+      "strike_rate": 17.71,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SK Raina",
+      "wickets": 30,
+      "economy": 7.39,
+      "average": 37.27,
+      "strike_rate": 30.27,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Lee",
+      "wickets": 30,
+      "economy": 7.51,
+      "average": 36.5,
+      "strike_rate": 29.17,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Kagiso Rabada",
+      "wickets": 29,
+      "economy": 9.68,
+      "average": 21.58,
+      "strike_rate": 13.37,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "STR Binny",
+      "wickets": 28,
+      "economy": 7.66,
+      "average": 27.07,
+      "strike_rate": 21.21,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MJ Santner",
+      "wickets": 28,
+      "economy": 7.44,
+      "average": 28.57,
+      "strike_rate": 23.04,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AD Mathews",
+      "wickets": 28,
+      "economy": 8.18,
+      "average": 38.54,
+      "strike_rate": 28.25,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PV Tambe",
+      "wickets": 28,
+      "economy": 7.75,
+      "average": 30.46,
+      "strike_rate": 23.57,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Bhuvneshwar Kumar",
+      "wickets": 28,
+      "economy": 7.95,
+      "average": 17.89,
+      "strike_rate": 13.5,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Dhawan",
+      "wickets": 27,
+      "economy": 8.08,
+      "average": 33.0,
+      "strike_rate": 24.52,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Botha",
+      "wickets": 27,
+      "economy": 6.92,
+      "average": 29.63,
+      "strike_rate": 25.7,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DR Smith",
+      "wickets": 27,
+      "economy": 9.02,
+      "average": 30.0,
+      "strike_rate": 19.96,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Vijaykumar Vyshak",
+      "wickets": 27,
+      "economy": 10.47,
+      "average": 26.56,
+      "strike_rate": 15.22,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Basil Thampi",
+      "wickets": 26,
+      "economy": 9.74,
+      "average": 32.54,
+      "strike_rate": 20.04,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Navdeep Saini",
+      "wickets": 26,
+      "economy": 8.8,
+      "average": 37.81,
+      "strike_rate": 25.77,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Akash Madhwal",
+      "wickets": 26,
+      "economy": 10.06,
+      "average": 22.69,
+      "strike_rate": 13.54,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "SW Tait",
+      "wickets": 26,
+      "economy": 8.12,
+      "average": 24.62,
+      "strike_rate": 18.19,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Naveen-ul-Haq",
+      "wickets": 26,
+      "economy": 9.16,
+      "average": 22.73,
+      "strike_rate": 14.88,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GB Hogg",
+      "wickets": 25,
+      "economy": 7.47,
+      "average": 22.8,
+      "strike_rate": 18.32,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RE van der Merwe",
+      "wickets": 25,
+      "economy": 6.74,
+      "average": 19.92,
+      "strike_rate": 17.72,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jofra Archer",
+      "wickets": 25,
+      "economy": 9.31,
+      "average": 22.36,
+      "strike_rate": 14.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AS Rajpoot",
+      "wickets": 24,
+      "economy": 9.23,
+      "average": 33.92,
+      "strike_rate": 22.04,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Sohail Tanvir",
+      "wickets": 24,
+      "economy": 6.46,
+      "average": 11.08,
+      "strike_rate": 10.29,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "JP Duminy",
+      "wickets": 23,
+      "economy": 7.38,
+      "average": 36.26,
+      "strike_rate": 29.48,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Symonds",
+      "wickets": 23,
+      "economy": 7.67,
+      "average": 29.3,
+      "strike_rate": 22.91,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BW Hilfenhaus",
+      "wickets": 23,
+      "economy": 7.73,
+      "average": 20.83,
+      "strike_rate": 16.17,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JP Behrendorff",
+      "wickets": 22,
+      "economy": 9.05,
+      "average": 25.09,
+      "strike_rate": 16.64,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VY Mahesh",
+      "wickets": 22,
+      "economy": 8.83,
+      "average": 22.68,
+      "strike_rate": 15.41,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "WPUJC Vaas",
+      "wickets": 22,
+      "economy": 7.55,
+      "average": 16.14,
+      "strike_rate": 12.82,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Bipul Sharma",
+      "wickets": 22,
+      "economy": 8.06,
+      "average": 26.0,
+      "strike_rate": 19.36,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Gowtham",
+      "wickets": 22,
+      "economy": 8.24,
+      "average": 36.73,
+      "strike_rate": 26.73,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AS Joseph",
+      "wickets": 22,
+      "economy": 9.55,
+      "average": 31.41,
+      "strike_rate": 19.73,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Shahbaz Ahmed",
+      "wickets": 22,
+      "economy": 9.65,
+      "average": 43.41,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Rashid Khan",
+      "wickets": 21,
+      "economy": 9.07,
+      "average": 24.57,
+      "strike_rate": 16.23,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Anureet Singh",
+      "wickets": 21,
+      "economy": 9.07,
+      "average": 29.67,
+      "strike_rate": 19.62,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RP Meredith",
+      "wickets": 21,
+      "economy": 9.46,
+      "average": 29.14,
+      "strike_rate": 18.48,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Green",
+      "wickets": 21,
+      "economy": 9.36,
+      "average": 34.38,
+      "strike_rate": 22.05,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mujeeb Ur Rahman",
+      "wickets": 21,
+      "economy": 8.34,
+      "average": 29.52,
+      "strike_rate": 21.24,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KW Richardson",
+      "wickets": 21,
+      "economy": 8.45,
+      "average": 22.48,
+      "strike_rate": 15.95,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Anshul Kamboj",
+      "wickets": 21,
+      "economy": 10.52,
+      "average": 25.23,
+      "strike_rate": 14.38,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BB Sran",
+      "wickets": 20,
+      "economy": 9.4,
+      "average": 37.85,
+      "strike_rate": 24.15,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Sakariya",
+      "wickets": 20,
+      "economy": 8.62,
+      "average": 31.9,
+      "strike_rate": 22.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "E Malinga",
+      "wickets": 20,
+      "economy": 9.46,
+      "average": 19.7,
+      "strike_rate": 12.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NT Ellis",
+      "wickets": 20,
+      "economy": 8.67,
+      "average": 27.3,
+      "strike_rate": 18.9,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Kamboj",
+      "wickets": 20,
+      "economy": 9.47,
+      "average": 23.75,
+      "strike_rate": 15.05,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Suchith",
+      "wickets": 20,
+      "economy": 8.6,
+      "average": 30.1,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Eshan Malinga",
+      "wickets": 20,
+      "economy": 9.33,
+      "average": 25.35,
+      "strike_rate": 16.3,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohammed Siraj",
+      "wickets": 19,
+      "economy": 9.06,
+      "average": 29.57,
+      "strike_rate": 19.57,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CH Gayle",
+      "wickets": 19,
+      "economy": 7.9,
+      "average": 38.37,
+      "strike_rate": 29.16,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Ashish Reddy",
+      "wickets": 19,
+      "economy": 9.07,
+      "average": 20.84,
+      "strike_rate": 13.79,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AD Mascarenhas",
+      "wickets": 19,
+      "economy": 6.94,
+      "average": 18.74,
+      "strike_rate": 16.21,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "IC Pandey",
+      "wickets": 19,
+      "economy": 7.68,
+      "average": 31.11,
+      "strike_rate": 24.32,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CRD Fernando",
+      "wickets": 19,
+      "economy": 7.64,
+      "average": 15.68,
+      "strike_rate": 12.32,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Rasikh Dar",
+      "wickets": 19,
+      "economy": 9.45,
+      "average": 21.31,
+      "strike_rate": 13.52,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Kartik Tyagi",
+      "wickets": 18,
+      "economy": 9.76,
+      "average": 27.66,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BJ Hodge",
+      "wickets": 18,
+      "economy": 7.77,
+      "average": 16.83,
+      "strike_rate": 13.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "LR Shukla",
+      "wickets": 17,
+      "economy": 8.54,
+      "average": 26.29,
+      "strike_rate": 18.47,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Rampaul",
+      "wickets": 17,
+      "economy": 6.92,
+      "average": 18.18,
+      "strike_rate": 15.76,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DS Rathi",
+      "wickets": 17,
+      "economy": 8.56,
+      "average": 34.24,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Wiese",
+      "wickets": 17,
+      "economy": 8.92,
+      "average": 25.88,
+      "strike_rate": 17.41,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jason Holder",
+      "wickets": 17,
+      "economy": 7.58,
+      "average": 17.05,
+      "strike_rate": 13.52,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RG Sharma",
+      "wickets": 16,
+      "economy": 8.02,
+      "average": 28.31,
+      "strike_rate": 21.19,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Rasikh Salam",
+      "wickets": 16,
+      "economy": 10.06,
+      "average": 28.5,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "ST Jayasuriya",
+      "wickets": 16,
+      "economy": 7.96,
+      "average": 24.38,
+      "strike_rate": 18.38,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AC Thomas",
+      "wickets": 16,
+      "economy": 7.73,
+      "average": 25.38,
+      "strike_rate": 19.69,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CR Brathwaite",
+      "wickets": 16,
+      "economy": 8.95,
+      "average": 23.69,
+      "strike_rate": 15.88,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VRV Singh",
+      "wickets": 16,
+      "economy": 9.03,
+      "average": 33.88,
+      "strike_rate": 22.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Prince Yadav",
+      "wickets": 16,
+      "economy": 8.82,
+      "average": 28.68,
+      "strike_rate": 19.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Prasidh Krishna",
+      "wickets": 16,
+      "economy": 10.43,
+      "average": 25.43,
+      "strike_rate": 14.62,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "G Coetzee",
+      "wickets": 15,
+      "economy": 10.37,
+      "average": 31.47,
+      "strike_rate": 18.2,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Shepherd",
+      "wickets": 15,
+      "economy": 12.21,
+      "average": 35.13,
+      "strike_rate": 17.27,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PVD Chameera",
+      "wickets": 15,
+      "economy": 9.84,
+      "average": 42.0,
+      "strike_rate": 25.6,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohammad Nabi",
+      "wickets": 15,
+      "economy": 7.44,
+      "average": 34.47,
+      "strike_rate": 27.8,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DR Sams",
+      "wickets": 15,
+      "economy": 8.72,
+      "average": 34.87,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "YA Abdulla",
+      "wickets": 15,
+      "economy": 8.81,
+      "average": 20.47,
+      "strike_rate": 13.93,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SJ Srivastava",
+      "wickets": 15,
+      "economy": 9.38,
+      "average": 29.4,
+      "strike_rate": 18.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AN Ahmed",
+      "wickets": 15,
+      "economy": 8.69,
+      "average": 33.2,
+      "strike_rate": 22.93,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RR Powar",
+      "wickets": 15,
+      "economy": 7.42,
+      "average": 35.13,
+      "strike_rate": 28.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sakib Hussain",
+      "wickets": 15,
+      "economy": 9.45,
+      "average": 26.46,
+      "strike_rate": 16.8,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AM Ghazanfar",
+      "wickets": 15,
+      "economy": 10.01,
+      "average": 25.93,
+      "strike_rate": 15.53,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sunil Narine",
+      "wickets": 15,
+      "economy": 6.64,
+      "average": 22.6,
+      "strike_rate": 20.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Josh Hazlewood",
+      "wickets": 15,
+      "economy": 9.59,
+      "average": 32.93,
+      "strike_rate": 20.6,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Arshdeep Singh",
+      "wickets": 14,
+      "economy": 10.2,
+      "average": 38.64,
+      "strike_rate": 22.71,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R McLaren",
+      "wickets": 14,
+      "economy": 9.19,
+      "average": 38.71,
+      "strike_rate": 25.29,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KA Jamieson",
+      "wickets": 14,
+      "economy": 9.67,
+      "average": 29.71,
+      "strike_rate": 18.43,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KR Sen",
+      "wickets": 14,
+      "economy": 9.63,
+      "average": 27.64,
+      "strike_rate": 17.21,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CJ Anderson",
+      "wickets": 14,
+      "economy": 10.46,
+      "average": 37.0,
+      "strike_rate": 21.21,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Lamichhane",
+      "wickets": 14,
+      "economy": 8.34,
+      "average": 20.86,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AB McDonald",
+      "wickets": 14,
+      "economy": 8.42,
+      "average": 18.64,
+      "strike_rate": 13.29,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJG Sammy",
+      "wickets": 14,
+      "economy": 8.9,
+      "average": 25.0,
+      "strike_rate": 16.86,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Umar Gul",
+      "wickets": 14,
+      "economy": 8.18,
+      "average": 13.14,
+      "strike_rate": 9.64,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JR Hopes",
+      "wickets": 14,
+      "economy": 9.13,
+      "average": 39.14,
+      "strike_rate": 25.71,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Karanveer Singh",
+      "wickets": 14,
+      "economy": 9.44,
+      "average": 22.93,
+      "strike_rate": 14.57,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GD McGrath",
+      "wickets": 14,
+      "economy": 6.61,
+      "average": 25.5,
+      "strike_rate": 23.14,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Kamran Khan",
+      "wickets": 14,
+      "economy": 8.64,
+      "average": 17.07,
+      "strike_rate": 11.86,
+      "four_wkt_hauls": 2,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Brijesh Sharma",
+      "wickets": 14,
+      "economy": 9.89,
+      "average": 32.14,
+      "strike_rate": 19.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Krunal Pandya",
+      "wickets": 14,
+      "economy": 8.41,
+      "average": 30.35,
+      "strike_rate": 21.64,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jamie Overton",
+      "wickets": 14,
+      "economy": 8.89,
+      "average": 17.78,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Nandre Burger",
+      "wickets": 14,
+      "economy": 10.11,
+      "average": 31.42,
+      "strike_rate": 18.64,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Praful Hinge",
+      "wickets": 14,
+      "economy": 11.73,
+      "average": 21.78,
+      "strike_rate": 11.14,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Noor Ahmad",
+      "wickets": 13,
+      "economy": 8.39,
+      "average": 32.92,
+      "strike_rate": 23.53,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TK Curran",
+      "wickets": 13,
+      "economy": 10.84,
+      "average": 33.08,
+      "strike_rate": 18.31,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CK Langeveldt",
+      "wickets": 13,
+      "economy": 7.19,
+      "average": 14.38,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Nigam",
+      "wickets": 13,
+      "economy": 9.34,
+      "average": 31.62,
+      "strike_rate": 20.31,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SM Pollock",
+      "wickets": 13,
+      "economy": 6.54,
+      "average": 23.15,
+      "strike_rate": 21.23,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RS Bopara",
+      "wickets": 13,
+      "economy": 8.5,
+      "average": 22.46,
+      "strike_rate": 15.85,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Theron",
+      "wickets": 13,
+      "economy": 8.2,
+      "average": 23.23,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Little",
+      "wickets": 13,
+      "economy": 8.92,
+      "average": 26.08,
+      "strike_rate": 17.54,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JDP Oram",
+      "wickets": 13,
+      "economy": 8.84,
+      "average": 26.85,
+      "strike_rate": 18.23,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Joginder Sharma",
+      "wickets": 13,
+      "economy": 9.82,
+      "average": 32.23,
+      "strike_rate": 19.69,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LS Livingstone",
+      "wickets": 13,
+      "economy": 9.02,
+      "average": 36.08,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BA Bhatt",
+      "wickets": 13,
+      "economy": 8.05,
+      "average": 30.54,
+      "strike_rate": 22.77,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Lungisani Ngidi",
+      "wickets": 13,
+      "economy": 8.22,
+      "average": 26.15,
+      "strike_rate": 19.07,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BCJ Cutting",
+      "wickets": 12,
+      "economy": 9.16,
+      "average": 35.75,
+      "strike_rate": 23.42,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AG Murtaza",
+      "wickets": 12,
+      "economy": 7.11,
+      "average": 26.08,
+      "strike_rate": 22.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AS Roy",
+      "wickets": 12,
+      "economy": 8.2,
+      "average": 25.17,
+      "strike_rate": 18.42,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SC Ganguly",
+      "wickets": 12,
+      "economy": 7.89,
+      "average": 30.25,
+      "strike_rate": 23.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Pratap Singh",
+      "wickets": 12,
+      "economy": 8.71,
+      "average": 24.67,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Simarjeet Singh",
+      "wickets": 12,
+      "economy": 10.0,
+      "average": 33.33,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "N Burger",
+      "wickets": 12,
+      "economy": 8.61,
+      "average": 23.67,
+      "strike_rate": 16.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ankit Sharma",
+      "wickets": 12,
+      "economy": 7.36,
+      "average": 37.5,
+      "strike_rate": 30.58,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Kartikeya",
+      "wickets": 12,
+      "economy": 8.66,
+      "average": 33.92,
+      "strike_rate": 23.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Shankar",
+      "wickets": 12,
+      "economy": 8.67,
+      "average": 28.67,
+      "strike_rate": 19.83,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Arshad Khan",
+      "wickets": 12,
+      "economy": 11.47,
+      "average": 41.42,
+      "strike_rate": 21.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohammad Shami",
+      "wickets": 12,
+      "economy": 9.0,
+      "average": 38.25,
+      "strike_rate": 25.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yuzvendra Chahal",
+      "wickets": 12,
+      "economy": 9.39,
+      "average": 32.08,
+      "strike_rate": 20.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Corbin Bosch",
+      "wickets": 12,
+      "economy": 9.68,
+      "average": 16.25,
+      "strike_rate": 10.08,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shardul Thakur",
+      "wickets": 12,
+      "economy": 12.27,
+      "average": 22.5,
+      "strike_rate": 11.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ravi Bishnoi",
+      "wickets": 11,
+      "economy": 9.88,
+      "average": 23.36,
+      "strike_rate": 14.18,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohsin Khan",
+      "wickets": 11,
+      "economy": 8.14,
+      "average": 20.72,
+      "strike_rate": 15.27,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Akash Deep",
+      "wickets": 11,
+      "economy": 11.83,
+      "average": 49.82,
+      "strike_rate": 25.27,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Abhishek Sharma",
+      "wickets": 11,
+      "economy": 9.04,
+      "average": 47.55,
+      "strike_rate": 31.55,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BE Hendricks",
+      "wickets": 11,
+      "economy": 9.4,
+      "average": 21.36,
+      "strike_rate": 13.64,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Badree",
+      "wickets": 11,
+      "economy": 7.42,
+      "average": 29.0,
+      "strike_rate": 23.45,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TS Mills",
+      "wickets": 11,
+      "economy": 9.85,
+      "average": 31.18,
+      "strike_rate": 19.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MA Wood",
+      "wickets": 11,
+      "economy": 8.95,
+      "average": 16.27,
+      "strike_rate": 10.91,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 1
+    },
+    {
+      "bowler": "Lalit Yadav",
+      "wickets": 11,
+      "economy": 8.85,
+      "average": 38.64,
+      "strike_rate": 26.18,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Chandila",
+      "wickets": 11,
+      "economy": 6.21,
+      "average": 22.0,
+      "strike_rate": 21.27,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KP Appanna",
+      "wickets": 11,
+      "economy": 7.94,
+      "average": 26.0,
+      "strike_rate": 19.64,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JL Pattinson",
+      "wickets": 11,
+      "economy": 9.01,
+      "average": 29.09,
+      "strike_rate": 19.36,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "OC McCoy",
+      "wickets": 11,
+      "economy": 9.32,
+      "average": 22.73,
+      "strike_rate": 14.64,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Pankaj Singh",
+      "wickets": 11,
+      "economy": 9.36,
+      "average": 42.55,
+      "strike_rate": 27.27,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Parag",
+      "wickets": 11,
+      "economy": 9.64,
+      "average": 44.82,
+      "strike_rate": 27.91,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JD Ryder",
+      "wickets": 11,
+      "economy": 7.7,
+      "average": 27.55,
+      "strike_rate": 21.45,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Axar Patel",
+      "wickets": 11,
+      "economy": 8.18,
+      "average": 32.72,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Varun Chakaravarthy",
+      "wickets": 11,
+      "economy": 8.78,
+      "average": 32.72,
+      "strike_rate": 22.36,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mitchell Starc",
+      "wickets": 11,
+      "economy": 10.18,
+      "average": 20.36,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Vaibhav Arora",
+      "wickets": 11,
+      "economy": 10.26,
+      "average": 35.45,
+      "strike_rate": 20.72,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Kuldeep Yadav",
+      "wickets": 10,
+      "economy": 10.29,
+      "average": 38.1,
+      "strike_rate": 22.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Anand Rajan",
+      "wickets": 10,
+      "economy": 8.09,
+      "average": 20.1,
+      "strike_rate": 14.9,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Hussey",
+      "wickets": 10,
+      "economy": 8.97,
+      "average": 47.4,
+      "strike_rate": 31.7,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "T Thushara",
+      "wickets": 10,
+      "economy": 7.16,
+      "average": 16.1,
+      "strike_rate": 13.5,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Hooda",
+      "wickets": 10,
+      "economy": 8.64,
+      "average": 54.6,
+      "strike_rate": 37.9,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MP Yadav",
+      "wickets": 10,
+      "economy": 9.17,
+      "average": 18.5,
+      "strike_rate": 12.1,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KMA Paul",
+      "wickets": 10,
+      "economy": 8.72,
+      "average": 23.7,
+      "strike_rate": 16.3,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MN Samuels",
+      "wickets": 10,
+      "economy": 7.96,
+      "average": 28.4,
+      "strike_rate": 21.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Laughlin",
+      "wickets": 10,
+      "economy": 10.07,
+      "average": 28.2,
+      "strike_rate": 16.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Nithish Kumar Reddy",
+      "wickets": 10,
+      "economy": 10.66,
+      "average": 34.3,
+      "strike_rate": 19.3,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Syed Mohammad",
+      "wickets": 10,
+      "economy": 8.84,
+      "average": 28.3,
+      "strike_rate": 19.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "N Rana",
+      "wickets": 10,
+      "economy": 8.44,
+      "average": 27.0,
+      "strike_rate": 19.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ravindra Jadeja",
+      "wickets": 10,
+      "economy": 8.39,
+      "average": 27.7,
+      "strike_rate": 19.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Suyash Sharma",
+      "wickets": 9,
+      "economy": 9.2,
+      "average": 41.77,
+      "strike_rate": 27.22,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SE Bond",
+      "wickets": 9,
+      "economy": 7.23,
+      "average": 24.89,
+      "strike_rate": 20.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AM Nayar",
+      "wickets": 9,
+      "economy": 8.44,
+      "average": 35.78,
+      "strike_rate": 25.44,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SMSM Senanayake",
+      "wickets": 9,
+      "economy": 6.53,
+      "average": 23.22,
+      "strike_rate": 21.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shahid Afridi",
+      "wickets": 9,
+      "economy": 7.5,
+      "average": 25.0,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AF Milne",
+      "wickets": 9,
+      "economy": 9.48,
+      "average": 36.33,
+      "strike_rate": 23.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SB Styris",
+      "wickets": 9,
+      "economy": 7.67,
+      "average": 30.67,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BAW Mendis",
+      "wickets": 9,
+      "economy": 7.45,
+      "average": 33.67,
+      "strike_rate": 27.11,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JEC Franklin",
+      "wickets": 9,
+      "economy": 8.74,
+      "average": 24.44,
+      "strike_rate": 16.78,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Yadav",
+      "wickets": 9,
+      "economy": 6.85,
+      "average": 49.44,
+      "strike_rate": 43.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Parameswaran",
+      "wickets": 9,
+      "economy": 8.73,
+      "average": 24.89,
+      "strike_rate": 17.11,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "IS Sodhi",
+      "wickets": 9,
+      "economy": 6.7,
+      "average": 22.44,
+      "strike_rate": 20.11,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "N Thushara",
+      "wickets": 9,
+      "economy": 9.43,
+      "average": 31.44,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohammad Asif",
+      "wickets": 9,
+      "economy": 9.25,
+      "average": 32.89,
+      "strike_rate": 21.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KP Pietersen",
+      "wickets": 9,
+      "economy": 7.41,
+      "average": 23.89,
+      "strike_rate": 19.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shivang Kumar",
+      "wickets": 9,
+      "economy": 9.61,
+      "average": 41.66,
+      "strike_rate": 26.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yash Raj Punya",
+      "wickets": 9,
+      "economy": 9.3,
+      "average": 31.0,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Anukul Roy",
+      "wickets": 9,
+      "economy": 9.6,
+      "average": 29.0,
+      "strike_rate": 18.11,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Marco Jansen",
+      "wickets": 9,
+      "economy": 10.2,
+      "average": 53.66,
+      "strike_rate": 31.55,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Vyshak Vijaykumar",
+      "wickets": 9,
+      "economy": 10.64,
+      "average": 36.66,
+      "strike_rate": 20.66,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jacob Duffy",
+      "wickets": 9,
+      "economy": 10.95,
+      "average": 29.22,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mukesh Choudhary",
+      "wickets": 8,
+      "economy": 8.89,
+      "average": 31.12,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Harsh Dubey",
+      "wickets": 8,
+      "economy": 10.36,
+      "average": 28.5,
+      "strike_rate": 16.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Zeeshan Ansari",
+      "wickets": 8,
+      "economy": 9.84,
+      "average": 41.62,
+      "strike_rate": 25.38,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Mithun",
+      "wickets": 8,
+      "economy": 9.83,
+      "average": 59.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Ntini",
+      "wickets": 8,
+      "economy": 6.91,
+      "average": 30.25,
+      "strike_rate": 26.25,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AA Chavan",
+      "wickets": 8,
+      "economy": 7.89,
+      "average": 40.75,
+      "strike_rate": 31.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Randiv",
+      "wickets": 8,
+      "economy": 7.69,
+      "average": 27.88,
+      "strike_rate": 21.75,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Sandeep Warrier",
+      "wickets": 8,
+      "economy": 9.04,
+      "average": 31.62,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KC Cariappa",
+      "wickets": 8,
+      "economy": 9.67,
+      "average": 43.5,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yudhvir Singh",
+      "wickets": 8,
+      "economy": 11.0,
+      "average": 31.62,
+      "strike_rate": 17.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GC Viljoen",
+      "wickets": 8,
+      "economy": 9.65,
+      "average": 27.75,
+      "strike_rate": 17.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "WG Jacks",
+      "wickets": 8,
+      "economy": 9.57,
+      "average": 27.5,
+      "strike_rate": 17.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "I Udana",
+      "wickets": 8,
+      "economy": 9.72,
+      "average": 35.25,
+      "strike_rate": 21.75,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JDS Neesham",
+      "wickets": 8,
+      "economy": 9.28,
+      "average": 41.75,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Akeal Hosein",
+      "wickets": 8,
+      "economy": 8.02,
+      "average": 24.75,
+      "strike_rate": 18.5,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Pat Cummins",
+      "wickets": 8,
+      "economy": 9.59,
+      "average": 38.37,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Deepak Chahar",
+      "wickets": 8,
+      "economy": 10.39,
+      "average": 35.62,
+      "strike_rate": 19.12,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Nitish Kumar Reddy",
+      "wickets": 8,
+      "economy": 10.41,
+      "average": 40.37,
+      "strike_rate": 23.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Willey",
+      "wickets": 7,
+      "economy": 7.56,
+      "average": 38.86,
+      "strike_rate": 30.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KM Asif",
+      "wickets": 7,
+      "economy": 10.42,
+      "average": 33.0,
+      "strike_rate": 19.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Dube",
+      "wickets": 7,
+      "economy": 10.72,
+      "average": 34.71,
+      "strike_rate": 19.43,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AM Salvi",
+      "wickets": 7,
+      "economy": 8.0,
+      "average": 28.57,
+      "strike_rate": 21.43,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RR Raje",
+      "wickets": 7,
+      "economy": 9.02,
+      "average": 29.86,
+      "strike_rate": 19.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Stanlake",
+      "wickets": 7,
+      "economy": 8.33,
+      "average": 28.57,
+      "strike_rate": 20.57,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Pretorius",
+      "wickets": 7,
+      "economy": 9.52,
+      "average": 34.0,
+      "strike_rate": 21.43,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Akhil",
+      "wickets": 7,
+      "economy": 7.72,
+      "average": 34.57,
+      "strike_rate": 26.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Swapnil Singh",
+      "wickets": 7,
+      "economy": 8.93,
+      "average": 34.43,
+      "strike_rate": 23.14,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PC Valthaty",
+      "wickets": 7,
+      "economy": 8.15,
+      "average": 29.29,
+      "strike_rate": 21.57,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TL Suman",
+      "wickets": 7,
+      "economy": 7.88,
+      "average": 28.14,
+      "strike_rate": 21.43,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C de Grandhomme",
+      "wickets": 7,
+      "economy": 8.86,
+      "average": 45.57,
+      "strike_rate": 30.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Y Venugopal Rao",
+      "wickets": 7,
+      "economy": 9.36,
+      "average": 48.14,
+      "strike_rate": 30.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Shukla",
+      "wickets": 7,
+      "economy": 10.4,
+      "average": 29.71,
+      "strike_rate": 17.14,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "HF Gurney",
+      "wickets": 7,
+      "economy": 8.81,
+      "average": 34.0,
+      "strike_rate": 23.14,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "OF Smith",
+      "wickets": 7,
+      "economy": 11.87,
+      "average": 25.43,
+      "strike_rate": 12.86,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Amarnath",
+      "wickets": 7,
+      "economy": 10.73,
+      "average": 33.71,
+      "strike_rate": 18.86,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Cameron Green",
+      "wickets": 7,
+      "economy": 10.63,
+      "average": 33.42,
+      "strike_rate": 18.85,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Romario Shepherd",
+      "wickets": 7,
+      "economy": 11.92,
+      "average": 42.57,
+      "strike_rate": 21.42,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Avesh Khan",
+      "wickets": 6,
+      "economy": 11.06,
+      "average": 45.5,
+      "strike_rate": 24.66,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mukesh Kumar",
+      "wickets": 6,
+      "economy": 11.26,
+      "average": 56.83,
+      "strike_rate": 31.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ashwani Kumar",
+      "wickets": 6,
+      "economy": 10.2,
+      "average": 17.0,
+      "strike_rate": 10.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JE Taylor",
+      "wickets": 6,
+      "economy": 8.05,
+      "average": 26.17,
+      "strike_rate": 19.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Khejroliya",
+      "wickets": 6,
+      "economy": 10.62,
+      "average": 41.0,
+      "strike_rate": 23.17,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AK Markram",
+      "wickets": 6,
+      "economy": 8.93,
+      "average": 50.33,
+      "strike_rate": 33.83,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RV Gomez",
+      "wickets": 6,
+      "economy": 8.06,
+      "average": 21.5,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VS Malik",
+      "wickets": 6,
+      "economy": 7.64,
+      "average": 43.5,
+      "strike_rate": 34.17,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Sehwag",
+      "wickets": 6,
+      "economy": 10.37,
+      "average": 39.17,
+      "strike_rate": 22.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "W O'Rourke",
+      "wickets": 6,
+      "economy": 12.77,
+      "average": 22.0,
+      "strike_rate": 10.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Sathish",
+      "wickets": 6,
+      "economy": 10.01,
+      "average": 38.67,
+      "strike_rate": 23.17,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Puthur",
+      "wickets": 6,
+      "economy": 9.08,
+      "average": 18.17,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DG Nalkande",
+      "wickets": 6,
+      "economy": 10.57,
+      "average": 24.67,
+      "strike_rate": 14.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Kaushik",
+      "wickets": 6,
+      "economy": 8.74,
+      "average": 49.5,
+      "strike_rate": 34.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Fazalhaq Farooqi",
+      "wickets": 6,
+      "economy": 10.32,
+      "average": 72.83,
+      "strike_rate": 42.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "FH Edwards",
+      "wickets": 6,
+      "economy": 6.6,
+      "average": 25.67,
+      "strike_rate": 23.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JA Duffy",
+      "wickets": 6,
+      "economy": 11.5,
+      "average": 23.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jaskaran Singh",
+      "wickets": 6,
+      "economy": 10.06,
+      "average": 28.5,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M de Lange",
+      "wickets": 6,
+      "economy": 9.39,
+      "average": 28.17,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SS Cottrell",
+      "wickets": 6,
+      "economy": 8.8,
+      "average": 29.33,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MG Bracewell",
+      "wickets": 6,
+      "economy": 8.64,
+      "average": 15.83,
+      "strike_rate": 11.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "XC Bartlett",
+      "wickets": 6,
+      "economy": 9.76,
+      "average": 45.0,
+      "strike_rate": 27.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KMDN Kulasekara",
+      "wickets": 6,
+      "economy": 7.06,
+      "average": 20.0,
+      "strike_rate": 17.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Narwal",
+      "wickets": 6,
+      "economy": 11.43,
+      "average": 33.67,
+      "strike_rate": 17.67,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Tyagi",
+      "wickets": 6,
+      "economy": 8.47,
+      "average": 49.17,
+      "strike_rate": 34.83,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SB Bangar",
+      "wickets": 6,
+      "economy": 8.76,
+      "average": 36.5,
+      "strike_rate": 25.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Siddharth",
+      "wickets": 6,
+      "economy": 9.66,
+      "average": 24.16,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ashok Sharma",
+      "wickets": 6,
+      "economy": 10.85,
+      "average": 38.0,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohd Arshad Khan",
+      "wickets": 6,
+      "economy": 9.92,
+      "average": 28.66,
+      "strike_rate": 17.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sandeep Sharma",
+      "wickets": 5,
+      "economy": 11.38,
+      "average": 44.8,
+      "strike_rate": 23.6,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "T Natarajan",
+      "wickets": 5,
+      "economy": 11.18,
+      "average": 71.2,
+      "strike_rate": 38.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PD Collingwood",
+      "wickets": 5,
+      "economy": 6.81,
+      "average": 20.2,
+      "strike_rate": 17.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TM Dilshan",
+      "wickets": 5,
+      "economy": 8.1,
+      "average": 73.2,
+      "strike_rate": 54.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "L Ablish",
+      "wickets": 5,
+      "economy": 10.71,
+      "average": 15.0,
+      "strike_rate": 8.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "HR Shokeen",
+      "wickets": 5,
+      "economy": 9.24,
+      "average": 62.8,
+      "strike_rate": 40.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "J Overton",
+      "wickets": 5,
+      "economy": 11.12,
+      "average": 37.8,
+      "strike_rate": 20.4,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Kohli",
+      "wickets": 5,
+      "economy": 8.8,
+      "average": 73.6,
+      "strike_rate": 50.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Choudhary",
+      "wickets": 5,
+      "economy": 8.55,
+      "average": 28.8,
+      "strike_rate": 20.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KL Nagarkoti",
+      "wickets": 5,
+      "economy": 9.5,
+      "average": 57.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SB Wagh",
+      "wickets": 5,
+      "economy": 8.06,
+      "average": 27.4,
+      "strike_rate": 20.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MJ Henry",
+      "wickets": 5,
+      "economy": 11.52,
+      "average": 62.2,
+      "strike_rate": 32.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SH Johnson",
+      "wickets": 5,
+      "economy": 10.39,
+      "average": 56.8,
+      "strike_rate": 32.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Ladda",
+      "wickets": 5,
+      "economy": 9.74,
+      "average": 44.8,
+      "strike_rate": 27.6,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gurkeerat Singh",
+      "wickets": 5,
+      "economy": 7.46,
+      "average": 19.4,
+      "strike_rate": 15.6,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "O Thomas",
+      "wickets": 5,
+      "economy": 7.9,
+      "average": 15.8,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RJW Topley",
+      "wickets": 5,
+      "economy": 11.1,
+      "average": 44.4,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AP Dole",
+      "wickets": 5,
+      "economy": 10.18,
+      "average": 22.4,
+      "strike_rate": 13.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shoaib Ahmed",
+      "wickets": 5,
+      "economy": 8.94,
+      "average": 30.4,
+      "strike_rate": 20.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shoaib Akhtar",
+      "wickets": 5,
+      "economy": 7.71,
+      "average": 10.8,
+      "strike_rate": 8.4,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Muzarabani",
+      "wickets": 5,
+      "economy": 10.71,
+      "average": 15.0,
+      "strike_rate": 8.4,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Saurabh Dubey",
+      "wickets": 5,
+      "economy": 8.25,
+      "average": 21.2,
+      "strike_rate": 15.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mitchell Santner",
+      "wickets": 5,
+      "economy": 8.92,
+      "average": 25.0,
+      "strike_rate": 16.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Digvesh Singh",
+      "wickets": 5,
+      "economy": 10.17,
+      "average": 79.4,
+      "strike_rate": 46.8,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Xavier Bartlett",
+      "wickets": 5,
+      "economy": 11.56,
+      "average": 77.6,
+      "strike_rate": 40.2,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shahbaz Ahamad",
+      "wickets": 5,
+      "economy": 11.64,
+      "average": 26.0,
+      "strike_rate": 13.4,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Akash Singh",
+      "wickets": 4,
+      "economy": 11.42,
+      "average": 20.0,
+      "strike_rate": 10.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Badoni",
+      "wickets": 4,
+      "economy": 8.4,
+      "average": 12.25,
+      "strike_rate": 8.75,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Parvez Rasool",
+      "wickets": 4,
+      "economy": 8.21,
+      "average": 67.75,
+      "strike_rate": 49.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PP Hinge",
+      "wickets": 4,
+      "economy": 8.5,
+      "average": 8.5,
+      "strike_rate": 6.0,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Y Nagar",
+      "wickets": 4,
+      "economy": 11.36,
+      "average": 31.25,
+      "strike_rate": 16.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D du Preez",
+      "wickets": 4,
+      "economy": 8.0,
+      "average": 14.0,
+      "strike_rate": 10.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Muthuswami",
+      "wickets": 4,
+      "economy": 7.21,
+      "average": 25.25,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "T Stubbs",
+      "wickets": 4,
+      "economy": 11.5,
+      "average": 17.25,
+      "strike_rate": 9.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shashank Singh",
+      "wickets": 4,
+      "economy": 8.8,
+      "average": 22.0,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shivam Sharma",
+      "wickets": 4,
+      "economy": 8.68,
+      "average": 41.25,
+      "strike_rate": 28.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DP Vijaykumar",
+      "wickets": 4,
+      "economy": 7.86,
+      "average": 49.75,
+      "strike_rate": 38.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LE Plunkett",
+      "wickets": 4,
+      "economy": 9.0,
+      "average": 56.25,
+      "strike_rate": 37.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "WA Mota",
+      "wickets": 4,
+      "economy": 8.08,
+      "average": 24.25,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Dhawan",
+      "wickets": 4,
+      "economy": 8.25,
+      "average": 16.5,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ankit Soni",
+      "wickets": 4,
+      "economy": 7.93,
+      "average": 36.0,
+      "strike_rate": 27.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jasprit Bumrah",
+      "wickets": 4,
+      "economy": 8.36,
+      "average": 102.5,
+      "strike_rate": 73.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Madhav Tiwari",
+      "wickets": 4,
+      "economy": 8.7,
+      "average": 21.75,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gurjasneet Singh",
+      "wickets": 4,
+      "economy": 9.25,
+      "average": 58.25,
+      "strike_rate": 37.75,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Blessing Muzarabani",
+      "wickets": 4,
+      "economy": 10.71,
+      "average": 18.75,
+      "strike_rate": 10.5,
+      "four_wkt_hauls": 1,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jaydev Unadkat",
+      "wickets": 4,
+      "economy": 10.9,
+      "average": 35.0,
+      "strike_rate": 19.25,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Hardik Pandya",
+      "wickets": 4,
+      "economy": 11.42,
+      "average": 64.79,
+      "strike_rate": 34.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Tushar Deshpande",
+      "wickets": 4,
+      "economy": 11.95,
+      "average": 68.75,
+      "strike_rate": 34.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Azmatullah Omarzai",
+      "wickets": 3,
+      "economy": 9.36,
+      "average": 34.33,
+      "strike_rate": 22.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "T Shamsi",
+      "wickets": 3,
+      "economy": 9.05,
+      "average": 60.33,
+      "strike_rate": 40.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sikandar Raza",
+      "wickets": 3,
+      "economy": 10.07,
+      "average": 47.0,
+      "strike_rate": 28.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DAJ Bracewell",
+      "wickets": 3,
+      "economy": 8.0,
+      "average": 10.67,
+      "strike_rate": 8.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Thornely",
+      "wickets": 3,
+      "economy": 5.71,
+      "average": 13.33,
+      "strike_rate": 14.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sachin Baby",
+      "wickets": 3,
+      "economy": 4.8,
+      "average": 2.67,
+      "strike_rate": 3.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MJ Clarke",
+      "wickets": 3,
+      "economy": 6.09,
+      "average": 22.33,
+      "strike_rate": 22.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SM Harwood",
+      "wickets": 3,
+      "economy": 7.3,
+      "average": 24.33,
+      "strike_rate": 20.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SM Boland",
+      "wickets": 3,
+      "economy": 7.71,
+      "average": 18.0,
+      "strike_rate": 14.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JW Hastings",
+      "wickets": 3,
+      "economy": 6.83,
+      "average": 22.0,
+      "strike_rate": 19.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Abhinandan Singh",
+      "wickets": 3,
+      "economy": 12.62,
+      "average": 40.66,
+      "strike_rate": 19.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RJ Peterson",
+      "wickets": 3,
+      "economy": 8.75,
+      "average": 23.33,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RN ten Doeschate",
+      "wickets": 3,
+      "economy": 7.23,
+      "average": 31.33,
+      "strike_rate": 26.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JA Richardson",
+      "wickets": 3,
+      "economy": 10.47,
+      "average": 52.33,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GHS Garton",
+      "wickets": 3,
+      "economy": 9.0,
+      "average": 45.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gagandeep Singh",
+      "wickets": 3,
+      "economy": 10.07,
+      "average": 47.0,
+      "strike_rate": 28.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RS Hangargekar",
+      "wickets": 3,
+      "economy": 10.0,
+      "average": 20.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JM Kemp",
+      "wickets": 3,
+      "economy": 7.36,
+      "average": 18.0,
+      "strike_rate": 14.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JJ van der Wath",
+      "wickets": 3,
+      "economy": 10.75,
+      "average": 43.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Santokie",
+      "wickets": 3,
+      "economy": 11.25,
+      "average": 30.0,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AL Menaria",
+      "wickets": 3,
+      "economy": 7.85,
+      "average": 48.0,
+      "strike_rate": 36.67,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Ninan",
+      "wickets": 3,
+      "economy": 10.83,
+      "average": 21.67,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Sahu",
+      "wickets": 3,
+      "economy": 8.34,
+      "average": 48.67,
+      "strike_rate": 35.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TM Head",
+      "wickets": 3,
+      "economy": 11.69,
+      "average": 37.67,
+      "strike_rate": 19.33,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VR Iyer",
+      "wickets": 3,
+      "economy": 10.59,
+      "average": 47.67,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Uniyal",
+      "wickets": 3,
+      "economy": 11.0,
+      "average": 22.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Harpreet Brar",
+      "wickets": 2,
+      "economy": 7.5,
+      "average": 30.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Yash Thakur",
+      "wickets": 2,
+      "economy": 13.75,
+      "average": 27.5,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PHKD Mendis",
+      "wickets": 2,
+      "economy": 8.57,
+      "average": 30.0,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Dubey",
+      "wickets": 2,
+      "economy": 8.54,
+      "average": 55.5,
+      "strike_rate": 39.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Nanda",
+      "wickets": 2,
+      "economy": 7.12,
+      "average": 28.5,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Suyal",
+      "wickets": 2,
+      "economy": 9.44,
+      "average": 75.5,
+      "strike_rate": 48.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Bosch",
+      "wickets": 2,
+      "economy": 9.25,
+      "average": 47.0,
+      "strike_rate": 30.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PVSN Raju",
+      "wickets": 2,
+      "economy": 13.25,
+      "average": 26.5,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PH Solanki",
+      "wickets": 2,
+      "economy": 6.33,
+      "average": 19.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "FA Allen",
+      "wickets": 2,
+      "economy": 9.07,
+      "average": 68.0,
+      "strike_rate": 45.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mayank Dagar",
+      "wickets": 2,
+      "economy": 8.89,
+      "average": 101.5,
+      "strike_rate": 68.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DA Payne",
+      "wickets": 2,
+      "economy": 14.0,
+      "average": 35.0,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SD Chitnis",
+      "wickets": 2,
+      "economy": 10.0,
+      "average": 30.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Kalyankrishna",
+      "wickets": 2,
+      "economy": 10.88,
+      "average": 43.5,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Flintoff",
+      "wickets": 2,
+      "economy": 9.55,
+      "average": 52.5,
+      "strike_rate": 33.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Kaverappa",
+      "wickets": 2,
+      "economy": 9.0,
+      "average": 18.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KT Maphaka",
+      "wickets": 2,
+      "economy": 13.0,
+      "average": 71.5,
+      "strike_rate": 33.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MK Lomror",
+      "wickets": 2,
+      "economy": 8.47,
+      "average": 63.5,
+      "strike_rate": 45.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shoaib Malik",
+      "wickets": 2,
+      "economy": 10.0,
+      "average": 42.5,
+      "strike_rate": 25.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MA Khote",
+      "wickets": 2,
+      "economy": 10.2,
+      "average": 25.5,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LJ Wright",
+      "wickets": 2,
+      "economy": 10.48,
+      "average": 62.0,
+      "strike_rate": 35.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SC Kuggeleijn",
+      "wickets": 2,
+      "economy": 8.88,
+      "average": 35.5,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JPR Scantlebury-Searles",
+      "wickets": 2,
+      "economy": 12.71,
+      "average": 44.5,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DNT Zoysa",
+      "wickets": 2,
+      "economy": 9.0,
+      "average": 49.5,
+      "strike_rate": 33.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AU Rashid",
+      "wickets": 2,
+      "economy": 9.1,
+      "average": 45.5,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Yadav",
+      "wickets": 2,
+      "economy": 9.33,
+      "average": 42.0,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KA Maharaj",
+      "wickets": 2,
+      "economy": 6.5,
+      "average": 19.5,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohammad Hafeez",
+      "wickets": 2,
+      "economy": 6.8,
+      "average": 34.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KJ Abbott",
+      "wickets": 2,
+      "economy": 11.06,
+      "average": 88.5,
+      "strike_rate": 48.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Geeves",
+      "wickets": 2,
+      "economy": 11.38,
+      "average": 45.5,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AJ Hosein",
+      "wickets": 2,
+      "economy": 8.6,
+      "average": 43.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Abdul Samad",
+      "wickets": 2,
+      "economy": 13.16,
+      "average": 62.5,
+      "strike_rate": 28.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "ND Doshi",
+      "wickets": 2,
+      "economy": 8.46,
+      "average": 39.5,
+      "strike_rate": 28.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GD Phillips",
+      "wickets": 2,
+      "economy": 8.0,
+      "average": 20.0,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RJ Gleeson",
+      "wickets": 2,
+      "economy": 9.71,
+      "average": 55.0,
+      "strike_rate": 34.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Khaleel Ahmed",
+      "wickets": 2,
+      "economy": 8.67,
+      "average": 73.0,
+      "strike_rate": 50.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Riyan Parag",
+      "wickets": 2,
+      "economy": 9.5,
+      "average": 19.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Spencer Johnson",
+      "wickets": 2,
+      "economy": 10.18,
+      "average": 56.0,
+      "strike_rate": 33.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sushant Mishra",
+      "wickets": 2,
+      "economy": 10.57,
+      "average": 33.5,
+      "strike_rate": 19.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Will Jacks",
+      "wickets": 2,
+      "economy": 10.84,
+      "average": 47.0,
+      "strike_rate": 26.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Manav Suthar",
+      "wickets": 2,
+      "economy": 11.33,
+      "average": 34.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Trent Boult",
+      "wickets": 2,
+      "economy": 11.62,
+      "average": 94.0,
+      "strike_rate": 48.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Raj Angad Bawa",
+      "wickets": 2,
+      "economy": 12.5,
+      "average": 25.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Marcus Stoinis",
+      "wickets": 2,
+      "economy": 12.91,
+      "average": 49.0,
+      "strike_rate": 23.5,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Vipraj Nigam",
+      "wickets": 2,
+      "economy": 12.55,
+      "average": 56.5,
+      "strike_rate": 27.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Kyle Jamieson",
+      "wickets": 2,
+      "economy": 12.85,
+      "average": 45.0,
+      "strike_rate": 21.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Matt Henry",
+      "wickets": 2,
+      "economy": 13.0,
+      "average": 65.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "David Payne",
+      "wickets": 2,
+      "economy": 14.0,
+      "average": 35.0,
+      "strike_rate": 15.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Washington Sundar",
+      "wickets": 1,
+      "economy": 9.18,
+      "average": 84.0,
+      "strike_rate": 55.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ramandeep Singh",
+      "wickets": 1,
+      "economy": 11.62,
+      "average": 31.0,
+      "strike_rate": 16.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Arjun Tendulkar",
+      "wickets": 1,
+      "economy": 9.0,
+      "average": 38.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Powell",
+      "wickets": 1,
+      "economy": 11.67,
+      "average": 35.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PM Sarvesh Kumar",
+      "wickets": 1,
+      "economy": 8.4,
+      "average": 42.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AC Voges",
+      "wickets": 1,
+      "economy": 8.44,
+      "average": 76.0,
+      "strike_rate": 54.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Mitchell",
+      "wickets": 1,
+      "economy": 12.12,
+      "average": 97.0,
+      "strike_rate": 48.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SS Sarkar",
+      "wickets": 1,
+      "economy": 8.16,
+      "average": 34.0,
+      "strike_rate": 25.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MK Tiwary",
+      "wickets": 1,
+      "economy": 11.86,
+      "average": 83.0,
+      "strike_rate": 42.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mashrafe Mortaza",
+      "wickets": 1,
+      "economy": 14.5,
+      "average": 58.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LMP Simmons",
+      "wickets": 1,
+      "economy": 11.33,
+      "average": 34.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CJ McKay",
+      "wickets": 1,
+      "economy": 8.57,
+      "average": 60.0,
+      "strike_rate": 42.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "T Henderson",
+      "wickets": 1,
+      "economy": 6.67,
+      "average": 40.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Brevis",
+      "wickets": 1,
+      "economy": 16.0,
+      "average": 8.0,
+      "strike_rate": 3.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Jansen",
+      "wickets": 1,
+      "economy": 13.25,
+      "average": 53.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "D Salunkhe",
+      "wickets": 1,
+      "economy": 9.96,
+      "average": 78.0,
+      "strike_rate": 47.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AA Jhunjhunwala",
+      "wickets": 1,
+      "economy": 9.11,
+      "average": 129.0,
+      "strike_rate": 85.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CL White",
+      "wickets": 1,
+      "economy": 12.29,
+      "average": 86.0,
+      "strike_rate": 42.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Shahrukh Khan",
+      "wickets": 1,
+      "economy": 9.33,
+      "average": 28.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LI Meriwala",
+      "wickets": 1,
+      "economy": 10.67,
+      "average": 32.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Nel",
+      "wickets": 1,
+      "economy": 10.33,
+      "average": 31.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SE Rutherford",
+      "wickets": 1,
+      "economy": 8.63,
+      "average": 59.0,
+      "strike_rate": 41.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "IC Porel",
+      "wickets": 1,
+      "economy": 9.75,
+      "average": 39.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TP Sudhindra",
+      "wickets": 1,
+      "economy": 11.66,
+      "average": 136.0,
+      "strike_rate": 70.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Y Prithvi Raj",
+      "wickets": 1,
+      "economy": 11.4,
+      "average": 57.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LA Carseldine",
+      "wickets": 1,
+      "economy": 6.0,
+      "average": 6.0,
+      "strike_rate": 6.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LB Williams",
+      "wickets": 1,
+      "economy": 12.0,
+      "average": 72.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AJ Finch",
+      "wickets": 1,
+      "economy": 9.35,
+      "average": 67.0,
+      "strike_rate": 43.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BMAJ Mendis",
+      "wickets": 1,
+      "economy": 7.2,
+      "average": 36.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "L Wood",
+      "wickets": 1,
+      "economy": 15.5,
+      "average": 93.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "V Viyaskanth",
+      "wickets": 1,
+      "economy": 8.6,
+      "average": 86.0,
+      "strike_rate": 60.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "FY Fazal",
+      "wickets": 1,
+      "economy": 10.0,
+      "average": 20.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SB Joshi",
+      "wickets": 1,
+      "economy": 8.95,
+      "average": 82.0,
+      "strike_rate": 55.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Musheer Khan",
+      "wickets": 1,
+      "economy": 13.5,
+      "average": 27.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AM Rahane",
+      "wickets": 1,
+      "economy": 5.0,
+      "average": 5.0,
+      "strike_rate": 6.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJM Short",
+      "wickets": 1,
+      "economy": 6.33,
+      "average": 19.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GH Vihari",
+      "wickets": 1,
+      "economy": 6.71,
+      "average": 47.0,
+      "strike_rate": 42.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NB Singh",
+      "wickets": 1,
+      "economy": 3.75,
+      "average": 15.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DB Ravi Teja",
+      "wickets": 1,
+      "economy": 9.33,
+      "average": 28.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SS Mundhe",
+      "wickets": 1,
+      "economy": 6.0,
+      "average": 6.0,
+      "strike_rate": 6.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SSB Magala",
+      "wickets": 1,
+      "economy": 8.5,
+      "average": 51.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SS Agarwal",
+      "wickets": 1,
+      "economy": 10.5,
+      "average": 42.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Vidyut",
+      "wickets": 1,
+      "economy": 11.0,
+      "average": 22.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SA Abbott",
+      "wickets": 1,
+      "economy": 11.56,
+      "average": 104.0,
+      "strike_rate": 54.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GR Napier",
+      "wickets": 1,
+      "economy": 6.75,
+      "average": 27.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GS Sandhu",
+      "wickets": 1,
+      "economy": 10.25,
+      "average": 82.0,
+      "strike_rate": 48.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gurjapneet Singh",
+      "wickets": 1,
+      "economy": 12.0,
+      "average": 62.0,
+      "strike_rate": 31.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Naman Dhir",
+      "wickets": 1,
+      "economy": 8.77,
+      "average": 76.0,
+      "strike_rate": 52.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RG More",
+      "wickets": 1,
+      "economy": 10.11,
+      "average": 59.0,
+      "strike_rate": 35.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AA Kazi",
+      "wickets": 1,
+      "economy": 10.5,
+      "average": 21.0,
+      "strike_rate": 12.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AC Gilchrist",
+      "wickets": 1,
+      "economy": 0.0,
+      "average": 0.0,
+      "strike_rate": 1.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AA Noffke",
+      "wickets": 1,
+      "economy": 10.0,
+      "average": 40.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Travis Head",
+      "wickets": 1,
+      "economy": 7.0,
+      "average": 7.0,
+      "strike_rate": 6.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ramakrishna Ghosh",
+      "wickets": 1,
+      "economy": 8.0,
+      "average": 24.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Raghu Sharma",
+      "wickets": 1,
+      "economy": 8.66,
+      "average": 130.0,
+      "strike_rate": 90.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "George Linde",
+      "wickets": 1,
+      "economy": 8.91,
+      "average": 55.0,
+      "strike_rate": 37.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Dilshan Madushanka",
+      "wickets": 1,
+      "economy": 9.0,
+      "average": 38.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Dasun Shanaka",
+      "wickets": 1,
+      "economy": 10.0,
+      "average": 60.0,
+      "strike_rate": 36.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sai Kishore",
+      "wickets": 1,
+      "economy": 11.5,
+      "average": 46.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ben Dwarshuis",
+      "wickets": 1,
+      "economy": 12.75,
+      "average": 51.0,
+      "strike_rate": 24.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Shivam Dube",
+      "wickets": 1,
+      "economy": 12.8,
+      "average": 64.0,
+      "strike_rate": 30.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Lockie Ferguson",
+      "wickets": 1,
+      "economy": 12.81,
+      "average": 141.0,
+      "strike_rate": 66.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Donovan Ferreira",
+      "wickets": 1,
+      "economy": 13.66,
+      "average": 41.0,
+      "strike_rate": 18.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Sanjay Yadav",
+      "wickets": 0,
+      "economy": 11.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "VS Yeligati",
+      "wickets": 0,
+      "economy": 11.8,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "I Malhotra",
+      "wickets": 0,
+      "economy": 23.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Ganapathy",
+      "wickets": 0,
+      "economy": 13.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Ray Barman",
+      "wickets": 0,
+      "economy": 14.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Goyal",
+      "wickets": 0,
+      "economy": 8.25,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "PWA Mulder",
+      "wickets": 0,
+      "economy": 16.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "R Ravindra",
+      "wickets": 0,
+      "economy": 3.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "P Prasanth",
+      "wickets": 0,
+      "economy": 18.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Tilak Varma",
+      "wickets": 0,
+      "economy": 7.64,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "C Munro",
+      "wickets": 0,
+      "economy": 7.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "YBK Jaiswal",
+      "wickets": 0,
+      "economy": 36.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "TH David",
+      "wickets": 0,
+      "economy": 18.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Ishan Kishan",
+      "wickets": 0,
+      "economy": 24.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Tejas Baroka",
+      "wickets": 0,
+      "economy": 9.43,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "BJ Rohrer",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Vivrant Sharma",
+      "wickets": 0,
+      "economy": 12.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "N Wadhera",
+      "wickets": 0,
+      "economy": 7.76,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Monu Kumar",
+      "wickets": 0,
+      "economy": 10.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mohit Rathee",
+      "wickets": 0,
+      "economy": 14.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Sriram",
+      "wickets": 0,
+      "economy": 16.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SA Yadav",
+      "wickets": 0,
+      "economy": 8.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Atharva Taide",
+      "wickets": 0,
+      "economy": 24.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Auqib Nabi",
+      "wickets": 0,
+      "economy": 8.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "B Chipli",
+      "wickets": 0,
+      "economy": 20.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AS Raut",
+      "wickets": 0,
+      "economy": 8.8,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Joseph",
+      "wickets": 0,
+      "economy": 11.75,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Jalaj S Saxena",
+      "wickets": 0,
+      "economy": 9.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Goel",
+      "wickets": 0,
+      "economy": 8.45,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Arshad Khan (2)",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "F du Plessis",
+      "wickets": 0,
+      "economy": 16.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Midhun",
+      "wickets": 0,
+      "economy": 13.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "S Rana",
+      "wickets": 0,
+      "economy": 6.75,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NL McCullum",
+      "wickets": 0,
+      "economy": 6.8,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NJ Rimmington",
+      "wickets": 0,
+      "economy": 6.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "K Upadhyay",
+      "wickets": 0,
+      "economy": 9.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "JE Root",
+      "wickets": 0,
+      "economy": 7.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gurnoor Brar",
+      "wickets": 0,
+      "economy": 14.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "H Sharma",
+      "wickets": 0,
+      "economy": 11.4,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RR Bhatkal",
+      "wickets": 0,
+      "economy": 17.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Gulbadin Naib",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RR Bose",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RS Gavaskar",
+      "wickets": 0,
+      "economy": 8.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RW Price",
+      "wickets": 0,
+      "economy": 11.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RV Patel",
+      "wickets": 0,
+      "economy": 7.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "NA Saini",
+      "wickets": 0,
+      "economy": 17.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "AUK Pathan",
+      "wickets": 0,
+      "economy": 9.69,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Abdur Razzak",
+      "wickets": 0,
+      "economy": 14.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Aman Hakim Khan",
+      "wickets": 0,
+      "economy": 13.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RA Shaikh",
+      "wickets": 0,
+      "economy": 11.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "RA Tripathi",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "GF Linde",
+      "wickets": 0,
+      "economy": 8.88,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sunny Gupta",
+      "wickets": 0,
+      "economy": 15.67,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MW Short",
+      "wickets": 0,
+      "economy": 6.24,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Karim Janat",
+      "wickets": 0,
+      "economy": 30.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MG Neser",
+      "wickets": 0,
+      "economy": 15.5,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MJ Suthar",
+      "wickets": 0,
+      "economy": 13.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SZ Mulani",
+      "wickets": 0,
+      "economy": 11.4,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KR Mayers",
+      "wickets": 0,
+      "economy": 8.43,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KS Williamson",
+      "wickets": 0,
+      "economy": 10.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DA Warner",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "DJ Harris",
+      "wickets": 0,
+      "economy": 8.67,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SPD Smith",
+      "wickets": 0,
+      "economy": 15.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SR Tendulkar",
+      "wickets": 0,
+      "economy": 9.67,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SS Iyer",
+      "wickets": 0,
+      "economy": 7.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "SN Khan",
+      "wickets": 0,
+      "economy": 18.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Sumit Kumar",
+      "wickets": 0,
+      "economy": 11.4,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "KAJ Roach",
+      "wickets": 0,
+      "economy": 10.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Mandeep Singh",
+      "wickets": 0,
+      "economy": 13.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Vijay",
+      "wickets": 0,
+      "economy": 8.17,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CJ Dala",
+      "wickets": 0,
+      "economy": 11.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Suryansh Shedge",
+      "wickets": 0,
+      "economy": 13.33,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CK Kapugedera",
+      "wickets": 0,
+      "economy": 17.29,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "CJ Green",
+      "wickets": 0,
+      "economy": 8.47,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Tiwari",
+      "wickets": 0,
+      "economy": 14.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LRPL Taylor",
+      "wickets": 0,
+      "economy": 12.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "M Manhas",
+      "wickets": 0,
+      "economy": 6.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "LPC Silva",
+      "wickets": 0,
+      "economy": 21.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "MB Parmar",
+      "wickets": 0,
+      "economy": 11.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "Y Gnaneswara Rao",
+      "wickets": 0,
+      "economy": 7.0,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    },
+    {
+      "bowler": "A Dananjaya",
+      "wickets": 0,
+      "economy": 11.75,
+      "average": 0.0,
+      "strike_rate": 0.0,
+      "four_wkt_hauls": 0,
+      "five_wkt_hauls": 0
+    }
+  ]
+}

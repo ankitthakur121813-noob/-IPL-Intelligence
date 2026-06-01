@@ -1,0 +1,173 @@
+{
+  "venues": [
+    {
+      "venue": "Eden Gardens",
+      "matches": 77,
+      "bat_first_wins": 30,
+      "chase_wins": 47,
+      "bat_first_win_pct": 39.0,
+      "avg_first_innings": 160.2,
+      "avg_second_innings": 147.1,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 16.9
+    },
+    {
+      "venue": "Wankhede Stadium",
+      "matches": 73,
+      "bat_first_wins": 35,
+      "chase_wins": 38,
+      "bat_first_win_pct": 47.9,
+      "avg_first_innings": 166.0,
+      "avg_second_innings": 154.4,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 17.0
+    },
+    {
+      "venue": "M Chinnaswamy Stadium",
+      "matches": 65,
+      "bat_first_wins": 29,
+      "chase_wins": 36,
+      "bat_first_win_pct": 44.6,
+      "avg_first_innings": 168.1,
+      "avg_second_innings": 145.5,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 17.5
+    },
+    {
+      "venue": "Feroz Shah Kotla",
+      "matches": 60,
+      "bat_first_wins": 27,
+      "chase_wins": 33,
+      "bat_first_win_pct": 45.0,
+      "avg_first_innings": 161.6,
+      "avg_second_innings": 147.8,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 16.5
+    },
+    {
+      "venue": "Wankhede Stadium, Mumbai",
+      "matches": 55,
+      "bat_first_wins": 22,
+      "chase_wins": 33,
+      "bat_first_win_pct": 40.0,
+      "avg_first_innings": 179.1,
+      "avg_second_innings": 170.2,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 19.3
+    },
+    {
+      "venue": "Rajiv Gandhi International Stadium, Uppal",
+      "matches": 49,
+      "bat_first_wins": 19,
+      "chase_wins": 30,
+      "bat_first_win_pct": 38.8,
+      "avg_first_innings": 156.1,
+      "avg_second_innings": 147.0,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.3
+    },
+    {
+      "venue": "MA Chidambaram Stadium, Chepauk",
+      "matches": 48,
+      "bat_first_wins": 31,
+      "chase_wins": 17,
+      "bat_first_win_pct": 64.6,
+      "avg_first_innings": 166.0,
+      "avg_second_innings": 151.9,
+      "pitch_type": "Bat First Venue",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.0
+    },
+    {
+      "venue": "Sawai Mansingh Stadium",
+      "matches": 47,
+      "bat_first_wins": 15,
+      "chase_wins": 32,
+      "bat_first_win_pct": 31.9,
+      "avg_first_innings": 157.7,
+      "avg_second_innings": 145.8,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.4
+    },
+    {
+      "venue": "Dubai International Cricket Stadium",
+      "matches": 46,
+      "bat_first_wins": 23,
+      "chase_wins": 23,
+      "bat_first_win_pct": 50.0,
+      "avg_first_innings": 163.8,
+      "avg_second_innings": 149.1,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.0
+    },
+    {
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "matches": 37,
+      "bat_first_wins": 17,
+      "chase_wins": 20,
+      "bat_first_win_pct": 45.9,
+      "avg_first_innings": 167.6,
+      "avg_second_innings": 154.6,
+      "pitch_type": "Balanced",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.8
+    },
+    {
+      "venue": "Punjab Cricket Association Stadium, Mohali",
+      "matches": 35,
+      "bat_first_wins": 15,
+      "chase_wins": 20,
+      "bat_first_win_pct": 42.9,
+      "avg_first_innings": 163.3,
+      "avg_second_innings": 150.6,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 16.3
+    },
+    {
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "matches": 34,
+      "bat_first_wins": 17,
+      "chase_wins": 17,
+      "bat_first_win_pct": 50.0,
+      "avg_first_innings": 187.3,
+      "avg_second_innings": 171.1,
+      "pitch_type": "Batting Paradise",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 19.1
+    },
+    {
+      "venue": "Sheikh Zayed Stadium",
+      "matches": 29,
+      "bat_first_wins": 12,
+      "chase_wins": 17,
+      "bat_first_win_pct": 41.4,
+      "avg_first_innings": 158.9,
+      "avg_second_innings": 145.6,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 15.0
+    },
+    {
+      "venue": "Sharjah Cricket Stadium",
+      "matches": 28,
+      "bat_first_wins": 10,
+      "chase_wins": 18,
+      "bat_first_win_pct": 35.7,
+      "avg_first_innings": 159.0,
+      "avg_second_innings": 147.5,
+      "pitch_type": "Chase Friendly",
+      "boundary_opportunity": "Low",
+      "boundary_pct": 14.8
+    }
+  ],
+  "toss_win_pct": 50.8
+}

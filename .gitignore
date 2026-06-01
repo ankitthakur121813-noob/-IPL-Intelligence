@@ -1,0 +1,5 @@
+IPL.csv
+ipl_2026_batting.csv
+ipl_2026_bowling.csv
+__pycache__/
+*.pyc

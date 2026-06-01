@@ -1,0 +1,6475 @@
+{
+  "impact_scores": [
+    {
+      "player": "V Kohli",
+      "runs": 8880,
+      "avg": 39.8,
+      "sr": 133.6,
+      "innings": 266,
+      "sixes": 299,
+      "impact_score": 3604.0
+    },
+    {
+      "player": "RG Sharma",
+      "runs": 7140,
+      "avg": 29.8,
+      "sr": 132.2,
+      "innings": 271,
+      "sixes": 308,
+      "impact_score": 2904.6
+    },
+    {
+      "player": "S Dhawan",
+      "runs": 6736,
+      "avg": 35.1,
+      "sr": 127.0,
+      "innings": 222,
+      "sixes": 152,
+      "impact_score": 2743.0
+    },
+    {
+      "player": "DA Warner",
+      "runs": 6537,
+      "avg": 40.1,
+      "sr": 139.7,
+      "innings": 187,
+      "sixes": 233,
+      "impact_score": 2668.7
+    },
+    {
+      "player": "SK Raina",
+      "runs": 5513,
+      "avg": 32.4,
+      "sr": 137.0,
+      "innings": 201,
+      "sixes": 203,
+      "impact_score": 2256.0
+    },
+    {
+      "player": "MS Dhoni",
+      "runs": 5409,
+      "avg": 38.1,
+      "sr": 137.5,
+      "innings": 241,
+      "sixes": 261,
+      "impact_score": 2216.3
+    },
+    {
+      "player": "KL Rahul",
+      "runs": 5337,
+      "avg": 44.8,
+      "sr": 136.8,
+      "innings": 142,
+      "sixes": 212,
+      "impact_score": 2189.3
+    },
+    {
+      "player": "AM Rahane",
+      "runs": 5182,
+      "avg": 30.8,
+      "sr": 125.7,
+      "innings": 188,
+      "sixes": 132,
+      "impact_score": 2119.8
+    },
+    {
+      "player": "AB de Villiers",
+      "runs": 5148,
+      "avg": 39.6,
+      "sr": 151.4,
+      "innings": 172,
+      "sixes": 250,
+      "impact_score": 2116.5
+    },
+    {
+      "player": "CH Gayle",
+      "runs": 4956,
+      "avg": 39.6,
+      "sr": 148.8,
+      "innings": 145,
+      "sixes": 354,
+      "impact_score": 2038.9
+    },
+    {
+      "player": "RV Uthappa",
+      "runs": 4942,
+      "avg": 27.8,
+      "sr": 130.6,
+      "innings": 198,
+      "sixes": 182,
+      "impact_score": 2024.3
+    },
+    {
+      "player": "SV Samson",
+      "runs": 4881,
+      "avg": 31.3,
+      "sr": 140.5,
+      "innings": 176,
+      "sixes": 227,
+      "impact_score": 2003.9
+    },
+    {
+      "player": "KD Karthik",
+      "runs": 4824,
+      "avg": 26.7,
+      "sr": 135.1,
+      "innings": 235,
+      "sixes": 161,
+      "impact_score": 1978.1
+    },
+    {
+      "player": "F du Plessis",
+      "runs": 4763,
+      "avg": 35.0,
+      "sr": 135.9,
+      "innings": 147,
+      "sixes": 174,
+      "impact_score": 1956.5
+    },
+    {
+      "player": "SA Yadav",
+      "runs": 4398,
+      "avg": 34.1,
+      "sr": 148.6,
+      "innings": 157,
+      "sixes": 170,
+      "impact_score": 1814.0
+    },
+    {
+      "player": "AT Rayudu",
+      "runs": 4325,
+      "avg": 27.9,
+      "sr": 127.5,
+      "innings": 185,
+      "sixes": 171,
+      "impact_score": 1776.6
+    },
+    {
+      "player": "JC Buttler",
+      "runs": 4273,
+      "avg": 40.3,
+      "sr": 149.4,
+      "innings": 124,
+      "sixes": 190,
+      "impact_score": 1766.1
+    },
+    {
+      "player": "G Gambhir",
+      "runs": 4197,
+      "avg": 31.1,
+      "sr": 123.7,
+      "innings": 151,
+      "sixes": 58,
+      "impact_score": 1725.2
+    },
+    {
+      "player": "Shubman Gill",
+      "runs": 4019,
+      "avg": 40.2,
+      "sr": 139.3,
+      "innings": 117,
+      "sixes": 125,
+      "impact_score": 1661.4
+    },
+    {
+      "player": "MK Pandey",
+      "runs": 3932,
+      "avg": 29.3,
+      "sr": 121.4,
+      "innings": 162,
+      "sixes": 115,
+      "impact_score": 1618.0
+    },
+    {
+      "player": "SS Iyer",
+      "runs": 3928,
+      "avg": 34.8,
+      "sr": 135.5,
+      "innings": 136,
+      "sixes": 166,
+      "impact_score": 1622.3
+    },
+    {
+      "player": "SR Watson",
+      "runs": 3864,
+      "avg": 30.9,
+      "sr": 138.0,
+      "innings": 143,
+      "sixes": 190,
+      "impact_score": 1596.3
+    },
+    {
+      "player": "RR Pant",
+      "runs": 3654,
+      "avg": 33.8,
+      "sr": 146.6,
+      "innings": 131,
+      "sixes": 170,
+      "impact_score": 1515.7
+    },
+    {
+      "player": "Q de Kock",
+      "runs": 3416,
+      "avg": 31.3,
+      "sr": 135.3,
+      "innings": 117,
+      "sixes": 140,
+      "impact_score": 1416.4
+    },
+    {
+      "player": "KA Pollard",
+      "runs": 3411,
+      "avg": 28.2,
+      "sr": 147.3,
+      "innings": 172,
+      "sixes": 221,
+      "impact_score": 1417.1
+    },
+    {
+      "player": "RA Jadeja",
+      "runs": 3319,
+      "avg": 28.1,
+      "sr": 130.0,
+      "innings": 197,
+      "sixes": 116,
+      "impact_score": 1375.0
+    },
+    {
+      "player": "YK Pathan",
+      "runs": 3210,
+      "avg": 29.4,
+      "sr": 143.8,
+      "innings": 154,
+      "sixes": 161,
+      "impact_score": 1336.0
+    },
+    {
+      "player": "Ishan Kishan",
+      "runs": 3202,
+      "avg": 29.6,
+      "sr": 140.4,
+      "innings": 117,
+      "sixes": 146,
+      "impact_score": 1331.8
+    },
+    {
+      "player": "DA Miller",
+      "runs": 3141,
+      "avg": 36.1,
+      "sr": 138.7,
+      "innings": 137,
+      "sixes": 141,
+      "impact_score": 1308.8
+    },
+    {
+      "player": "WP Saha",
+      "runs": 2929,
+      "avg": 24.6,
+      "sr": 127.6,
+      "innings": 143,
+      "sixes": 87,
+      "impact_score": 1217.3
+    },
+    {
+      "player": "N Rana",
+      "runs": 2858,
+      "avg": 27.2,
+      "sr": 135.8,
+      "innings": 115,
+      "sixes": 141,
+      "impact_score": 1192.1
+    },
+    {
+      "player": "BB McCullum",
+      "runs": 2857,
+      "avg": 27.5,
+      "sr": 131.3,
+      "innings": 111,
+      "sixes": 128,
+      "impact_score": 1190.4
+    },
+    {
+      "player": "PA Patel",
+      "runs": 2841,
+      "avg": 22.5,
+      "sr": 120.9,
+      "innings": 136,
+      "sixes": 49,
+      "impact_score": 1179.4
+    },
+    {
+      "player": "HH Pandya",
+      "runs": 2826,
+      "avg": 28.0,
+      "sr": 147.4,
+      "innings": 147,
+      "sixes": 152,
+      "impact_score": 1183.0
+    },
+    {
+      "player": "GJ Maxwell",
+      "runs": 2812,
+      "avg": 23.8,
+      "sr": 155.4,
+      "innings": 135,
+      "sixes": 161,
+      "impact_score": 1178.6
+    },
+    {
+      "player": "MA Agarwal",
+      "runs": 2746,
+      "avg": 23.1,
+      "sr": 133.8,
+      "innings": 126,
+      "sixes": 100,
+      "impact_score": 1145.5
+    },
+    {
+      "player": "Yuvraj Singh",
+      "runs": 2742,
+      "avg": 24.7,
+      "sr": 129.6,
+      "innings": 127,
+      "sixes": 149,
+      "impact_score": 1143.1
+    },
+    {
+      "player": "V Sehwag",
+      "runs": 2713,
+      "avg": 27.4,
+      "sr": 155.9,
+      "innings": 104,
+      "sixes": 105,
+      "impact_score": 1140.2
+    },
+    {
+      "player": "AD Russell",
+      "runs": 2632,
+      "avg": 27.7,
+      "sr": 174.5,
+      "innings": 115,
+      "sixes": 222,
+      "impact_score": 1113.5
+    },
+    {
+      "player": "M Vijay",
+      "runs": 2619,
+      "avg": 26.2,
+      "sr": 122.0,
+      "innings": 105,
+      "sixes": 91,
+      "impact_score": 1092.1
+    },
+    {
+      "player": "RD Gaikwad",
+      "runs": 2557,
+      "avg": 38.2,
+      "sr": 136.7,
+      "innings": 75,
+      "sixes": 96,
+      "impact_score": 1075.3
+    },
+    {
+      "player": "SE Marsh",
+      "runs": 2473,
+      "avg": 39.3,
+      "sr": 132.5,
+      "innings": 70,
+      "sixes": 77,
+      "impact_score": 1040.7
+    },
+    {
+      "player": "SPD Smith",
+      "runs": 2461,
+      "avg": 34.2,
+      "sr": 127.4,
+      "innings": 95,
+      "sixes": 58,
+      "impact_score": 1032.9
+    },
+    {
+      "player": "JH Kallis",
+      "runs": 2419,
+      "avg": 28.5,
+      "sr": 109.3,
+      "innings": 95,
+      "sixes": 44,
+      "impact_score": 1008.9
+    },
+    {
+      "player": "DR Smith",
+      "runs": 2379,
+      "avg": 28.3,
+      "sr": 135.6,
+      "innings": 88,
+      "sixes": 117,
+      "impact_score": 1000.8
+    },
+    {
+      "player": "YBK Jaiswal",
+      "runs": 2338,
+      "avg": 34.9,
+      "sr": 152.9,
+      "innings": 71,
+      "sixes": 101,
+      "impact_score": 991.5
+    },
+    {
+      "player": "SR Tendulkar",
+      "runs": 2331,
+      "avg": 33.8,
+      "sr": 120.1,
+      "innings": 78,
+      "sixes": 29,
+      "impact_score": 978.6
+    },
+    {
+      "player": "N Pooran",
+      "runs": 2330,
+      "avg": 31.5,
+      "sr": 165.4,
+      "innings": 93,
+      "sixes": 170,
+      "impact_score": 991.1
+    },
+    {
+      "player": "RA Tripathi",
+      "runs": 2268,
+      "avg": 25.8,
+      "sr": 137.0,
+      "innings": 98,
+      "sixes": 84,
+      "impact_score": 956.0
+    },
+    {
+      "player": "R Dravid",
+      "runs": 2173,
+      "avg": 28.2,
+      "sr": 115.7,
+      "innings": 82,
+      "sixes": 28,
+      "impact_score": 912.4
+    },
+    {
+      "player": "KS Williamson",
+      "runs": 2128,
+      "avg": 35.5,
+      "sr": 125.8,
+      "innings": 77,
+      "sixes": 64,
+      "impact_score": 899.6
+    },
+    {
+      "player": "AJ Finch",
+      "runs": 2083,
+      "avg": 24.8,
+      "sr": 128.1,
+      "innings": 91,
+      "sixes": 77,
+      "impact_score": 879.1
+    },
+    {
+      "player": "AC Gilchrist",
+      "runs": 2046,
+      "avg": 26.9,
+      "sr": 138.0,
+      "innings": 80,
+      "sixes": 92,
+      "impact_score": 867.9
+    },
+    {
+      "player": "MP Stoinis",
+      "runs": 2035,
+      "avg": 28.3,
+      "sr": 145.1,
+      "innings": 102,
+      "sixes": 106,
+      "impact_score": 866.0
+    },
+    {
+      "player": "JP Duminy",
+      "runs": 2026,
+      "avg": 39.7,
+      "sr": 124.2,
+      "innings": 75,
+      "sixes": 79,
+      "impact_score": 859.6
+    },
+    {
+      "player": "MEK Hussey",
+      "runs": 1976,
+      "avg": 38.7,
+      "sr": 122.7,
+      "innings": 58,
+      "sixes": 52,
+      "impact_score": 838.8
+    },
+    {
+      "player": "S Dube",
+      "runs": 1946,
+      "avg": 30.9,
+      "sr": 143.5,
+      "innings": 80,
+      "sixes": 124,
+      "impact_score": 830.7
+    },
+    {
+      "player": "Abhishek Sharma",
+      "runs": 1937,
+      "avg": 26.9,
+      "sr": 165.8,
+      "innings": 79,
+      "sixes": 113,
+      "impact_score": 832.6
+    },
+    {
+      "player": "D Padikkal",
+      "runs": 1937,
+      "avg": 25.8,
+      "sr": 129.3,
+      "innings": 78,
+      "sixes": 62,
+      "impact_score": 821.3
+    },
+    {
+      "player": "AR Patel",
+      "runs": 1909,
+      "avg": 21.2,
+      "sr": 133.4,
+      "innings": 126,
+      "sixes": 93,
+      "impact_score": 810.0
+    },
+    {
+      "player": "PP Shaw",
+      "runs": 1890,
+      "avg": 23.9,
+      "sr": 147.8,
+      "innings": 79,
+      "sixes": 61,
+      "impact_score": 807.5
+    },
+    {
+      "player": "B Sai Sudharsan",
+      "runs": 1889,
+      "avg": 47.2,
+      "sr": 145.9,
+      "innings": 44,
+      "sixes": 55,
+      "impact_score": 813.5
+    },
+    {
+      "player": "SP Narine",
+      "runs": 1814,
+      "avg": 17.6,
+      "sr": 166.7,
+      "innings": 120,
+      "sixes": 120,
+      "impact_score": 780.9
+    },
+    {
+      "player": "DPMD Jayawardene",
+      "runs": 1806,
+      "avg": 28.2,
+      "sr": 123.5,
+      "innings": 79,
+      "sixes": 40,
+      "impact_score": 767.9
+    },
+    {
+      "player": "KH Pandya",
+      "runs": 1749,
+      "avg": 21.3,
+      "sr": 131.6,
+      "innings": 115,
+      "sixes": 65,
+      "impact_score": 745.5
+    },
+    {
+      "player": "Mandeep Singh",
+      "runs": 1705,
+      "avg": 21.0,
+      "sr": 123.1,
+      "innings": 97,
+      "sixes": 38,
+      "impact_score": 725.2
+    },
+    {
+      "player": "H Klaasen",
+      "runs": 1695,
+      "avg": 40.4,
+      "sr": 166.2,
+      "innings": 50,
+      "sixes": 97,
+      "impact_score": 740.0
+    },
+    {
+      "player": "KK Nair",
+      "runs": 1689,
+      "avg": 23.8,
+      "sr": 131.6,
+      "innings": 76,
+      "sixes": 49,
+      "impact_score": 722.2
+    },
+    {
+      "player": "MK Tiwary",
+      "runs": 1685,
+      "avg": 29.1,
+      "sr": 116.7,
+      "innings": 83,
+      "sixes": 40,
+      "impact_score": 717.7
+    },
+    {
+      "player": "KC Sangakkara",
+      "runs": 1680,
+      "avg": 25.8,
+      "sr": 121.3,
+      "innings": 68,
+      "sixes": 26,
+      "impact_score": 716.1
+    },
+    {
+      "player": "JM Bairstow",
+      "runs": 1672,
+      "avg": 34.8,
+      "sr": 146.4,
+      "innings": 52,
+      "sixes": 74,
+      "impact_score": 723.2
+    },
+    {
+      "player": "R Parag",
+      "runs": 1614,
+      "avg": 25.2,
+      "sr": 142.0,
+      "innings": 78,
+      "sixes": 91,
+      "impact_score": 695.8
+    },
+    {
+      "player": "P Simran Singh",
+      "runs": 1559,
+      "avg": 28.9,
+      "sr": 155.0,
+      "innings": 56,
+      "sixes": 81,
+      "impact_score": 678.8
+    },
+    {
+      "player": "AK Markram",
+      "runs": 1554,
+      "avg": 30.5,
+      "sr": 136.2,
+      "innings": 60,
+      "sixes": 62,
+      "impact_score": 671.6
+    },
+    {
+      "player": "DJ Bravo",
+      "runs": 1546,
+      "avg": 22.4,
+      "sr": 129.3,
+      "innings": 110,
+      "sixes": 65,
+      "impact_score": 663.9
+    },
+    {
+      "player": "NV Ojha",
+      "runs": 1543,
+      "avg": 20.6,
+      "sr": 118.0,
+      "innings": 94,
+      "sixes": 78,
+      "impact_score": 658.8
+    },
+    {
+      "player": "Tilak Varma",
+      "runs": 1533,
+      "avg": 34.8,
+      "sr": 144.1,
+      "innings": 56,
+      "sixes": 73,
+      "impact_score": 666.9
+    },
+    {
+      "player": "SO Hetmyer",
+      "runs": 1510,
+      "avg": 28.5,
+      "sr": 152.4,
+      "innings": 82,
+      "sixes": 95,
+      "impact_score": 658.3
+    },
+    {
+      "player": "VR Iyer",
+      "runs": 1491,
+      "avg": 30.4,
+      "sr": 137.7,
+      "innings": 57,
+      "sixes": 66,
+      "impact_score": 646.8
+    },
+    {
+      "player": "SS Tiwary",
+      "runs": 1489,
+      "avg": 29.2,
+      "sr": 120.6,
+      "innings": 73,
+      "sixes": 50,
+      "impact_score": 640.5
+    },
+    {
+      "player": "DJ Hooda",
+      "runs": 1480,
+      "avg": 17.6,
+      "sr": 126.8,
+      "innings": 102,
+      "sixes": 61,
+      "impact_score": 635.3
+    },
+    {
+      "player": "S Badrinath",
+      "runs": 1438,
+      "avg": 30.6,
+      "sr": 119.0,
+      "innings": 65,
+      "sixes": 28,
+      "impact_score": 620.1
+    },
+    {
+      "player": "MR Marsh",
+      "runs": 1407,
+      "avg": 27.1,
+      "sr": 142.3,
+      "innings": 54,
+      "sixes": 82,
+      "impact_score": 613.6
+    },
+    {
+      "player": "EJG Morgan",
+      "runs": 1406,
+      "avg": 22.7,
+      "sr": 122.6,
+      "innings": 75,
+      "sixes": 64,
+      "impact_score": 606.0
+    },
+    {
+      "player": "BJ Hodge",
+      "runs": 1399,
+      "avg": 33.3,
+      "sr": 125.8,
+      "innings": 63,
+      "sixes": 43,
+      "impact_score": 607.3
+    },
+    {
+      "player": "SC Ganguly",
+      "runs": 1343,
+      "avg": 25.3,
+      "sr": 106.8,
+      "innings": 56,
+      "sixes": 41,
+      "impact_score": 576.8
+    },
+    {
+      "player": "RM Patidar",
+      "runs": 1332,
+      "avg": 33.3,
+      "sr": 161.8,
+      "innings": 43,
+      "sixes": 89,
+      "impact_score": 591.3
+    },
+    {
+      "player": "CA Lynn",
+      "runs": 1317,
+      "avg": 33.8,
+      "sr": 140.0,
+      "innings": 42,
+      "sixes": 65,
+      "impact_score": 578.9
+    },
+    {
+      "player": "DJ Hussey",
+      "runs": 1316,
+      "avg": 27.4,
+      "sr": 123.0,
+      "innings": 61,
+      "sixes": 60,
+      "impact_score": 571.5
+    },
+    {
+      "player": "TM Head",
+      "runs": 1260,
+      "avg": 33.2,
+      "sr": 169.1,
+      "innings": 42,
+      "sixes": 59,
+      "impact_score": 564.7
+    },
+    {
+      "player": "V Shankar",
+      "runs": 1227,
+      "avg": 26.1,
+      "sr": 129.6,
+      "innings": 63,
+      "sixes": 48,
+      "impact_score": 537.5
+    },
+    {
+      "player": "KM Jadhav",
+      "runs": 1191,
+      "avg": 22.1,
+      "sr": 122.9,
+      "innings": 81,
+      "sixes": 40,
+      "impact_score": 519.9
+    },
+    {
+      "player": "PD Salt",
+      "runs": 1190,
+      "avg": 33.1,
+      "sr": 175.8,
+      "innings": 39,
+      "sixes": 64,
+      "impact_score": 538.7
+    },
+    {
+      "player": "MM Ali",
+      "runs": 1165,
+      "avg": 22.4,
+      "sr": 140.2,
+      "innings": 59,
+      "sixes": 67,
+      "impact_score": 514.8
+    },
+    {
+      "player": "RK Singh",
+      "runs": 1161,
+      "avg": 29.8,
+      "sr": 142.6,
+      "innings": 55,
+      "sixes": 55,
+      "impact_score": 516.1
+    },
+    {
+      "player": "IK Pathan",
+      "runs": 1149,
+      "avg": 21.7,
+      "sr": 121.3,
+      "innings": 83,
+      "sixes": 38,
+      "impact_score": 502.5
+    },
+    {
+      "player": "R Tewatia",
+      "runs": 1143,
+      "avg": 23.3,
+      "sr": 137.5,
+      "innings": 80,
+      "sixes": 55,
+      "impact_score": 505.4
+    },
+    {
+      "player": "TM Dilshan",
+      "runs": 1138,
+      "avg": 26.5,
+      "sr": 113.7,
+      "innings": 50,
+      "sixes": 24,
+      "impact_score": 497.3
+    },
+    {
+      "player": "ML Hayden",
+      "runs": 1096,
+      "avg": 36.5,
+      "sr": 137.2,
+      "innings": 33,
+      "sixes": 44,
+      "impact_score": 490.5
+    },
+    {
+      "player": "M Vohra",
+      "runs": 1083,
+      "avg": 22.1,
+      "sr": 130.8,
+      "innings": 51,
+      "sixes": 43,
+      "impact_score": 479.1
+    },
+    {
+      "player": "DP Conway",
+      "runs": 1079,
+      "avg": 43.2,
+      "sr": 140.1,
+      "innings": 28,
+      "sixes": 34,
+      "impact_score": 486.6
+    },
+    {
+      "player": "LMP Simmons",
+      "runs": 1079,
+      "avg": 40.0,
+      "sr": 127.2,
+      "innings": 29,
+      "sixes": 44,
+      "impact_score": 481.8
+    },
+    {
+      "player": "A Badoni",
+      "runs": 1075,
+      "avg": 26.2,
+      "sr": 138.9,
+      "innings": 51,
+      "sixes": 41,
+      "impact_score": 479.5
+    },
+    {
+      "player": "LS Livingstone",
+      "runs": 1049,
+      "avg": 26.2,
+      "sr": 155.4,
+      "innings": 48,
+      "sixes": 75,
+      "impact_score": 474.1
+    },
+    {
+      "player": "JM Sharma",
+      "runs": 1022,
+      "avg": 23.8,
+      "sr": 156.0,
+      "innings": 51,
+      "sixes": 63,
+      "impact_score": 462.7
+    },
+    {
+      "player": "LRPL Taylor",
+      "runs": 1010,
+      "avg": 25.2,
+      "sr": 123.5,
+      "innings": 54,
+      "sixes": 45,
+      "impact_score": 448.6
+    },
+    {
+      "player": "KP Pietersen",
+      "runs": 1000,
+      "avg": 37.0,
+      "sr": 134.8,
+      "innings": 36,
+      "sixes": 40,
+      "impact_score": 451.5
+    },
+    {
+      "player": "MC Henriques",
+      "runs": 996,
+      "avg": 27.7,
+      "sr": 126.9,
+      "innings": 54,
+      "sixes": 28,
+      "impact_score": 444.8
+    },
+    {
+      "player": "SM Curran",
+      "runs": 986,
+      "avg": 24.6,
+      "sr": 136.0,
+      "innings": 53,
+      "sixes": 41,
+      "impact_score": 442.6
+    },
+    {
+      "player": "Y Venugopal Rao",
+      "runs": 980,
+      "avg": 22.3,
+      "sr": 117.8,
+      "innings": 52,
+      "sixes": 37,
+      "impact_score": 434.0
+    },
+    {
+      "player": "TH David",
+      "runs": 976,
+      "avg": 36.1,
+      "sr": 177.8,
+      "innings": 49,
+      "sixes": 71,
+      "impact_score": 454.6
+    },
+    {
+      "player": "A Symonds",
+      "runs": 973,
+      "avg": 37.4,
+      "sr": 130.6,
+      "innings": 36,
+      "sixes": 41,
+      "impact_score": 439.6
+    },
+    {
+      "player": "JA Morkel",
+      "runs": 967,
+      "avg": 24.2,
+      "sr": 141.6,
+      "innings": 68,
+      "sixes": 54,
+      "impact_score": 436.5
+    },
+    {
+      "player": "CL White",
+      "runs": 962,
+      "avg": 26.7,
+      "sr": 127.1,
+      "innings": 46,
+      "sixes": 38,
+      "impact_score": 430.9
+    },
+    {
+      "player": "BA Stokes",
+      "runs": 934,
+      "avg": 24.6,
+      "sr": 134.4,
+      "innings": 43,
+      "sixes": 32,
+      "impact_score": 421.3
+    },
+    {
+      "player": "HH Gibbs",
+      "runs": 886,
+      "avg": 27.7,
+      "sr": 110.1,
+      "innings": 36,
+      "sixes": 31,
+      "impact_score": 395.7
+    },
+    {
+      "player": "STR Binny",
+      "runs": 879,
+      "avg": 19.1,
+      "sr": 128.9,
+      "innings": 66,
+      "sixes": 35,
+      "impact_score": 396.0
+    },
+    {
+      "player": "Dhruv Jurel",
+      "runs": 856,
+      "avg": 31.7,
+      "sr": 158.2,
+      "innings": 40,
+      "sixes": 46,
+      "impact_score": 399.4
+    },
+    {
+      "player": "R Ashwin",
+      "runs": 832,
+      "avg": 13.0,
+      "sr": 118.3,
+      "innings": 93,
+      "sixes": 29,
+      "impact_score": 372.2
+    },
+    {
+      "player": "Harbhajan Singh",
+      "runs": 824,
+      "avg": 15.0,
+      "sr": 137.6,
+      "innings": 88,
+      "sixes": 42,
+      "impact_score": 375.4
+    },
+    {
+      "player": "T Stubbs",
+      "runs": 814,
+      "avg": 42.8,
+      "sr": 159.3,
+      "innings": 35,
+      "sixes": 41,
+      "impact_score": 386.2
+    },
+    {
+      "player": "Abdul Samad",
+      "runs": 810,
+      "avg": 18.8,
+      "sr": 146.7,
+      "innings": 57,
+      "sixes": 51,
+      "impact_score": 373.6
+    },
+    {
+      "player": "Shashank Singh",
+      "runs": 807,
+      "avg": 40.4,
+      "sr": 158.2,
+      "innings": 36,
+      "sixes": 44,
+      "impact_score": 382.4
+    },
+    {
+      "player": "MS Bisla",
+      "runs": 794,
+      "avg": 20.9,
+      "sr": 113.4,
+      "innings": 39,
+      "sixes": 23,
+      "impact_score": 357.9
+    },
+    {
+      "player": "Shakib Al Hasan",
+      "runs": 788,
+      "avg": 19.7,
+      "sr": 124.1,
+      "innings": 53,
+      "sixes": 21,
+      "impact_score": 358.3
+    },
+    {
+      "player": "ST Jayasuriya",
+      "runs": 760,
+      "avg": 27.1,
+      "sr": 143.7,
+      "innings": 30,
+      "sixes": 38,
+      "impact_score": 355.2
+    },
+    {
+      "player": "C Green",
+      "runs": 755,
+      "avg": 36.0,
+      "sr": 152.2,
+      "innings": 33,
+      "sixes": 33,
+      "impact_score": 358.5
+    },
+    {
+      "player": "M Shahrukh Khan",
+      "runs": 747,
+      "avg": 21.3,
+      "sr": 149.4,
+      "innings": 50,
+      "sixes": 51,
+      "impact_score": 350.0
+    },
+    {
+      "player": "N Wadhera",
+      "runs": 745,
+      "avg": 24.8,
+      "sr": 140.8,
+      "innings": 34,
+      "sixes": 41,
+      "impact_score": 347.7
+    },
+    {
+      "player": "GC Smith",
+      "runs": 731,
+      "avg": 28.1,
+      "sr": 110.1,
+      "innings": 29,
+      "sixes": 9,
+      "impact_score": 333.9
+    },
+    {
+      "player": "AD Mathews",
+      "runs": 722,
+      "avg": 23.3,
+      "sr": 126.0,
+      "innings": 41,
+      "sixes": 29,
+      "impact_score": 333.6
+    },
+    {
+      "player": "SN Khan",
+      "runs": 696,
+      "avg": 23.2,
+      "sr": 136.5,
+      "innings": 40,
+      "sixes": 20,
+      "impact_score": 326.3
+    },
+    {
+      "player": "TL Suman",
+      "runs": 676,
+      "avg": 21.1,
+      "sr": 118.0,
+      "innings": 39,
+      "sixes": 26,
+      "impact_score": 312.1
+    },
+    {
+      "player": "AM Nayar",
+      "runs": 664,
+      "avg": 17.5,
+      "sr": 115.9,
+      "innings": 50,
+      "sixes": 20,
+      "impact_score": 305.6
+    },
+    {
+      "player": "Priyansh Arya",
+      "runs": 663,
+      "avg": 30.1,
+      "sr": 191.6,
+      "innings": 22,
+      "sixes": 42,
+      "impact_score": 331.7
+    },
+    {
+      "player": "Abishek Porel",
+      "runs": 660,
+      "avg": 26.4,
+      "sr": 150.0,
+      "innings": 29,
+      "sixes": 27,
+      "impact_score": 316.9
+    },
+    {
+      "player": "GJ Bailey",
+      "runs": 660,
+      "avg": 25.4,
+      "sr": 122.0,
+      "innings": 36,
+      "sixes": 19,
+      "impact_score": 308.2
+    },
+    {
+      "player": "E Lewis",
+      "runs": 654,
+      "avg": 27.2,
+      "sr": 137.1,
+      "innings": 26,
+      "sixes": 36,
+      "impact_score": 310.9
+    },
+    {
+      "player": "A Raghuvanshi",
+      "runs": 645,
+      "avg": 32.2,
+      "sr": 147.9,
+      "innings": 23,
+      "sixes": 23,
+      "impact_score": 312.0
+    },
+    {
+      "player": "PP Chawla",
+      "runs": 623,
+      "avg": 11.3,
+      "sr": 111.1,
+      "innings": 86,
+      "sixes": 20,
+      "impact_score": 285.9
+    },
+    {
+      "player": "JJ Roy",
+      "runs": 614,
+      "avg": 34.1,
+      "sr": 139.2,
+      "innings": 21,
+      "sixes": 21,
+      "impact_score": 297.6
+    },
+    {
+      "player": "CH Morris",
+      "runs": 612,
+      "avg": 21.9,
+      "sr": 154.2,
+      "innings": 49,
+      "sixes": 34,
+      "impact_score": 297.6
+    },
+    {
+      "player": "Nithish Kumar Reddy",
+      "runs": 608,
+      "avg": 29.0,
+      "sr": 137.9,
+      "innings": 27,
+      "sixes": 35,
+      "impact_score": 293.3
+    },
+    {
+      "player": "PJ Cummins",
+      "runs": 607,
+      "avg": 20.2,
+      "sr": 151.8,
+      "innings": 48,
+      "sixes": 41,
+      "impact_score": 294.4
+    },
+    {
+      "player": "Washington Sundar",
+      "runs": 604,
+      "avg": 16.8,
+      "sr": 129.6,
+      "innings": 47,
+      "sixes": 19,
+      "impact_score": 285.5
+    },
+    {
+      "player": "Rashid Khan",
+      "runs": 600,
+      "avg": 14.0,
+      "sr": 159.6,
+      "innings": 68,
+      "sixes": 41,
+      "impact_score": 292.1
+    },
+    {
+      "player": "JD Ryder",
+      "runs": 596,
+      "avg": 21.3,
+      "sr": 131.0,
+      "innings": 29,
+      "sixes": 19,
+      "impact_score": 284.1
+    },
+    {
+      "player": "HM Amla",
+      "runs": 575,
+      "avg": 44.2,
+      "sr": 141.6,
+      "innings": 16,
+      "sixes": 21,
+      "impact_score": 285.7
+    },
+    {
+      "player": "Shahbaz Ahmed",
+      "runs": 559,
+      "avg": 19.3,
+      "sr": 121.0,
+      "innings": 39,
+      "sixes": 25,
+      "impact_score": 265.7
+    },
+    {
+      "player": "CJ Anderson",
+      "runs": 538,
+      "avg": 24.5,
+      "sr": 127.8,
+      "innings": 29,
+      "sixes": 31,
+      "impact_score": 260.9
+    },
+    {
+      "player": "RS Bopara",
+      "runs": 531,
+      "avg": 29.5,
+      "sr": 117.2,
+      "innings": 22,
+      "sixes": 16,
+      "impact_score": 256.4
+    },
+    {
+      "player": "MK Lomror",
+      "runs": 526,
+      "avg": 18.8,
+      "sr": 141.4,
+      "innings": 35,
+      "sixes": 30,
+      "impact_score": 258.5
+    },
+    {
+      "player": "RD Rickelton",
+      "runs": 525,
+      "avg": 29.2,
+      "sr": 153.1,
+      "innings": 19,
+      "sixes": 29,
+      "impact_score": 264.7
+    },
+    {
+      "player": "JP Faulkner",
+      "runs": 524,
+      "avg": 20.2,
+      "sr": 136.1,
+      "innings": 46,
+      "sixes": 23,
+      "impact_score": 256.5
+    },
+    {
+      "player": "M Manhas",
+      "runs": 514,
+      "avg": 22.3,
+      "sr": 109.4,
+      "innings": 38,
+      "sixes": 10,
+      "impact_score": 245.1
+    },
+    {
+      "player": "Gurkeerat Singh",
+      "runs": 511,
+      "avg": 21.3,
+      "sr": 121.1,
+      "innings": 32,
+      "sixes": 11,
+      "impact_score": 247.1
+    },
+    {
+      "player": "OA Shah",
+      "runs": 505,
+      "avg": 33.7,
+      "sr": 130.2,
+      "innings": 22,
+      "sixes": 23,
+      "impact_score": 251.2
+    },
+    {
+      "player": "Naman Dhir",
+      "runs": 501,
+      "avg": 27.8,
+      "sr": 175.8,
+      "innings": 24,
+      "sixes": 28,
+      "impact_score": 261.5
+    },
+    {
+      "player": "PC Valthaty",
+      "runs": 499,
+      "avg": 22.7,
+      "sr": 120.5,
+      "innings": 23,
+      "sixes": 20,
+      "impact_score": 242.6
+    },
+    {
+      "player": "SE Rutherford",
+      "runs": 498,
+      "avg": 26.2,
+      "sr": 147.3,
+      "innings": 24,
+      "sixes": 37,
+      "impact_score": 251.2
+    },
+    {
+      "player": "SW Billings",
+      "runs": 497,
+      "avg": 19.1,
+      "sr": 129.1,
+      "innings": 27,
+      "sixes": 19,
+      "impact_score": 243.3
+    },
+    {
+      "player": "D Brevis",
+      "runs": 496,
+      "avg": 29.2,
+      "sr": 152.1,
+      "innings": 17,
+      "sixes": 35,
+      "impact_score": 252.8
+    },
+    {
+      "player": "RR Rossouw",
+      "runs": 471,
+      "avg": 23.6,
+      "sr": 153.9,
+      "innings": 22,
+      "sixes": 25,
+      "impact_score": 241.6
+    },
+    {
+      "player": "WG Jacks",
+      "runs": 457,
+      "avg": 26.9,
+      "sr": 151.3,
+      "innings": 19,
+      "sixes": 28,
+      "impact_score": 236.3
+    },
+    {
+      "player": "V Suryavanshi",
+      "runs": 452,
+      "avg": 37.7,
+      "sr": 229.4,
+      "innings": 12,
+      "sixes": 42,
+      "impact_score": 260.9
+    },
+    {
+      "player": "DT Christian",
+      "runs": 452,
+      "avg": 14.6,
+      "sr": 114.7,
+      "innings": 41,
+      "sixes": 18,
+      "impact_score": 219.6
+    },
+    {
+      "player": "R Powell",
+      "runs": 435,
+      "avg": 21.8,
+      "sr": 147.5,
+      "innings": 25,
+      "sixes": 32,
+      "impact_score": 224.8
+    },
+    {
+      "player": "SA Asnodkar",
+      "runs": 423,
+      "avg": 21.2,
+      "sr": 125.5,
+      "innings": 19,
+      "sixes": 10,
+      "impact_score": 213.2
+    },
+    {
+      "player": "NLTC Perera",
+      "runs": 421,
+      "avg": 19.1,
+      "sr": 137.6,
+      "innings": 31,
+      "sixes": 26,
+      "impact_score": 215.4
+    },
+    {
+      "player": "JR Hopes",
+      "runs": 417,
+      "avg": 26.1,
+      "sr": 136.7,
+      "innings": 19,
+      "sixes": 11,
+      "impact_score": 215.6
+    },
+    {
+      "player": "A Mhatre",
+      "runs": 410,
+      "avg": 34.2,
+      "sr": 181.4,
+      "innings": 12,
+      "sixes": 22,
+      "impact_score": 228.7
+    },
+    {
+      "player": "J Botha",
+      "runs": 408,
+      "avg": 20.4,
+      "sr": 114.0,
+      "innings": 28,
+      "sixes": 5,
+      "impact_score": 203.5
+    },
+    {
+      "player": "R Ravindra",
+      "runs": 408,
+      "avg": 24.0,
+      "sr": 143.7,
+      "innings": 18,
+      "sixes": 16,
+      "impact_score": 213.5
+    },
+    {
+      "player": "Ashutosh Sharma",
+      "runs": 405,
+      "avg": 27.0,
+      "sr": 164.6,
+      "innings": 19,
+      "sixes": 29,
+      "impact_score": 219.5
+    },
+    {
+      "player": "LR Shukla",
+      "runs": 405,
+      "avg": 15.0,
+      "sr": 115.7,
+      "innings": 33,
+      "sixes": 16,
+      "impact_score": 201.2
+    },
+    {
+      "player": "AL Menaria",
+      "runs": 395,
+      "avg": 18.8,
+      "sr": 111.6,
+      "innings": 23,
+      "sixes": 17,
+      "impact_score": 197.1
+    },
+    {
+      "player": "CA Pujara",
+      "runs": 390,
+      "avg": 20.5,
+      "sr": 100.0,
+      "innings": 22,
+      "sixes": 4,
+      "impact_score": 192.2
+    },
+    {
+      "player": "Azhar Mahmood",
+      "runs": 388,
+      "avg": 20.4,
+      "sr": 128.1,
+      "innings": 21,
+      "sixes": 13,
+      "impact_score": 199.8
+    },
+    {
+      "player": "MV Boucher",
+      "runs": 387,
+      "avg": 27.6,
+      "sr": 126.1,
+      "innings": 23,
+      "sixes": 12,
+      "impact_score": 200.9
+    },
+    {
+      "player": "A Mishra",
+      "runs": 380,
+      "avg": 12.3,
+      "sr": 91.1,
+      "innings": 55,
+      "sixes": 5,
+      "impact_score": 183.0
+    },
+    {
+      "player": "J Fraser-McGurk",
+      "runs": 379,
+      "avg": 25.3,
+      "sr": 198.4,
+      "innings": 15,
+      "sixes": 29,
+      "impact_score": 218.7
+    },
+    {
+      "player": "DB Ravi Teja",
+      "runs": 373,
+      "avg": 19.6,
+      "sr": 118.4,
+      "innings": 25,
+      "sixes": 9,
+      "impact_score": 190.6
+    },
+    {
+      "player": "KR Mayers",
+      "runs": 373,
+      "avg": 28.7,
+      "sr": 144.6,
+      "innings": 13,
+      "sixes": 21,
+      "impact_score": 201.2
+    },
+    {
+      "player": "S Sohal",
+      "runs": 368,
+      "avg": 18.4,
+      "sr": 127.3,
+      "innings": 20,
+      "sixes": 18,
+      "impact_score": 190.9
+    },
+    {
+      "player": "P Negi",
+      "runs": 364,
+      "avg": 14.0,
+      "sr": 126.4,
+      "innings": 35,
+      "sixes": 16,
+      "impact_score": 187.7
+    },
+    {
+      "player": "Rahmanullah Gurbaz",
+      "runs": 357,
+      "avg": 21.0,
+      "sr": 133.2,
+      "innings": 18,
+      "sixes": 21,
+      "impact_score": 189.1
+    },
+    {
+      "player": "KV Sharma",
+      "runs": 352,
+      "avg": 13.5,
+      "sr": 119.3,
+      "innings": 40,
+      "sixes": 17,
+      "impact_score": 180.6
+    },
+    {
+      "player": "DJ Mitchell",
+      "runs": 351,
+      "avg": 27.0,
+      "sr": 131.5,
+      "innings": 15,
+      "sixes": 10,
+      "impact_score": 188.0
+    },
+    {
+      "player": "R Bhatia",
+      "runs": 342,
+      "avg": 11.4,
+      "sr": 120.4,
+      "innings": 47,
+      "sixes": 13,
+      "impact_score": 176.3
+    },
+    {
+      "player": "AP Tare",
+      "runs": 339,
+      "avg": 14.1,
+      "sr": 124.6,
+      "innings": 27,
+      "sixes": 11,
+      "impact_score": 177.2
+    },
+    {
+      "player": "Sameer Rizvi",
+      "runs": 338,
+      "avg": 33.8,
+      "sr": 147.0,
+      "innings": 13,
+      "sixes": 20,
+      "impact_score": 189.4
+    },
+    {
+      "player": "P Kumar",
+      "runs": 338,
+      "avg": 8.9,
+      "sr": 108.3,
+      "innings": 57,
+      "sixes": 17,
+      "impact_score": 170.4
+    },
+    {
+      "player": "SN Thakur",
+      "runs": 332,
+      "avg": 11.9,
+      "sr": 138.9,
+      "innings": 40,
+      "sixes": 13,
+      "impact_score": 178.0
+    },
+    {
+      "player": "B Kumar",
+      "runs": 329,
+      "avg": 8.9,
+      "sr": 92.2,
+      "innings": 72,
+      "sixes": 3,
+      "impact_score": 161.9
+    },
+    {
+      "player": "JEC Franklin",
+      "runs": 327,
+      "avg": 29.7,
+      "sr": 109.0,
+      "innings": 16,
+      "sixes": 9,
+      "impact_score": 172.4
+    },
+    {
+      "player": "RN ten Doeschate",
+      "runs": 326,
+      "avg": 23.3,
+      "sr": 138.7,
+      "innings": 21,
+      "sixes": 15,
+      "impact_score": 179.0
+    },
+    {
+      "player": "Anuj Rawat",
+      "runs": 318,
+      "avg": 19.9,
+      "sr": 119.1,
+      "innings": 21,
+      "sixes": 14,
+      "impact_score": 168.9
+    },
+    {
+      "player": "R Vinay Kumar",
+      "runs": 310,
+      "avg": 11.1,
+      "sr": 113.1,
+      "innings": 42,
+      "sixes": 9,
+      "impact_score": 161.3
+    },
+    {
+      "player": "Aniket Verma",
+      "runs": 306,
+      "avg": 25.5,
+      "sr": 167.2,
+      "innings": 17,
+      "sixes": 25,
+      "impact_score": 180.2
+    },
+    {
+      "player": "DB Das",
+      "runs": 304,
+      "avg": 21.7,
+      "sr": 116.9,
+      "innings": 22,
+      "sixes": 16,
+      "impact_score": 163.2
+    },
+    {
+      "player": "LA Pomersbach",
+      "runs": 301,
+      "avg": 27.4,
+      "sr": 123.9,
+      "innings": 16,
+      "sixes": 13,
+      "impact_score": 165.8
+    },
+    {
+      "player": "UBT Chand",
+      "runs": 300,
+      "avg": 15.0,
+      "sr": 100.3,
+      "innings": 20,
+      "sixes": 9,
+      "impact_score": 154.6
+    },
+    {
+      "player": "C de Grandhomme",
+      "runs": 297,
+      "avg": 19.8,
+      "sr": 132.6,
+      "innings": 21,
+      "sixes": 17,
+      "impact_score": 164.5
+    },
+    {
+      "player": "DJG Sammy",
+      "runs": 295,
+      "avg": 19.7,
+      "sr": 122.4,
+      "innings": 20,
+      "sixes": 18,
+      "impact_score": 160.6
+    },
+    {
+      "player": "Lalit Yadav",
+      "runs": 294,
+      "avg": 18.4,
+      "sr": 103.2,
+      "innings": 21,
+      "sixes": 6,
+      "impact_score": 154.1
+    },
+    {
+      "player": "SP Goswami",
+      "runs": 292,
+      "avg": 14.6,
+      "sr": 99.7,
+      "innings": 21,
+      "sixes": 3,
+      "impact_score": 151.1
+    },
+    {
+      "player": "A Manohar",
+      "runs": 292,
+      "avg": 15.4,
+      "sr": 124.3,
+      "innings": 20,
+      "sixes": 14,
+      "impact_score": 158.7
+    },
+    {
+      "player": "Y Nagar",
+      "runs": 285,
+      "avg": 20.4,
+      "sr": 110.0,
+      "innings": 20,
+      "sixes": 9,
+      "impact_score": 153.1
+    },
+    {
+      "player": "GH Vihari",
+      "runs": 281,
+      "avg": 14.0,
+      "sr": 88.1,
+      "innings": 23,
+      "sixes": 1,
+      "impact_score": 143.0
+    },
+    {
+      "player": "A Ashish Reddy",
+      "runs": 280,
+      "avg": 18.7,
+      "sr": 145.1,
+      "innings": 23,
+      "sixes": 15,
+      "impact_score": 161.1
+    },
+    {
+      "player": "B Chipli",
+      "runs": 280,
+      "avg": 18.7,
+      "sr": 112.0,
+      "innings": 21,
+      "sixes": 7,
+      "impact_score": 151.2
+    },
+    {
+      "player": "JP Inglis",
+      "runs": 278,
+      "avg": 34.8,
+      "sr": 162.6,
+      "innings": 11,
+      "sixes": 16,
+      "impact_score": 170.4
+    },
+    {
+      "player": "MJ Lumb",
+      "runs": 278,
+      "avg": 23.2,
+      "sr": 145.5,
+      "innings": 12,
+      "sixes": 6,
+      "impact_score": 161.8
+    },
+    {
+      "player": "VVS Laxman",
+      "runs": 276,
+      "avg": 14.5,
+      "sr": 103.8,
+      "innings": 20,
+      "sixes": 4,
+      "impact_score": 145.9
+    },
+    {
+      "player": "PBB Rajapaksa",
+      "runs": 276,
+      "avg": 21.2,
+      "sr": 145.3,
+      "innings": 13,
+      "sixes": 15,
+      "impact_score": 160.4
+    },
+    {
+      "player": "HV Patel",
+      "runs": 274,
+      "avg": 9.1,
+      "sr": 117.6,
+      "innings": 43,
+      "sixes": 15,
+      "impact_score": 147.6
+    },
+    {
+      "player": "R Sathish",
+      "runs": 269,
+      "avg": 15.8,
+      "sr": 117.0,
+      "innings": 24,
+      "sixes": 6,
+      "impact_score": 147.4
+    },
+    {
+      "player": "PK Garg",
+      "runs": 269,
+      "avg": 14.9,
+      "sr": 113.0,
+      "innings": 19,
+      "sixes": 9,
+      "impact_score": 146.0
+    },
+    {
+      "player": "MJ Guptill",
+      "runs": 265,
+      "avg": 22.1,
+      "sr": 135.2,
+      "innings": 14,
+      "sixes": 14,
+      "impact_score": 153.2
+    },
+    {
+      "player": "Ramandeep Singh",
+      "runs": 260,
+      "avg": 20.0,
+      "sr": 152.0,
+      "innings": 23,
+      "sixes": 17,
+      "impact_score": 155.6
+    },
+    {
+      "player": "Atharva Taide",
+      "runs": 260,
+      "avg": 26.0,
+      "sr": 146.9,
+      "innings": 10,
+      "sixes": 8,
+      "impact_score": 155.9
+    },
+    {
+      "player": "M Kaif",
+      "runs": 259,
+      "avg": 14.4,
+      "sr": 104.0,
+      "innings": 22,
+      "sixes": 6,
+      "impact_score": 139.1
+    },
+    {
+      "player": "JO Holder",
+      "runs": 259,
+      "avg": 12.3,
+      "sr": 123.9,
+      "innings": 27,
+      "sixes": 18,
+      "impact_score": 144.5
+    },
+    {
+      "player": "JC Archer",
+      "runs": 252,
+      "avg": 12.6,
+      "sr": 140.0,
+      "innings": 32,
+      "sixes": 16,
+      "impact_score": 146.6
+    },
+    {
+      "player": "K Gowtham",
+      "runs": 247,
+      "avg": 13.7,
+      "sr": 168.0,
+      "innings": 27,
+      "sixes": 17,
+      "impact_score": 153.3
+    },
+    {
+      "player": "Harpreet Brar",
+      "runs": 244,
+      "avg": 20.3,
+      "sr": 120.2,
+      "innings": 26,
+      "sixes": 10,
+      "impact_score": 139.8
+    },
+    {
+      "player": "SM Katich",
+      "runs": 240,
+      "avg": 24.0,
+      "sr": 129.7,
+      "innings": 11,
+      "sixes": 8,
+      "impact_score": 142.1
+    },
+    {
+      "player": "BCJ Cutting",
+      "runs": 238,
+      "avg": 21.6,
+      "sr": 168.8,
+      "innings": 17,
+      "sixes": 19,
+      "impact_score": 152.3
+    },
+    {
+      "player": "K Rabada",
+      "runs": 238,
+      "avg": 13.2,
+      "sr": 110.2,
+      "innings": 31,
+      "sixes": 11,
+      "impact_score": 132.2
+    },
+    {
+      "player": "MD Mishra",
+      "runs": 235,
+      "avg": 14.7,
+      "sr": 114.1,
+      "innings": 17,
+      "sixes": 8,
+      "impact_score": 132.6
+    },
+    {
+      "player": "K Goel",
+      "runs": 218,
+      "avg": 14.5,
+      "sr": 94.4,
+      "innings": 16,
+      "sixes": 9,
+      "impact_score": 119.9
+    },
+    {
+      "player": "R Shepherd",
+      "runs": 217,
+      "avg": 27.1,
+      "sr": 204.7,
+      "innings": 15,
+      "sixes": 18,
+      "impact_score": 156.3
+    },
+    {
+      "player": "AA Jhunjhunwala",
+      "runs": 217,
+      "avg": 16.7,
+      "sr": 103.8,
+      "innings": 15,
+      "sixes": 5,
+      "impact_score": 123.0
+    },
+    {
+      "player": "Mohammad Nabi",
+      "runs": 215,
+      "avg": 12.6,
+      "sr": 142.4,
+      "innings": 20,
+      "sixes": 11,
+      "impact_score": 132.5
+    },
+    {
+      "player": "R Dhawan",
+      "runs": 210,
+      "avg": 19.1,
+      "sr": 112.3,
+      "innings": 22,
+      "sixes": 7,
+      "impact_score": 123.4
+    },
+    {
+      "player": "UT Yadav",
+      "runs": 208,
+      "avg": 10.4,
+      "sr": 103.5,
+      "innings": 48,
+      "sixes": 9,
+      "impact_score": 117.4
+    },
+    {
+      "player": "Kuldeep Yadav",
+      "runs": 206,
+      "avg": 12.1,
+      "sr": 85.8,
+      "innings": 39,
+      "sixes": 3,
+      "impact_score": 111.8
+    },
+    {
+      "player": "CA Ingram",
+      "runs": 205,
+      "avg": 17.1,
+      "sr": 114.5,
+      "innings": 15,
+      "sixes": 5,
+      "impact_score": 121.5
+    },
+    {
+      "player": "PD Collingwood",
+      "runs": 203,
+      "avg": 40.6,
+      "sr": 130.1,
+      "innings": 7,
+      "sixes": 13,
+      "impact_score": 132.4
+    },
+    {
+      "player": "JD Unadkat",
+      "runs": 201,
+      "avg": 12.6,
+      "sr": 118.9,
+      "innings": 28,
+      "sixes": 7,
+      "impact_score": 119.8
+    },
+    {
+      "player": "KS Bharat",
+      "runs": 198,
+      "avg": 28.3,
+      "sr": 123.0,
+      "innings": 8,
+      "sixes": 8,
+      "impact_score": 124.6
+    },
+    {
+      "player": "SK Warne",
+      "runs": 197,
+      "avg": 9.8,
+      "sr": 92.5,
+      "innings": 27,
+      "sixes": 6,
+      "impact_score": 109.5
+    },
+    {
+      "player": "AS Raut",
+      "runs": 194,
+      "avg": 21.6,
+      "sr": 116.2,
+      "innings": 16,
+      "sixes": 7,
+      "impact_score": 118.9
+    },
+    {
+      "player": "BJ Rohrer",
+      "runs": 193,
+      "avg": 27.6,
+      "sr": 136.9,
+      "innings": 9,
+      "sixes": 5,
+      "impact_score": 126.6
+    },
+    {
+      "player": "SP Fleming",
+      "runs": 192,
+      "avg": 21.3,
+      "sr": 118.5,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 118.7
+    },
+    {
+      "player": "Salman Butt",
+      "runs": 192,
+      "avg": 27.4,
+      "sr": 120.0,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 121.0
+    },
+    {
+      "player": "YV Takawale",
+      "runs": 191,
+      "avg": 23.9,
+      "sr": 107.9,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 115.9
+    },
+    {
+      "player": "Bipul Sharma",
+      "runs": 187,
+      "avg": 23.4,
+      "sr": 152.0,
+      "innings": 17,
+      "sixes": 9,
+      "impact_score": 127.4
+    },
+    {
+      "player": "HC Brook",
+      "runs": 186,
+      "avg": 20.7,
+      "sr": 121.6,
+      "innings": 11,
+      "sixes": 4,
+      "impact_score": 117.1
+    },
+    {
+      "player": "SD Hope",
+      "runs": 183,
+      "avg": 22.9,
+      "sr": 150.0,
+      "innings": 9,
+      "sixes": 12,
+      "impact_score": 125.1
+    },
+    {
+      "player": "FY Fazal",
+      "runs": 183,
+      "avg": 18.3,
+      "sr": 106.4,
+      "innings": 11,
+      "sixes": 1,
+      "impact_score": 110.6
+    },
+    {
+      "player": "MS Wade",
+      "runs": 183,
+      "avg": 13.1,
+      "sr": 103.4,
+      "innings": 14,
+      "sixes": 2,
+      "impact_score": 108.2
+    },
+    {
+      "player": "Sikandar Raza",
+      "runs": 182,
+      "avg": 26.0,
+      "sr": 133.8,
+      "innings": 9,
+      "sixes": 8,
+      "impact_score": 120.7
+    },
+    {
+      "player": "AC Voges",
+      "runs": 181,
+      "avg": 45.2,
+      "sr": 126.6,
+      "innings": 7,
+      "sixes": 3,
+      "impact_score": 123.9
+    },
+    {
+      "player": "S Gopal",
+      "runs": 180,
+      "avg": 13.8,
+      "sr": 106.5,
+      "innings": 22,
+      "sixes": 2,
+      "impact_score": 108.1
+    },
+    {
+      "player": "CR Brathwaite",
+      "runs": 180,
+      "avg": 13.8,
+      "sr": 163.6,
+      "innings": 14,
+      "sixes": 16,
+      "impact_score": 125.2
+    },
+    {
+      "player": "MF Maharoof",
+      "runs": 177,
+      "avg": 17.7,
+      "sr": 143.9,
+      "innings": 14,
+      "sixes": 9,
+      "impact_score": 119.3
+    },
+    {
+      "player": "AB Agarkar",
+      "runs": 177,
+      "avg": 17.7,
+      "sr": 117.2,
+      "innings": 18,
+      "sixes": 5,
+      "impact_score": 111.3
+    },
+    {
+      "player": "C Munro",
+      "runs": 177,
+      "avg": 14.8,
+      "sr": 125.5,
+      "innings": 11,
+      "sixes": 8,
+      "impact_score": 112.9
+    },
+    {
+      "player": "CM Gautam",
+      "runs": 169,
+      "avg": 16.9,
+      "sr": 113.4,
+      "innings": 13,
+      "sixes": 6,
+      "impact_score": 106.7
+    },
+    {
+      "player": "DH Yagnik",
+      "runs": 168,
+      "avg": 16.8,
+      "sr": 126.3,
+      "innings": 17,
+      "sixes": 2,
+      "impact_score": 110.1
+    },
+    {
+      "player": "DW Steyn",
+      "runs": 167,
+      "avg": 8.0,
+      "sr": 104.4,
+      "innings": 33,
+      "sixes": 3,
+      "impact_score": 100.5
+    },
+    {
+      "player": "MG Johnson",
+      "runs": 166,
+      "avg": 12.8,
+      "sr": 101.8,
+      "innings": 28,
+      "sixes": 7,
+      "impact_score": 100.8
+    },
+    {
+      "player": "PA Reddy",
+      "runs": 164,
+      "avg": 16.4,
+      "sr": 102.5,
+      "innings": 10,
+      "sixes": 2,
+      "impact_score": 101.3
+    },
+    {
+      "player": "MN van Wyk",
+      "runs": 163,
+      "avg": 54.3,
+      "sr": 124.4,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 118.8
+    },
+    {
+      "player": "N Jagadeesan",
+      "runs": 162,
+      "avg": 18.0,
+      "sr": 110.2,
+      "innings": 10,
+      "sixes": 2,
+      "impact_score": 103.3
+    },
+    {
+      "player": "MN Samuels",
+      "runs": 161,
+      "avg": 12.4,
+      "sr": 93.6,
+      "innings": 14,
+      "sixes": 7,
+      "impact_score": 96.2
+    },
+    {
+      "player": "RE van der Merwe",
+      "runs": 159,
+      "avg": 15.9,
+      "sr": 112.8,
+      "innings": 15,
+      "sixes": 8,
+      "impact_score": 102.2
+    },
+    {
+      "player": "R McLaren",
+      "runs": 159,
+      "avg": 19.9,
+      "sr": 93.0,
+      "innings": 13,
+      "sixes": 1,
+      "impact_score": 97.5
+    },
+    {
+      "player": "V Nigam",
+      "runs": 154,
+      "avg": 22.0,
+      "sr": 181.2,
+      "innings": 9,
+      "sixes": 8,
+      "impact_score": 122.6
+    },
+    {
+      "player": "M Jansen",
+      "runs": 150,
+      "avg": 12.5,
+      "sr": 107.9,
+      "innings": 21,
+      "sixes": 7,
+      "impact_score": 96.1
+    },
+    {
+      "player": "D Wiese",
+      "runs": 147,
+      "avg": 29.4,
+      "sr": 147.0,
+      "innings": 11,
+      "sixes": 7,
+      "impact_score": 111.7
+    },
+    {
+      "player": "SM Pollock",
+      "runs": 147,
+      "avg": 18.4,
+      "sr": 132.4,
+      "innings": 8,
+      "sixes": 8,
+      "impact_score": 104.0
+    },
+    {
+      "player": "AD Hales",
+      "runs": 147,
+      "avg": 24.5,
+      "sr": 125.6,
+      "innings": 6,
+      "sixes": 6,
+      "impact_score": 103.8
+    },
+    {
+      "player": "S Vidyut",
+      "runs": 145,
+      "avg": 18.1,
+      "sr": 133.0,
+      "innings": 8,
+      "sixes": 3,
+      "impact_score": 103.3
+    },
+    {
+      "player": "Sachin Baby",
+      "runs": 142,
+      "avg": 15.8,
+      "sr": 123.5,
+      "innings": 11,
+      "sixes": 5,
+      "impact_score": 98.6
+    },
+    {
+      "player": "N Saini",
+      "runs": 140,
+      "avg": 14.0,
+      "sr": 100.0,
+      "innings": 10,
+      "sixes": 0,
+      "impact_score": 90.2
+    },
+    {
+      "player": "Anmolpreet Singh",
+      "runs": 139,
+      "avg": 15.4,
+      "sr": 120.9,
+      "innings": 9,
+      "sixes": 3,
+      "impact_score": 96.5
+    },
+    {
+      "player": "SB Dubey",
+      "runs": 138,
+      "avg": 23.0,
+      "sr": 164.3,
+      "innings": 11,
+      "sixes": 10,
+      "impact_score": 111.4
+    },
+    {
+      "player": "S Anirudha",
+      "runs": 136,
+      "avg": 17.0,
+      "sr": 121.4,
+      "innings": 12,
+      "sixes": 7,
+      "impact_score": 95.9
+    },
+    {
+      "player": "MJ Santner",
+      "runs": 135,
+      "avg": 16.9,
+      "sr": 110.7,
+      "innings": 21,
+      "sixes": 6,
+      "impact_score": 92.3
+    },
+    {
+      "player": "C Connolly",
+      "runs": 132,
+      "avg": 44.0,
+      "sr": 148.3,
+      "innings": 4,
+      "sixes": 7,
+      "impact_score": 110.5
+    },
+    {
+      "player": "SB Styris",
+      "runs": 131,
+      "avg": 18.7,
+      "sr": 99.2,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 87.8
+    },
+    {
+      "player": "W Jaffer",
+      "runs": 130,
+      "avg": 16.2,
+      "sr": 107.4,
+      "innings": 8,
+      "sixes": 3,
+      "impact_score": 89.1
+    },
+    {
+      "player": "RD Chahar",
+      "runs": 129,
+      "avg": 8.1,
+      "sr": 104.0,
+      "innings": 22,
+      "sixes": 5,
+      "impact_score": 85.2
+    },
+    {
+      "player": "TK Curran",
+      "runs": 127,
+      "avg": 25.4,
+      "sr": 118.7,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 94.0
+    },
+    {
+      "player": "UT Khawaja",
+      "runs": 127,
+      "avg": 21.2,
+      "sr": 128.3,
+      "innings": 6,
+      "sixes": 3,
+      "impact_score": 95.6
+    },
+    {
+      "player": "MD Choudhary",
+      "runs": 127,
+      "avg": 42.3,
+      "sr": 149.4,
+      "innings": 5,
+      "sixes": 10,
+      "impact_score": 108.3
+    },
+    {
+      "player": "P Dogra",
+      "runs": 127,
+      "avg": 11.5,
+      "sr": 92.0,
+      "innings": 12,
+      "sixes": 5,
+      "impact_score": 81.9
+    },
+    {
+      "player": "P Nissanka",
+      "runs": 126,
+      "avg": 31.5,
+      "sr": 155.6,
+      "innings": 4,
+      "sixes": 4,
+      "impact_score": 106.5
+    },
+    {
+      "player": "SS Prabhudessai",
+      "runs": 126,
+      "avg": 12.6,
+      "sr": 120.0,
+      "innings": 10,
+      "sixes": 4,
+      "impact_score": 90.2
+    },
+    {
+      "player": "MM Sharma",
+      "runs": 125,
+      "avg": 6.9,
+      "sr": 91.9,
+      "innings": 30,
+      "sixes": 4,
+      "impact_score": 79.6
+    },
+    {
+      "player": "BB Samantray",
+      "runs": 125,
+      "avg": 25.0,
+      "sr": 110.6,
+      "innings": 8,
+      "sixes": 2,
+      "impact_score": 90.7
+    },
+    {
+      "player": "MC Juneja",
+      "runs": 125,
+      "avg": 17.9,
+      "sr": 97.7,
+      "innings": 7,
+      "sixes": 1,
+      "impact_score": 84.7
+    },
+    {
+      "player": "B Lee",
+      "runs": 124,
+      "avg": 12.4,
+      "sr": 129.2,
+      "innings": 19,
+      "sixes": 8,
+      "impact_score": 92.1
+    },
+    {
+      "player": "Kamran Akmal",
+      "runs": 124,
+      "avg": 24.8,
+      "sr": 161.0,
+      "innings": 6,
+      "sixes": 8,
+      "impact_score": 105.3
+    },
+    {
+      "player": "AB McDonald",
+      "runs": 123,
+      "avg": 24.6,
+      "sr": 123.0,
+      "innings": 9,
+      "sixes": 4,
+      "impact_score": 93.5
+    },
+    {
+      "player": "DL Chahar",
+      "runs": 123,
+      "avg": 15.4,
+      "sr": 138.2,
+      "innings": 17,
+      "sixes": 8,
+      "impact_score": 95.3
+    },
+    {
+      "player": "M Morkel",
+      "runs": 122,
+      "avg": 11.1,
+      "sr": 137.1,
+      "innings": 20,
+      "sixes": 5,
+      "impact_score": 93.3
+    },
+    {
+      "player": "NK Patel",
+      "runs": 121,
+      "avg": 30.2,
+      "sr": 101.7,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 88.0
+    },
+    {
+      "player": "DL Vettori",
+      "runs": 121,
+      "avg": 15.1,
+      "sr": 108.0,
+      "innings": 16,
+      "sixes": 2,
+      "impact_score": 85.3
+    },
+    {
+      "player": "TG Southee",
+      "runs": 120,
+      "avg": 10.9,
+      "sr": 113.2,
+      "innings": 19,
+      "sixes": 4,
+      "impact_score": 85.2
+    },
+    {
+      "player": "AC Blizzard",
+      "runs": 120,
+      "avg": 17.1,
+      "sr": 133.3,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 93.1
+    },
+    {
+      "player": "MW Short",
+      "runs": 119,
+      "avg": 17.0,
+      "sr": 120.2,
+      "innings": 7,
+      "sixes": 4,
+      "impact_score": 88.8
+    },
+    {
+      "player": "Arshad Khan",
+      "runs": 119,
+      "avg": 23.8,
+      "sr": 141.7,
+      "innings": 10,
+      "sixes": 9,
+      "impact_score": 97.2
+    },
+    {
+      "player": "Harpreet Singh",
+      "runs": 119,
+      "avg": 17.0,
+      "sr": 100.8,
+      "innings": 8,
+      "sixes": 3,
+      "impact_score": 82.9
+    },
+    {
+      "player": "Misbah-ul-Haq",
+      "runs": 117,
+      "avg": 16.7,
+      "sr": 144.4,
+      "innings": 8,
+      "sixes": 6,
+      "impact_score": 95.1
+    },
+    {
+      "player": "RJ Harris",
+      "runs": 116,
+      "avg": 9.7,
+      "sr": 104.5,
+      "innings": 21,
+      "sixes": 3,
+      "impact_score": 80.7
+    },
+    {
+      "player": "Z Khan",
+      "runs": 116,
+      "avg": 8.3,
+      "sr": 82.9,
+      "innings": 27,
+      "sixes": 2,
+      "impact_score": 73.8
+    },
+    {
+      "player": "KK Cooper",
+      "runs": 115,
+      "avg": 12.8,
+      "sr": 171.6,
+      "innings": 12,
+      "sixes": 8,
+      "impact_score": 101.3
+    },
+    {
+      "player": "Aman Hakim Khan",
+      "runs": 115,
+      "avg": 12.8,
+      "sr": 110.6,
+      "innings": 10,
+      "sixes": 6,
+      "impact_score": 83.0
+    },
+    {
+      "player": "DJM Short",
+      "runs": 115,
+      "avg": 16.4,
+      "sr": 116.2,
+      "innings": 7,
+      "sixes": 5,
+      "impact_score": 85.8
+    },
+    {
+      "player": "M Kartik",
+      "runs": 112,
+      "avg": 16.0,
+      "sr": 104.7,
+      "innings": 14,
+      "sixes": 1,
+      "impact_score": 81.0
+    },
+    {
+      "player": "Mohammed Siraj",
+      "runs": 112,
+      "avg": 11.2,
+      "sr": 92.6,
+      "innings": 21,
+      "sixes": 4,
+      "impact_score": 75.9
+    },
+    {
+      "player": "DJ Harris",
+      "runs": 111,
+      "avg": 27.8,
+      "sr": 109.9,
+      "innings": 4,
+      "sixes": 5,
+      "impact_score": 85.7
+    },
+    {
+      "player": "MA Starc",
+      "runs": 111,
+      "avg": 10.1,
+      "sr": 93.3,
+      "innings": 21,
+      "sixes": 0,
+      "impact_score": 75.4
+    },
+    {
+      "player": "GD Phillips",
+      "runs": 107,
+      "avg": 11.9,
+      "sr": 127.4,
+      "innings": 11,
+      "sixes": 8,
+      "impact_score": 84.6
+    },
+    {
+      "player": "JDP Oram",
+      "runs": 106,
+      "avg": 13.2,
+      "sr": 99.1,
+      "innings": 11,
+      "sixes": 5,
+      "impact_score": 76.1
+    },
+    {
+      "player": "DS Kulkarni",
+      "runs": 104,
+      "avg": 11.6,
+      "sr": 96.3,
+      "innings": 20,
+      "sixes": 2,
+      "impact_score": 74.0
+    },
+    {
+      "player": "RJ Quiney",
+      "runs": 103,
+      "avg": 14.7,
+      "sr": 101.0,
+      "innings": 7,
+      "sixes": 3,
+      "impact_score": 75.9
+    },
+    {
+      "player": "LJ Wright",
+      "runs": 102,
+      "avg": 20.4,
+      "sr": 172.9,
+      "innings": 5,
+      "sixes": 3,
+      "impact_score": 98.8
+    },
+    {
+      "player": "Azmatullah Omarzai",
+      "runs": 99,
+      "avg": 12.4,
+      "sr": 133.8,
+      "innings": 9,
+      "sixes": 5,
+      "impact_score": 83.5
+    },
+    {
+      "player": "MS Gony",
+      "runs": 99,
+      "avg": 9.9,
+      "sr": 141.4,
+      "innings": 15,
+      "sixes": 8,
+      "impact_score": 85.0
+    },
+    {
+      "player": "CJ Ferguson",
+      "runs": 98,
+      "avg": 16.3,
+      "sr": 83.8,
+      "innings": 8,
+      "sixes": 0,
+      "impact_score": 69.2
+    },
+    {
+      "player": "J Overton",
+      "runs": 98,
+      "avg": 49.0,
+      "sr": 153.1,
+      "innings": 5,
+      "sixes": 5,
+      "impact_score": 99.8
+    },
+    {
+      "player": "Mohammed Shami",
+      "runs": 98,
+      "avg": 5.8,
+      "sr": 98.0,
+      "innings": 31,
+      "sixes": 3,
+      "impact_score": 70.3
+    },
+    {
+      "player": "MJ Clarke",
+      "runs": 98,
+      "avg": 19.6,
+      "sr": 104.3,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 76.4
+    },
+    {
+      "player": "PN Mankad",
+      "runs": 97,
+      "avg": 32.3,
+      "sr": 134.7,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 88.9
+    },
+    {
+      "player": "SD Chitnis",
+      "runs": 93,
+      "avg": 13.3,
+      "sr": 105.7,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 72.9
+    },
+    {
+      "player": "JDS Neesham",
+      "runs": 92,
+      "avg": 10.2,
+      "sr": 98.9,
+      "innings": 10,
+      "sixes": 2,
+      "impact_score": 69.5
+    },
+    {
+      "player": "DJ Jacobs",
+      "runs": 92,
+      "avg": 13.1,
+      "sr": 93.9,
+      "innings": 7,
+      "sixes": 4,
+      "impact_score": 68.9
+    },
+    {
+      "player": "RT Ponting",
+      "runs": 91,
+      "avg": 10.1,
+      "sr": 71.1,
+      "innings": 9,
+      "sixes": 2,
+      "impact_score": 60.8
+    },
+    {
+      "player": "AJ Tye",
+      "runs": 91,
+      "avg": 10.1,
+      "sr": 121.3,
+      "innings": 13,
+      "sixes": 5,
+      "impact_score": 75.8
+    },
+    {
+      "player": "PR Shah",
+      "runs": 91,
+      "avg": 11.4,
+      "sr": 101.1,
+      "innings": 9,
+      "sixes": 2,
+      "impact_score": 70.1
+    },
+    {
+      "player": "PHKD Mendis",
+      "runs": 91,
+      "avg": 22.8,
+      "sr": 133.8,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 83.4
+    },
+    {
+      "player": "AD Nath",
+      "runs": 90,
+      "avg": 9.0,
+      "sr": 91.8,
+      "innings": 10,
+      "sixes": 2,
+      "impact_score": 66.2
+    },
+    {
+      "player": "SL Malinga",
+      "runs": 88,
+      "avg": 5.5,
+      "sr": 88.9,
+      "innings": 20,
+      "sixes": 5,
+      "impact_score": 63.5
+    },
+    {
+      "player": "AP Majumdar",
+      "runs": 87,
+      "avg": 21.8,
+      "sr": 114.5,
+      "innings": 4,
+      "sixes": 2,
+      "impact_score": 75.7
+    },
+    {
+      "player": "Ankit Sharma",
+      "runs": 87,
+      "avg": 12.4,
+      "sr": 129.9,
+      "innings": 10,
+      "sixes": 4,
+      "impact_score": 77.5
+    },
+    {
+      "player": "Iqbal Abdulla",
+      "runs": 87,
+      "avg": 43.5,
+      "sr": 106.1,
+      "innings": 13,
+      "sixes": 1,
+      "impact_score": 79.7
+    },
+    {
+      "player": "S Rana",
+      "runs": 87,
+      "avg": 21.8,
+      "sr": 110.1,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 74.4
+    },
+    {
+      "player": "TA Boult",
+      "runs": 86,
+      "avg": 8.6,
+      "sr": 103.6,
+      "innings": 24,
+      "sixes": 3,
+      "impact_score": 68.1
+    },
+    {
+      "player": "MJ McClenaghan",
+      "runs": 84,
+      "avg": 6.5,
+      "sr": 121.7,
+      "innings": 19,
+      "sixes": 7,
+      "impact_score": 72.1
+    },
+    {
+      "player": "RE Levi",
+      "runs": 83,
+      "avg": 13.8,
+      "sr": 113.7,
+      "innings": 6,
+      "sixes": 4,
+      "impact_score": 71.4
+    },
+    {
+      "player": "NM Coulter-Nile",
+      "runs": 82,
+      "avg": 7.5,
+      "sr": 113.9,
+      "innings": 16,
+      "sixes": 4,
+      "impact_score": 69.2
+    },
+    {
+      "player": "PWH de Silva",
+      "runs": 81,
+      "avg": 5.8,
+      "sr": 92.0,
+      "innings": 19,
+      "sixes": 1,
+      "impact_score": 61.7
+    },
+    {
+      "player": "CJ Jordan",
+      "runs": 81,
+      "avg": 8.1,
+      "sr": 105.2,
+      "innings": 12,
+      "sixes": 3,
+      "impact_score": 66.4
+    },
+    {
+      "player": "FH Allen",
+      "runs": 81,
+      "avg": 16.2,
+      "sr": 192.9,
+      "innings": 5,
+      "sixes": 4,
+      "impact_score": 95.1
+    },
+    {
+      "player": "Shahid Afridi",
+      "runs": 81,
+      "avg": 10.1,
+      "sr": 176.1,
+      "innings": 9,
+      "sixes": 6,
+      "impact_score": 88.3
+    },
+    {
+      "player": "RV Patel",
+      "runs": 80,
+      "avg": 16.0,
+      "sr": 109.6,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 69.7
+    },
+    {
+      "player": "LA Carseldine",
+      "runs": 80,
+      "avg": 20.0,
+      "sr": 121.2,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 74.4
+    },
+    {
+      "player": "D Ferreira",
+      "runs": 79,
+      "avg": 15.8,
+      "sr": 129.5,
+      "innings": 5,
+      "sixes": 3,
+      "impact_score": 75.2
+    },
+    {
+      "player": "AD Mascarenhas",
+      "runs": 79,
+      "avg": 8.8,
+      "sr": 101.3,
+      "innings": 11,
+      "sixes": 1,
+      "impact_score": 64.6
+    },
+    {
+      "player": "JR Philippe",
+      "runs": 78,
+      "avg": 19.5,
+      "sr": 101.3,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 67.4
+    },
+    {
+      "player": "CR Woakes",
+      "runs": 78,
+      "avg": 13.0,
+      "sr": 101.3,
+      "innings": 12,
+      "sixes": 2,
+      "impact_score": 65.5
+    },
+    {
+      "player": "B Akhil",
+      "runs": 76,
+      "avg": 12.7,
+      "sr": 138.2,
+      "innings": 11,
+      "sixes": 5,
+      "impact_score": 75.7
+    },
+    {
+      "player": "IR Jaggi",
+      "runs": 76,
+      "avg": 15.2,
+      "sr": 78.4,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 58.5
+    },
+    {
+      "player": "TR Birt",
+      "runs": 75,
+      "avg": 15.0,
+      "sr": 131.6,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 74.0
+    },
+    {
+      "player": "WPUJC Vaas",
+      "runs": 75,
+      "avg": 9.4,
+      "sr": 104.2,
+      "innings": 11,
+      "sixes": 2,
+      "impact_score": 64.1
+    },
+    {
+      "player": "JJ Bumrah",
+      "runs": 73,
+      "avg": 10.4,
+      "sr": 91.2,
+      "innings": 28,
+      "sixes": 1,
+      "impact_score": 59.7
+    },
+    {
+      "player": "RR Sarwan",
+      "runs": 73,
+      "avg": 18.2,
+      "sr": 97.3,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 63.8
+    },
+    {
+      "player": "M Klinger",
+      "runs": 72,
+      "avg": 18.0,
+      "sr": 96.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 63.0
+    },
+    {
+      "player": "SK Rasheed",
+      "runs": 71,
+      "avg": 14.2,
+      "sr": 112.7,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 66.5
+    },
+    {
+      "player": "J Suchith",
+      "runs": 70,
+      "avg": 17.5,
+      "sr": 114.8,
+      "innings": 9,
+      "sixes": 3,
+      "impact_score": 67.7
+    },
+    {
+      "player": "Vivrant Sharma",
+      "runs": 69,
+      "avg": 69.0,
+      "sr": 146.8,
+      "innings": 1,
+      "sixes": 2,
+      "impact_score": 92.3
+    },
+    {
+      "player": "AA Bilakhia",
+      "runs": 69,
+      "avg": 13.8,
+      "sr": 82.1,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 56.4
+    },
+    {
+      "player": "Avesh Khan",
+      "runs": 68,
+      "avg": 17.0,
+      "sr": 158.1,
+      "innings": 15,
+      "sixes": 4,
+      "impact_score": 79.7
+    },
+    {
+      "player": "LH Ferguson",
+      "runs": 68,
+      "avg": 22.7,
+      "sr": 147.8,
+      "innings": 8,
+      "sixes": 2,
+      "impact_score": 78.4
+    },
+    {
+      "player": "Urvil Patel",
+      "runs": 68,
+      "avg": 22.7,
+      "sr": 212.5,
+      "innings": 3,
+      "sixes": 6,
+      "impact_score": 97.8
+    },
+    {
+      "player": "RR Powar",
+      "runs": 67,
+      "avg": 22.3,
+      "sr": 104.7,
+      "innings": 9,
+      "sixes": 1,
+      "impact_score": 64.9
+    },
+    {
+      "player": "JG Bethell",
+      "runs": 67,
+      "avg": 33.5,
+      "sr": 171.8,
+      "innings": 2,
+      "sixes": 3,
+      "impact_score": 88.4
+    },
+    {
+      "player": "HR Shokeen",
+      "runs": 66,
+      "avg": 22.0,
+      "sr": 101.5,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 63.4
+    },
+    {
+      "player": "R Sharma",
+      "runs": 66,
+      "avg": 4.7,
+      "sr": 88.0,
+      "innings": 19,
+      "sixes": 3,
+      "impact_score": 54.2
+    },
+    {
+      "player": "WD Parnell",
+      "runs": 65,
+      "avg": 6.5,
+      "sr": 81.2,
+      "innings": 13,
+      "sixes": 1,
+      "impact_score": 52.3
+    },
+    {
+      "player": "KA Jamieson",
+      "runs": 65,
+      "avg": 16.2,
+      "sr": 108.3,
+      "innings": 9,
+      "sixes": 3,
+      "impact_score": 63.4
+    },
+    {
+      "player": "Mohammad Hafeez",
+      "runs": 64,
+      "avg": 9.1,
+      "sr": 77.1,
+      "innings": 8,
+      "sixes": 2,
+      "impact_score": 51.5
+    },
+    {
+      "player": "Anirudh Singh",
+      "runs": 63,
+      "avg": 15.8,
+      "sr": 95.5,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 58.6
+    },
+    {
+      "player": "A Flintoff",
+      "runs": 62,
+      "avg": 31.0,
+      "sr": 117.0,
+      "innings": 3,
+      "sixes": 2,
+      "impact_score": 69.2
+    },
+    {
+      "player": "SP Jackson",
+      "runs": 61,
+      "avg": 10.2,
+      "sr": 107.0,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 59.6
+    },
+    {
+      "player": "Harshit Rana",
+      "runs": 59,
+      "avg": 9.8,
+      "sr": 107.3,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 58.7
+    },
+    {
+      "player": "S Aravind",
+      "runs": 59,
+      "avg": 14.8,
+      "sr": 103.5,
+      "innings": 10,
+      "sixes": 0,
+      "impact_score": 59.1
+    },
+    {
+      "player": "Sandeep Sharma",
+      "runs": 59,
+      "avg": 9.8,
+      "sr": 79.7,
+      "innings": 26,
+      "sixes": 0,
+      "impact_score": 50.4
+    },
+    {
+      "player": "C Bosch",
+      "runs": 58,
+      "avg": 29.0,
+      "sr": 161.1,
+      "innings": 3,
+      "sixes": 3,
+      "impact_score": 80.2
+    },
+    {
+      "player": "MG Bracewell",
+      "runs": 58,
+      "avg": 29.0,
+      "sr": 123.4,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 68.9
+    },
+    {
+      "player": "I Sharma",
+      "runs": 57,
+      "avg": 9.5,
+      "sr": 82.6,
+      "innings": 21,
+      "sixes": 2,
+      "impact_score": 50.4
+    },
+    {
+      "player": "WA Mota",
+      "runs": 56,
+      "avg": 9.3,
+      "sr": 74.7,
+      "innings": 8,
+      "sixes": 0,
+      "impact_score": 47.6
+    },
+    {
+      "player": "Vishnu Vinod",
+      "runs": 55,
+      "avg": 9.2,
+      "sr": 98.2,
+      "innings": 6,
+      "sixes": 3,
+      "impact_score": 54.2
+    },
+    {
+      "player": "M Rawat",
+      "runs": 55,
+      "avg": 11.0,
+      "sr": 79.7,
+      "innings": 11,
+      "sixes": 1,
+      "impact_score": 49.2
+    },
+    {
+      "player": "DJ Willey",
+      "runs": 53,
+      "avg": 26.5,
+      "sr": 85.5,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 54.8
+    },
+    {
+      "player": "A Chopra",
+      "runs": 53,
+      "avg": 8.8,
+      "sr": 74.6,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 46.2
+    },
+    {
+      "player": "TU Deshpande",
+      "runs": 53,
+      "avg": 17.7,
+      "sr": 160.6,
+      "innings": 9,
+      "sixes": 4,
+      "impact_score": 74.7
+    },
+    {
+      "player": "PVD Chameera",
+      "runs": 53,
+      "avg": 13.2,
+      "sr": 126.2,
+      "innings": 10,
+      "sixes": 3,
+      "impact_score": 63.0
+    },
+    {
+      "player": "RP Singh",
+      "runs": 52,
+      "avg": 3.5,
+      "sr": 68.4,
+      "innings": 28,
+      "sixes": 1,
+      "impact_score": 42.4
+    },
+    {
+      "player": "KB Arun Karthik",
+      "runs": 51,
+      "avg": 10.2,
+      "sr": 100.0,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 53.5
+    },
+    {
+      "player": "Swapnil Singh",
+      "runs": 51,
+      "avg": 10.2,
+      "sr": 113.3,
+      "innings": 9,
+      "sixes": 3,
+      "impact_score": 57.4
+    },
+    {
+      "player": "Shoaib Malik",
+      "runs": 51,
+      "avg": 12.8,
+      "sr": 110.9,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 57.5
+    },
+    {
+      "player": "Shivam Mavi",
+      "runs": 51,
+      "avg": 5.7,
+      "sr": 91.1,
+      "innings": 11,
+      "sixes": 2,
+      "impact_score": 49.4
+    },
+    {
+      "player": "OF Smith",
+      "runs": 51,
+      "avg": 17.0,
+      "sr": 115.9,
+      "innings": 6,
+      "sixes": 5,
+      "impact_score": 60.3
+    },
+    {
+      "player": "R Rampaul",
+      "runs": 50,
+      "avg": 10.0,
+      "sr": 102.0,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 53.6
+    },
+    {
+      "player": "RV Gomez",
+      "runs": 50,
+      "avg": 10.0,
+      "sr": 98.0,
+      "innings": 9,
+      "sixes": 1,
+      "impact_score": 52.4
+    },
+    {
+      "player": "AS Yadav",
+      "runs": 49,
+      "avg": 9.8,
+      "sr": 125.6,
+      "innings": 6,
+      "sixes": 2,
+      "impact_score": 60.2
+    },
+    {
+      "player": "PR Veer",
+      "runs": 49,
+      "avg": 49.0,
+      "sr": 136.1,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 75.1
+    },
+    {
+      "player": "SB Bangar",
+      "runs": 49,
+      "avg": 7.0,
+      "sr": 84.5,
+      "innings": 7,
+      "sixes": 3,
+      "impact_score": 47.1
+    },
+    {
+      "player": "A Nortje",
+      "runs": 49,
+      "avg": 7.0,
+      "sr": 98.0,
+      "innings": 14,
+      "sixes": 0,
+      "impact_score": 51.1
+    },
+    {
+      "player": "VR Aaron",
+      "runs": 49,
+      "avg": 9.8,
+      "sr": 69.0,
+      "innings": 12,
+      "sixes": 2,
+      "impact_score": 43.2
+    },
+    {
+      "player": "M Markande",
+      "runs": 48,
+      "avg": 16.0,
+      "sr": 114.3,
+      "innings": 10,
+      "sixes": 1,
+      "impact_score": 58.3
+    },
+    {
+      "player": "T Kohler-Cadmore",
+      "runs": 48,
+      "avg": 16.0,
+      "sr": 88.9,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 50.7
+    },
+    {
+      "player": "AG Paunikar",
+      "runs": 48,
+      "avg": 9.6,
+      "sr": 87.3,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 48.3
+    },
+    {
+      "player": "Yashpal Singh",
+      "runs": 47,
+      "avg": 11.8,
+      "sr": 72.3,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 44.0
+    },
+    {
+      "player": "Ravi Bishnoi",
+      "runs": 45,
+      "avg": 4.1,
+      "sr": 67.2,
+      "innings": 17,
+      "sixes": 2,
+      "impact_score": 39.4
+    },
+    {
+      "player": "DR Sams",
+      "runs": 44,
+      "avg": 4.9,
+      "sr": 100.0,
+      "innings": 13,
+      "sixes": 3,
+      "impact_score": 49.1
+    },
+    {
+      "player": "D Pretorius",
+      "runs": 44,
+      "avg": 11.0,
+      "sr": 157.1,
+      "innings": 5,
+      "sixes": 3,
+      "impact_score": 68.0
+    },
+    {
+      "player": "Sunny Singh",
+      "runs": 43,
+      "avg": 10.8,
+      "sr": 138.7,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 62.0
+    },
+    {
+      "player": "S Arora",
+      "runs": 42,
+      "avg": 14.0,
+      "sr": 150.0,
+      "innings": 4,
+      "sixes": 4,
+      "impact_score": 66.0
+    },
+    {
+      "player": "A Kamboj",
+      "runs": 42,
+      "avg": 21.0,
+      "sr": 120.0,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 59.1
+    },
+    {
+      "player": "SK Trivedi",
+      "runs": 42,
+      "avg": 6.0,
+      "sr": 72.4,
+      "innings": 14,
+      "sixes": 1,
+      "impact_score": 40.3
+    },
+    {
+      "player": "AB Barath",
+      "runs": 42,
+      "avg": 21.0,
+      "sr": 100.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 53.1
+    },
+    {
+      "player": "BR Dunk",
+      "runs": 40,
+      "avg": 13.3,
+      "sr": 114.3,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 54.3
+    },
+    {
+      "player": "LPC Silva",
+      "runs": 40,
+      "avg": 20.0,
+      "sr": 153.8,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 68.1
+    },
+    {
+      "player": "Rasikh Salam",
+      "runs": 40,
+      "avg": 8.0,
+      "sr": 100.0,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 48.4
+    },
+    {
+      "player": "J Yadav",
+      "runs": 40,
+      "avg": 10.0,
+      "sr": 111.1,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 52.3
+    },
+    {
+      "player": "Umar Gul",
+      "runs": 39,
+      "avg": 13.0,
+      "sr": 205.3,
+      "innings": 4,
+      "sixes": 5,
+      "impact_score": 81.1
+    },
+    {
+      "player": "AUK Pathan",
+      "runs": 39,
+      "avg": 7.8,
+      "sr": 169.6,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 68.8
+    },
+    {
+      "player": "DJ Thornely",
+      "runs": 39,
+      "avg": 13.0,
+      "sr": 73.6,
+      "innings": 4,
+      "sixes": 2,
+      "impact_score": 41.6
+    },
+    {
+      "player": "S Nadeem",
+      "runs": 39,
+      "avg": 2.8,
+      "sr": 44.8,
+      "innings": 20,
+      "sixes": 0,
+      "impact_score": 29.9
+    },
+    {
+      "player": "MM Patel",
+      "runs": 39,
+      "avg": 6.5,
+      "sr": 95.1,
+      "innings": 12,
+      "sixes": 0,
+      "impact_score": 46.1
+    },
+    {
+      "player": "A Nehra",
+      "runs": 39,
+      "avg": 5.6,
+      "sr": 65.0,
+      "innings": 17,
+      "sixes": 1,
+      "impact_score": 36.8
+    },
+    {
+      "player": "S Narwal",
+      "runs": 37,
+      "avg": 12.3,
+      "sr": 137.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 59.6
+    },
+    {
+      "player": "YS Chahal",
+      "runs": 37,
+      "avg": 5.3,
+      "sr": 43.0,
+      "innings": 16,
+      "sixes": 0,
+      "impact_score": 29.3
+    },
+    {
+      "player": "L Balaji",
+      "runs": 36,
+      "avg": 4.5,
+      "sr": 73.5,
+      "innings": 13,
+      "sixes": 1,
+      "impact_score": 37.8
+    },
+    {
+      "player": "Joginder Sharma",
+      "runs": 36,
+      "avg": 9.0,
+      "sr": 120.0,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 53.1
+    },
+    {
+      "player": "Anureet Singh",
+      "runs": 36,
+      "avg": 9.0,
+      "sr": 76.6,
+      "innings": 8,
+      "sixes": 1,
+      "impact_score": 40.1
+    },
+    {
+      "player": "KW Richardson",
+      "runs": 36,
+      "avg": 12.0,
+      "sr": 92.3,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 45.7
+    },
+    {
+      "player": "AN Ahmed",
+      "runs": 36,
+      "avg": 36.0,
+      "sr": 138.5,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 66.8
+    },
+    {
+      "player": "A Kumble",
+      "runs": 35,
+      "avg": 11.7,
+      "sr": 74.5,
+      "innings": 15,
+      "sixes": 0,
+      "impact_score": 39.9
+    },
+    {
+      "player": "B Sumanth",
+      "runs": 35,
+      "avg": 35.0,
+      "sr": 94.6,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 52.9
+    },
+    {
+      "player": "Sohail Tanvir",
+      "runs": 35,
+      "avg": 11.7,
+      "sr": 125.0,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 55.0
+    },
+    {
+      "player": "M Ashwin",
+      "runs": 35,
+      "avg": 4.4,
+      "sr": 70.0,
+      "innings": 12,
+      "sixes": 1,
+      "impact_score": 36.3
+    },
+    {
+      "player": "L Ronchi",
+      "runs": 34,
+      "avg": 6.8,
+      "sr": 100.0,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 45.6
+    },
+    {
+      "player": "S Sreesanth",
+      "runs": 34,
+      "avg": 8.5,
+      "sr": 61.8,
+      "innings": 12,
+      "sixes": 0,
+      "impact_score": 34.7
+    },
+    {
+      "player": "A Mithun",
+      "runs": 34,
+      "avg": 6.8,
+      "sr": 130.8,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 54.9
+    },
+    {
+      "player": "AP Dole",
+      "runs": 34,
+      "avg": 17.0,
+      "sr": 154.5,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 65.0
+    },
+    {
+      "player": "D Salunkhe",
+      "runs": 33,
+      "avg": 16.5,
+      "sr": 137.5,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 59.4
+    },
+    {
+      "player": "Navdeep Saini",
+      "runs": 33,
+      "avg": 8.2,
+      "sr": 89.2,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 42.4
+    },
+    {
+      "player": "Imran Tahir",
+      "runs": 33,
+      "avg": 8.2,
+      "sr": 89.2,
+      "innings": 8,
+      "sixes": 0,
+      "impact_score": 42.4
+    },
+    {
+      "player": "RJ Peterson",
+      "runs": 32,
+      "avg": 10.7,
+      "sr": 106.7,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 48.0
+    },
+    {
+      "player": "Basil Thampi",
+      "runs": 32,
+      "avg": 32.0,
+      "sr": 91.4,
+      "innings": 7,
+      "sixes": 1,
+      "impact_score": 49.8
+    },
+    {
+      "player": "AT Carey",
+      "runs": 32,
+      "avg": 16.0,
+      "sr": 110.3,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 50.7
+    },
+    {
+      "player": "NS Naik",
+      "runs": 31,
+      "avg": 7.8,
+      "sr": 62.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 33.3
+    },
+    {
+      "player": "Arshdeep Singh",
+      "runs": 31,
+      "avg": 5.2,
+      "sr": 67.4,
+      "innings": 13,
+      "sixes": 0,
+      "impact_score": 34.2
+    },
+    {
+      "player": "S Sriram",
+      "runs": 31,
+      "avg": 15.5,
+      "sr": 86.1,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 42.9
+    },
+    {
+      "player": "T Taibu",
+      "runs": 31,
+      "avg": 10.3,
+      "sr": 119.2,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 51.2
+    },
+    {
+      "player": "G Coetzee",
+      "runs": 30,
+      "avg": 5.0,
+      "sr": 93.8,
+      "innings": 7,
+      "sixes": 2,
+      "impact_score": 41.6
+    },
+    {
+      "player": "VH Zol",
+      "runs": 29,
+      "avg": 14.5,
+      "sr": 111.5,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 49.4
+    },
+    {
+      "player": "J Syed Mohammad",
+      "runs": 29,
+      "avg": 14.5,
+      "sr": 111.5,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 49.4
+    },
+    {
+      "player": "Noor Ahmad",
+      "runs": 29,
+      "avg": 2.9,
+      "sr": 55.8,
+      "innings": 13,
+      "sixes": 1,
+      "impact_score": 29.2
+    },
+    {
+      "player": "SB Jakati",
+      "runs": 28,
+      "avg": 28.0,
+      "sr": 96.6,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 48.6
+    },
+    {
+      "player": "AS Roy",
+      "runs": 27,
+      "avg": 5.4,
+      "sr": 96.4,
+      "innings": 9,
+      "sixes": 0,
+      "impact_score": 41.3
+    },
+    {
+      "player": "AS Joseph",
+      "runs": 27,
+      "avg": 27.0,
+      "sr": 84.4,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 44.2
+    },
+    {
+      "player": "DJ Malan",
+      "runs": 26,
+      "avg": 26.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 48.2
+    },
+    {
+      "player": "AS Rajpoot",
+      "runs": 26,
+      "avg": 5.2,
+      "sr": 63.4,
+      "innings": 7,
+      "sixes": 1,
+      "impact_score": 31.0
+    },
+    {
+      "player": "NL McCullum",
+      "runs": 26,
+      "avg": 26.0,
+      "sr": 118.2,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 53.7
+    },
+    {
+      "player": "MD Shanaka",
+      "runs": 26,
+      "avg": 13.0,
+      "sr": 100.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 44.3
+    },
+    {
+      "player": "CV Varun",
+      "runs": 26,
+      "avg": 5.2,
+      "sr": 54.2,
+      "innings": 12,
+      "sixes": 0,
+      "impact_score": 28.2
+    },
+    {
+      "player": "AB Dinda",
+      "runs": 26,
+      "avg": 2.6,
+      "sr": 54.2,
+      "innings": 16,
+      "sixes": 0,
+      "impact_score": 27.4
+    },
+    {
+      "player": "JM Kemp",
+      "runs": 26,
+      "avg": 13.0,
+      "sr": 108.3,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 46.8
+    },
+    {
+      "player": "PJ Sangwan",
+      "runs": 26,
+      "avg": 3.2,
+      "sr": 59.1,
+      "innings": 14,
+      "sixes": 0,
+      "impact_score": 29.1
+    },
+    {
+      "player": "TL Seifert",
+      "runs": 26,
+      "avg": 8.7,
+      "sr": 113.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 46.9
+    },
+    {
+      "player": "Akash Deep",
+      "runs": 25,
+      "avg": 8.3,
+      "sr": 178.6,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 66.1
+    },
+    {
+      "player": "A Choudhary",
+      "runs": 25,
+      "avg": 25.0,
+      "sr": 125.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 55.0
+    },
+    {
+      "player": "Kartik Sharma",
+      "runs": 25,
+      "avg": 8.3,
+      "sr": 119.0,
+      "innings": 3,
+      "sixes": 2,
+      "impact_score": 48.2
+    },
+    {
+      "player": "S Chanderpaul",
+      "runs": 25,
+      "avg": 8.3,
+      "sr": 80.6,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 36.7
+    },
+    {
+      "player": "Sanvir Singh",
+      "runs": 25,
+      "avg": 12.5,
+      "sr": 119.0,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 49.4
+    },
+    {
+      "player": "Mohsin Khan",
+      "runs": 25,
+      "avg": 6.2,
+      "sr": 100.0,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 41.9
+    },
+    {
+      "player": "MA Khote",
+      "runs": 24,
+      "avg": 12.0,
+      "sr": 109.1,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 45.9
+    },
+    {
+      "player": "Tanush Kotian",
+      "runs": 24,
+      "avg": 24.0,
+      "sr": 77.4,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 40.0
+    },
+    {
+      "player": "ER Dwivedi",
+      "runs": 24,
+      "avg": 12.0,
+      "sr": 171.4,
+      "innings": 2,
+      "sixes": 2,
+      "impact_score": 64.6
+    },
+    {
+      "player": "KC Cariappa",
+      "runs": 24,
+      "avg": 8.0,
+      "sr": 114.3,
+      "innings": 5,
+      "sixes": 2,
+      "impact_score": 46.3
+    },
+    {
+      "player": "AJ Turner",
+      "runs": 24,
+      "avg": 4.8,
+      "sr": 85.7,
+      "innings": 6,
+      "sixes": 2,
+      "impact_score": 36.8
+    },
+    {
+      "player": "AF Milne",
+      "runs": 23,
+      "avg": 5.8,
+      "sr": 79.3,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 34.7
+    },
+    {
+      "player": "SW Tait",
+      "runs": 23,
+      "avg": 7.7,
+      "sr": 88.5,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 38.1
+    },
+    {
+      "player": "GF Linde",
+      "runs": 23,
+      "avg": 11.5,
+      "sr": 135.3,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 53.2
+    },
+    {
+      "player": "J Arunkumar",
+      "runs": 23,
+      "avg": 7.7,
+      "sr": 100.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 41.5
+    },
+    {
+      "player": "P Dubey",
+      "runs": 23,
+      "avg": 23.0,
+      "sr": 69.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 37.0
+    },
+    {
+      "player": "BMAJ Mendis",
+      "runs": 23,
+      "avg": 7.7,
+      "sr": 85.2,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 37.1
+    },
+    {
+      "player": "SA Abbott",
+      "runs": 22,
+      "avg": 7.3,
+      "sr": 122.2,
+      "innings": 3,
+      "sixes": 2,
+      "impact_score": 47.6
+    },
+    {
+      "player": "Sediqullah Atal",
+      "runs": 22,
+      "avg": 22.0,
+      "sr": 137.5,
+      "innings": 1,
+      "sixes": 2,
+      "impact_score": 56.6
+    },
+    {
+      "player": "GB Hogg",
+      "runs": 22,
+      "avg": 7.3,
+      "sr": 100.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 41.0
+    },
+    {
+      "player": "HE van der Dussen",
+      "runs": 22,
+      "avg": 11.0,
+      "sr": 91.7,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 39.6
+    },
+    {
+      "player": "XC Bartlett",
+      "runs": 22,
+      "avg": 22.0,
+      "sr": 110.0,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 48.4
+    },
+    {
+      "player": "KL Nagarkoti",
+      "runs": 22,
+      "avg": 5.5,
+      "sr": 66.7,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 30.5
+    },
+    {
+      "player": "Yudhvir Singh",
+      "runs": 22,
+      "avg": 5.5,
+      "sr": 137.5,
+      "innings": 4,
+      "sixes": 2,
+      "impact_score": 51.7
+    },
+    {
+      "player": "B Indrajith",
+      "runs": 21,
+      "avg": 7.0,
+      "sr": 70.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 31.5
+    },
+    {
+      "player": "DE Bollinger",
+      "runs": 21,
+      "avg": 21.0,
+      "sr": 95.5,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 43.3
+    },
+    {
+      "player": "Kumar Kushagra",
+      "runs": 21,
+      "avg": 5.2,
+      "sr": 100.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 40.0
+    },
+    {
+      "player": "AU Rashid",
+      "runs": 21,
+      "avg": 10.5,
+      "sr": 140.0,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 53.6
+    },
+    {
+      "player": "AC Thomas",
+      "runs": 20,
+      "avg": 10.0,
+      "sr": 105.3,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 42.6
+    },
+    {
+      "player": "C Sakariya",
+      "runs": 20,
+      "avg": 3.3,
+      "sr": 66.7,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 29.0
+    },
+    {
+      "player": "S Kaul",
+      "runs": 20,
+      "avg": 5.0,
+      "sr": 55.6,
+      "innings": 9,
+      "sixes": 0,
+      "impact_score": 26.2
+    },
+    {
+      "player": "NJ Maddinson",
+      "runs": 20,
+      "avg": 6.7,
+      "sr": 95.2,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 38.6
+    },
+    {
+      "player": "RR Raje",
+      "runs": 20,
+      "avg": 20.0,
+      "sr": 111.1,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 47.3
+    },
+    {
+      "player": "M Muralitharan",
+      "runs": 20,
+      "avg": 3.3,
+      "sr": 69.0,
+      "innings": 9,
+      "sixes": 0,
+      "impact_score": 29.7
+    },
+    {
+      "player": "BKG Mendis",
+      "runs": 20,
+      "avg": 20.0,
+      "sr": 200.0,
+      "innings": 1,
+      "sixes": 2,
+      "impact_score": 74.0
+    },
+    {
+      "player": "P Sahu",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 146.2,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 57.2
+    },
+    {
+      "player": "NT Ellis",
+      "runs": 19,
+      "avg": 4.8,
+      "sr": 76.0,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 31.8
+    },
+    {
+      "player": "P Ray Barman",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 79.2,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 37.1
+    },
+    {
+      "player": "R Bishnoi",
+      "runs": 19,
+      "avg": 6.3,
+      "sr": 111.8,
+      "innings": 3,
+      "sixes": 2,
+      "impact_score": 43.0
+    },
+    {
+      "player": "Gulbadin Naib",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 126.7,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 51.3
+    },
+    {
+      "player": "Y Gnaneswara Rao",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 111.8,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 46.8
+    },
+    {
+      "player": "JR Hazlewood",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 65.5,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 33.0
+    },
+    {
+      "player": "DR Martyn",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 79.2,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 37.1
+    },
+    {
+      "player": "A Mukund",
+      "runs": 19,
+      "avg": 9.5,
+      "sr": 86.4,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 36.4
+    },
+    {
+      "player": "RA Bawa",
+      "runs": 19,
+      "avg": 9.5,
+      "sr": 105.6,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 42.1
+    },
+    {
+      "player": "R Shukla",
+      "runs": 19,
+      "avg": 19.0,
+      "sr": 82.6,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 38.1
+    },
+    {
+      "player": "Naveen-ul-Haq",
+      "runs": 18,
+      "avg": 18.0,
+      "sr": 75.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 35.1
+    },
+    {
+      "player": "PV Tambe",
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 47.4,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 24.1
+    },
+    {
+      "player": "Kartik Tyagi",
+      "runs": 18,
+      "avg": 3.6,
+      "sr": 85.7,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 34.0
+    },
+    {
+      "player": "R Sai Kishore",
+      "runs": 18,
+      "avg": 4.5,
+      "sr": 112.5,
+      "innings": 4,
+      "sixes": 2,
+      "impact_score": 42.3
+    },
+    {
+      "player": "JJ van der Wath",
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 112.5,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 43.7
+    },
+    {
+      "player": "Sumit Kumar",
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 75.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 32.4
+    },
+    {
+      "player": "DS Lehmann",
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 39.9
+    },
+    {
+      "player": "T Banton",
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 90.0,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 36.9
+    },
+    {
+      "player": "Harmeet Singh",
+      "runs": 18,
+      "avg": 4.5,
+      "sr": 150.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 53.6
+    },
+    {
+      "player": "KMA Paul",
+      "runs": 18,
+      "avg": 3.6,
+      "sr": 75.0,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 30.8
+    },
+    {
+      "player": "Saurav Chauhan",
+      "runs": 18,
+      "avg": 6.0,
+      "sr": 120.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 45.0
+    },
+    {
+      "player": "BJ Haddin",
+      "runs": 18,
+      "avg": 18.0,
+      "sr": 163.6,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 61.7
+    },
+    {
+      "player": "M Theekshana",
+      "runs": 17,
+      "avg": 5.7,
+      "sr": 50.0,
+      "innings": 6,
+      "sixes": 1,
+      "impact_score": 23.5
+    },
+    {
+      "player": "Umran Malik",
+      "runs": 17,
+      "avg": 8.5,
+      "sr": 113.3,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 43.3
+    },
+    {
+      "player": "Parvez Rasool",
+      "runs": 17,
+      "avg": 8.5,
+      "sr": 85.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 34.8
+    },
+    {
+      "player": "JA Richardson",
+      "runs": 17,
+      "avg": 5.7,
+      "sr": 65.4,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 28.1
+    },
+    {
+      "player": "KS Sharma",
+      "runs": 16,
+      "avg": 5.3,
+      "sr": 64.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 27.2
+    },
+    {
+      "player": "YV Dhull",
+      "runs": 16,
+      "avg": 5.3,
+      "sr": 69.6,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 28.9
+    },
+    {
+      "player": "AJ Hosein",
+      "runs": 16,
+      "avg": 16.0,
+      "sr": 160.0,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 59.2
+    },
+    {
+      "player": "PP Ojha",
+      "runs": 16,
+      "avg": 1.3,
+      "sr": 36.4,
+      "innings": 19,
+      "sixes": 0,
+      "impact_score": 17.7
+    },
+    {
+      "player": "CK Kapugedera",
+      "runs": 16,
+      "avg": 5.3,
+      "sr": 72.7,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 29.8
+    },
+    {
+      "player": "JL Pattinson",
+      "runs": 15,
+      "avg": 15.0,
+      "sr": 115.4,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 45.1
+    },
+    {
+      "player": "Virat Singh",
+      "runs": 15,
+      "avg": 7.5,
+      "sr": 57.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 25.6
+    },
+    {
+      "player": "VY Mahesh",
+      "runs": 15,
+      "avg": 7.5,
+      "sr": 55.6,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 24.9
+    },
+    {
+      "player": "I Udana",
+      "runs": 15,
+      "avg": 5.0,
+      "sr": 136.4,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 48.4
+    },
+    {
+      "player": "A Zampa",
+      "runs": 15,
+      "avg": 3.0,
+      "sr": 62.5,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 25.6
+    },
+    {
+      "player": "GR Napier",
+      "runs": 15,
+      "avg": 15.0,
+      "sr": 93.8,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 38.6
+    },
+    {
+      "player": "SD Lad",
+      "runs": 15,
+      "avg": 15.0,
+      "sr": 115.4,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 45.1
+    },
+    {
+      "player": "C Madan",
+      "runs": 14,
+      "avg": 14.0,
+      "sr": 77.8,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 33.1
+    },
+    {
+      "player": "MDKJ Perera",
+      "runs": 14,
+      "avg": 7.0,
+      "sr": 107.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 40.0
+    },
+    {
+      "player": "MP Breetzke",
+      "runs": 14,
+      "avg": 14.0,
+      "sr": 116.7,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 44.8
+    },
+    {
+      "player": "Vijaykumar Vyshak",
+      "runs": 14,
+      "avg": 7.0,
+      "sr": 116.7,
+      "innings": 4,
+      "sixes": 1,
+      "impact_score": 42.7
+    },
+    {
+      "player": "F Behardien",
+      "runs": 14,
+      "avg": 7.0,
+      "sr": 107.7,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 40.0
+    },
+    {
+      "player": "Mustafizur Rahman",
+      "runs": 13,
+      "avg": 6.5,
+      "sr": 54.2,
+      "innings": 7,
+      "sixes": 1,
+      "impact_score": 23.4
+    },
+    {
+      "player": "Arjun Tendulkar",
+      "runs": 13,
+      "avg": 13.0,
+      "sr": 144.4,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 52.4
+    },
+    {
+      "player": "DR Shorey",
+      "runs": 13,
+      "avg": 6.5,
+      "sr": 76.5,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 30.1
+    },
+    {
+      "player": "Harsh Dubey",
+      "runs": 13,
+      "avg": 6.5,
+      "sr": 144.4,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 50.5
+    },
+    {
+      "player": "FA Allen",
+      "runs": 13,
+      "avg": 6.5,
+      "sr": 72.2,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 28.8
+    },
+    {
+      "player": "KJ Abbott",
+      "runs": 13,
+      "avg": 13.0,
+      "sr": 162.5,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 57.8
+    },
+    {
+      "player": "DT Patil",
+      "runs": 13,
+      "avg": 6.5,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 37.2
+    },
+    {
+      "player": "S Badree",
+      "runs": 13,
+      "avg": 2.6,
+      "sr": 56.5,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 22.9
+    },
+    {
+      "player": "K Upadhyay",
+      "runs": 12,
+      "avg": 12.0,
+      "sr": 133.3,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 48.4
+    },
+    {
+      "player": "AA Chavan",
+      "runs": 12,
+      "avg": 6.0,
+      "sr": 109.1,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 39.3
+    },
+    {
+      "player": "K Kartikeya",
+      "runs": 12,
+      "avg": 3.0,
+      "sr": 70.6,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 26.9
+    },
+    {
+      "player": "DG Nalkande",
+      "runs": 12,
+      "avg": 6.0,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 36.6
+    },
+    {
+      "player": "T Thushara",
+      "runs": 12,
+      "avg": 6.0,
+      "sr": 66.7,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 26.6
+    },
+    {
+      "player": "AR Bawne",
+      "runs": 12,
+      "avg": 12.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 38.4
+    },
+    {
+      "player": "MA Wood",
+      "runs": 12,
+      "avg": 6.0,
+      "sr": 150.0,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 51.6
+    },
+    {
+      "player": "Karanveer Singh",
+      "runs": 12,
+      "avg": 12.0,
+      "sr": 70.6,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 29.6
+    },
+    {
+      "player": "Mujeeb Ur Rahman",
+      "runs": 12,
+      "avg": 4.0,
+      "sr": 80.0,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 30.0
+    },
+    {
+      "player": "DAJ Bracewell",
+      "runs": 12,
+      "avg": 12.0,
+      "sr": 133.3,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 48.4
+    },
+    {
+      "player": "DNT Zoysa",
+      "runs": 11,
+      "avg": 11.0,
+      "sr": 122.2,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 44.4
+    },
+    {
+      "player": "M Ntini",
+      "runs": 11,
+      "avg": 11.0,
+      "sr": 61.1,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 26.0
+    },
+    {
+      "player": "T Kohli",
+      "runs": 11,
+      "avg": 3.7,
+      "sr": 57.9,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 22.9
+    },
+    {
+      "player": "T Henderson",
+      "runs": 11,
+      "avg": 5.5,
+      "sr": 73.3,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 28.0
+    },
+    {
+      "player": "SMSM Senanayake",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 62.5,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 25.8
+    },
+    {
+      "player": "VG Arora",
+      "runs": 10,
+      "avg": 2.5,
+      "sr": 38.5,
+      "innings": 10,
+      "sixes": 0,
+      "impact_score": 16.3
+    },
+    {
+      "player": "Simarjeet Singh",
+      "runs": 10,
+      "avg": 3.3,
+      "sr": 66.7,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 25.0
+    },
+    {
+      "player": "TD Paine",
+      "runs": 10,
+      "avg": 5.0,
+      "sr": 38.5,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 17.0
+    },
+    {
+      "player": "AG Murtaza",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 71.4,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 28.4
+    },
+    {
+      "player": "KAJ Roach",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 111.1,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 40.3
+    },
+    {
+      "player": "RK Bhui",
+      "runs": 10,
+      "avg": 2.5,
+      "sr": 38.5,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 16.3
+    },
+    {
+      "player": "D du Preez",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 76.9,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.1
+    },
+    {
+      "player": "X Thalaivan Sargunam",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 58.8,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 24.6
+    },
+    {
+      "player": "J Theron",
+      "runs": 10,
+      "avg": 5.0,
+      "sr": 83.3,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 30.5
+    },
+    {
+      "player": "JE Root",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 66.7,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 27.0
+    },
+    {
+      "player": "Mukesh Kumar",
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 55.6,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 23.7
+    },
+    {
+      "player": "Shivang Kumar",
+      "runs": 9,
+      "avg": 4.5,
+      "sr": 150.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 50.0
+    },
+    {
+      "player": "AA Noffke",
+      "runs": 9,
+      "avg": 9.0,
+      "sr": 90.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 33.3
+    },
+    {
+      "player": "AA Kulkarni",
+      "runs": 9,
+      "avg": 4.5,
+      "sr": 112.5,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 38.7
+    },
+    {
+      "player": "L Wood",
+      "runs": 9,
+      "avg": 9.0,
+      "sr": 300.0,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 96.3
+    },
+    {
+      "player": "PWA Mulder",
+      "runs": 9,
+      "avg": 9.0,
+      "sr": 81.8,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.8
+    },
+    {
+      "player": "BB Sran",
+      "runs": 9,
+      "avg": 9.0,
+      "sr": 69.2,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 27.1
+    },
+    {
+      "player": "M Prasidh Krishna",
+      "runs": 9,
+      "avg": 3.0,
+      "sr": 37.5,
+      "innings": 7,
+      "sixes": 0,
+      "impact_score": 15.8
+    },
+    {
+      "player": "OC McCoy",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 160.0,
+      "innings": 1,
+      "sixes": 1,
+      "impact_score": 53.6
+    },
+    {
+      "player": "CJ McKay",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 53.3,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 21.6
+    },
+    {
+      "player": "P Chopra",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 133.3,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 45.6
+    },
+    {
+      "player": "SH Johnson",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 72.7,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 27.4
+    },
+    {
+      "player": "TS Mills",
+      "runs": 8,
+      "avg": 2.0,
+      "sr": 57.1,
+      "innings": 5,
+      "sixes": 1,
+      "impact_score": 20.9
+    },
+    {
+      "player": "TM Srivastava",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 72.7,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 27.4
+    },
+    {
+      "player": "JPR Scantlebury-Searles",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 133.3,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 45.6
+    },
+    {
+      "player": "SM Harwood",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 61.5,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 24.0
+    },
+    {
+      "player": "KT Maphaka",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 400.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 125.6
+    },
+    {
+      "player": "Jaskaran Singh",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 72.7,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 27.4
+    },
+    {
+      "player": "CK Langeveldt",
+      "runs": 8,
+      "avg": 4.0,
+      "sr": 88.9,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 31.1
+    },
+    {
+      "player": "Akash Madhwal",
+      "runs": 8,
+      "avg": 8.0,
+      "sr": 57.1,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 22.7
+    },
+    {
+      "player": "IS Sodhi",
+      "runs": 7,
+      "avg": 3.5,
+      "sr": 41.2,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 16.2
+    },
+    {
+      "player": "Suryansh Shedge",
+      "runs": 7,
+      "avg": 2.3,
+      "sr": 63.6,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 22.6
+    },
+    {
+      "player": "AN Ghosh",
+      "runs": 7,
+      "avg": 3.5,
+      "sr": 87.5,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 30.1
+    },
+    {
+      "player": "I Malhotra",
+      "runs": 7,
+      "avg": 7.0,
+      "sr": 175.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 57.4
+    },
+    {
+      "player": "Pankaj Singh",
+      "runs": 7,
+      "avg": 3.5,
+      "sr": 58.3,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 21.3
+    },
+    {
+      "player": "UA Birla",
+      "runs": 7,
+      "avg": 7.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 19.9
+    },
+    {
+      "player": "V Viyaskanth",
+      "runs": 7,
+      "avg": 7.0,
+      "sr": 140.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 46.9
+    },
+    {
+      "player": "VS Malik",
+      "runs": 7,
+      "avg": 7.0,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 34.9
+    },
+    {
+      "player": "MJ Henry",
+      "runs": 7,
+      "avg": 3.5,
+      "sr": 70.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 24.8
+    },
+    {
+      "player": "Ankit Soni",
+      "runs": 7,
+      "avg": 3.5,
+      "sr": 77.8,
+      "innings": 3,
+      "sixes": 1,
+      "impact_score": 27.2
+    },
+    {
+      "player": "SS Shaikh",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 85.7,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 29.9
+    },
+    {
+      "player": "DA Payne",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 120.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 40.2
+    },
+    {
+      "player": "DM Bravo",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 120.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 40.2
+    },
+    {
+      "player": "R Minz",
+      "runs": 6,
+      "avg": 3.0,
+      "sr": 40.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 15.3
+    },
+    {
+      "player": "BA Bhatt",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 85.7,
+      "innings": 2,
+      "sixes": 1,
+      "impact_score": 29.9
+    },
+    {
+      "player": "PSP Handscomb",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 19.2
+    },
+    {
+      "player": "Mukesh Choudhary",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 34.2
+    },
+    {
+      "player": "SB Joshi",
+      "runs": 6,
+      "avg": 3.0,
+      "sr": 42.9,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 16.2
+    },
+    {
+      "player": "JP Behrendorff",
+      "runs": 6,
+      "avg": 6.0,
+      "sr": 66.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 24.2
+    },
+    {
+      "player": "SJ Srivastava",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 100.0,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 33.5
+    },
+    {
+      "player": "KMDN Kulasekara",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 166.7,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 53.5
+    },
+    {
+      "player": "Shivam Sharma",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 166.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 53.5
+    },
+    {
+      "player": "Fazalhaq Farooqi",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 33.3,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 13.5
+    },
+    {
+      "player": "B Stanlake",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 250.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 78.5
+    },
+    {
+      "player": "B Laughlin",
+      "runs": 5,
+      "avg": 2.5,
+      "sr": 38.5,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 14.3
+    },
+    {
+      "player": "P Awana",
+      "runs": 5,
+      "avg": 2.5,
+      "sr": 35.7,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 13.5
+    },
+    {
+      "player": "Prince Yadav",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 50.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 18.5
+    },
+    {
+      "player": "Arshad Khan (2)",
+      "runs": 5,
+      "avg": 5.0,
+      "sr": 125.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 41.0
+    },
+    {
+      "player": "Auqib Nabi",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 200.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 62.8
+    },
+    {
+      "player": "VRV Singh",
+      "runs": 4,
+      "avg": 2.0,
+      "sr": 133.3,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 42.2
+    },
+    {
+      "player": "DP Nannes",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 30.8,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 12.0
+    },
+    {
+      "player": "A Dananjaya",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 80.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 26.8
+    },
+    {
+      "player": "A Uniyal",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 57.1,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 19.9
+    },
+    {
+      "player": "A Tomar",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 17.8
+    },
+    {
+      "player": "A Chandila",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 57.1,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 19.9
+    },
+    {
+      "player": "RS Sodhi",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 200.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 62.8
+    },
+    {
+      "player": "Yash Dayal",
+      "runs": 4,
+      "avg": 1.3,
+      "sr": 44.4,
+      "innings": 4,
+      "sixes": 0,
+      "impact_score": 15.3
+    },
+    {
+      "player": "Liton Das",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 32.8
+    },
+    {
+      "player": "CRD Fernando",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 133.3,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 42.8
+    },
+    {
+      "player": "GD McGrath",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 80.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 26.8
+    },
+    {
+      "player": "T Natarajan",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 57.1,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 19.9
+    },
+    {
+      "player": "FH Edwards",
+      "runs": 4,
+      "avg": 4.0,
+      "sr": 80.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 26.8
+    },
+    {
+      "player": "L Ngidi",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 50.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 17.1
+    },
+    {
+      "player": "Kamran Khan",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 60.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 20.1
+    },
+    {
+      "player": "BAW Mendis",
+      "runs": 3,
+      "avg": 1.5,
+      "sr": 50.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 16.6
+    },
+    {
+      "player": "R Ninan",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 60.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 20.1
+    },
+    {
+      "player": "RJW Topley",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 17.1
+    },
+    {
+      "player": "Mohammad Asif",
+      "runs": 3,
+      "avg": 1.5,
+      "sr": 50.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 16.6
+    },
+    {
+      "player": "N Burger",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 60.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 20.1
+    },
+    {
+      "player": "M Tiwari",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 75.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 24.6
+    },
+    {
+      "player": "D Kalyankrishna",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 37.5,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 13.4
+    },
+    {
+      "player": "Younis Khan",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 42.9,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.0
+    },
+    {
+      "player": "GC Viljoen",
+      "runs": 3,
+      "avg": 1.5,
+      "sr": 42.9,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 14.5
+    },
+    {
+      "player": "S Tyagi",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 75.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 24.6
+    },
+    {
+      "player": "JE Taylor",
+      "runs": 3,
+      "avg": 3.0,
+      "sr": 100.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 32.1
+    },
+    {
+      "player": "KP Appanna",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 50.0,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 16.4
+    },
+    {
+      "player": "Shivam Singh",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 66.7,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 21.4
+    },
+    {
+      "player": "GHS Garton",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 50.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 16.4
+    },
+    {
+      "player": "H Das",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 40.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 13.4
+    },
+    {
+      "player": "Shoaib Akhtar",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 28.6,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 10.0
+    },
+    {
+      "player": "T Shamsi",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 16.4
+    },
+    {
+      "player": "KK Ahmed",
+      "runs": 2,
+      "avg": 0.4,
+      "sr": 22.2,
+      "innings": 6,
+      "sixes": 0,
+      "impact_score": 7.6
+    },
+    {
+      "player": "S Randiv",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 16.4
+    },
+    {
+      "player": "SB Wagh",
+      "runs": 2,
+      "avg": 1.0,
+      "sr": 66.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 21.1
+    },
+    {
+      "player": "Mohammad Ashraful",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 20.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 7.4
+    },
+    {
+      "player": "RJ Gleeson",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 31.4
+    },
+    {
+      "player": "BR Sharath",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 40.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 13.4
+    },
+    {
+      "player": "RG More",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 31.4
+    },
+    {
+      "player": "Mashrafe Mortaza",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 31.4
+    },
+    {
+      "player": "RS Gavaskar",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 25.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 8.9
+    },
+    {
+      "player": "A Singh",
+      "runs": 2,
+      "avg": 0.5,
+      "sr": 22.2,
+      "innings": 5,
+      "sixes": 0,
+      "impact_score": 7.6
+    },
+    {
+      "player": "VS Yeligati",
+      "runs": 2,
+      "avg": 2.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 31.4
+    },
+    {
+      "player": "BE Hendricks",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 33.3,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 10.7
+    },
+    {
+      "player": "P Parameswaran",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "PVSN Raju",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.7
+    },
+    {
+      "player": "PM Sarvesh Kumar",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "Mohit Rathee",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "Abdul Basith",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.7
+    },
+    {
+      "player": "M de Lange",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "NJ Rimmington",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.7
+    },
+    {
+      "player": "LB Williams",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "LE Plunkett",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 33.3,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 10.7
+    },
+    {
+      "player": "SE Bond",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "SZ Mulani",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.7
+    },
+    {
+      "player": "KA Maharaj",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "MJ Suthar",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 50.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 15.7
+    },
+    {
+      "player": "MS Bhandage",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 25.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 8.2
+    },
+    {
+      "player": "DP Vijaykumar",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 100.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 30.7
+    },
+    {
+      "player": "DS Rathi",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 16.7,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 5.7
+    },
+    {
+      "player": "Shoaib Ahmed",
+      "runs": 1,
+      "avg": 0.5,
+      "sr": 16.7,
+      "innings": 3,
+      "sixes": 0,
+      "impact_score": 5.6
+    },
+    {
+      "player": "DJ Muthuswami",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 33.3,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 10.7
+    },
+    {
+      "player": "HF Gurney",
+      "runs": 1,
+      "avg": 1.0,
+      "sr": 20.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 6.7
+    },
+    {
+      "player": "MJ Owen",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Abdur Razzak",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "S Ladda",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Mayank Dagar",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "C Nanda",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "ND Doshi",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Musheer Khan",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Ashok Sharma",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "R Sanjay Yadav",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "RR Bhatkal",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "RP Meredith",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 2,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "L Ablish",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "S Lamichhane",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "S Kaushik",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "K Yadav",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "KM Asif",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "LG Pretorius",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "KR Sen",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "KS Rathore",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "JL Denly",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "SS Cottrell",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "IC Pandey",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Sunny Gupta",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "YA Abdulla",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "Y Prithvi Raj",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "U Kaul",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    },
+    {
+      "player": "V Pratap Singh",
+      "runs": 0,
+      "avg": 0.0,
+      "sr": 0.0,
+      "innings": 1,
+      "sixes": 0,
+      "impact_score": 0.0
+    }
+  ]
+}

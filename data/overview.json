@@ -1,0 +1,234 @@
+{
+  "total_matches": 1193,
+  "total_seasons": 19,
+  "total_runs": 382850,
+  "total_wickets": 14106,
+  "total_sixes": 14777,
+  "total_fours": 32866,
+  "avg_runs_per_match": 320.9,
+  "toss_win_pct": 50.8,
+  "season_stats": [
+    {
+      "season": 2008,
+      "matches": 58,
+      "runs": 17937,
+      "sixes": 623,
+      "wickets": 690
+    },
+    {
+      "season": 2009,
+      "matches": 57,
+      "runs": 16353,
+      "sixes": 508,
+      "wickets": 698
+    },
+    {
+      "season": 2010,
+      "matches": 60,
+      "runs": 18883,
+      "sixes": 587,
+      "wickets": 725
+    },
+    {
+      "season": 2011,
+      "matches": 73,
+      "runs": 21154,
+      "sixes": 639,
+      "wickets": 813
+    },
+    {
+      "season": 2012,
+      "matches": 74,
+      "runs": 22453,
+      "sixes": 733,
+      "wickets": 858
+    },
+    {
+      "season": 2013,
+      "matches": 76,
+      "runs": 22602,
+      "sixes": 681,
+      "wickets": 912
+    },
+    {
+      "season": 2014,
+      "matches": 60,
+      "runs": 18931,
+      "sixes": 715,
+      "wickets": 674
+    },
+    {
+      "season": 2015,
+      "matches": 59,
+      "runs": 18353,
+      "sixes": 692,
+      "wickets": 691
+    },
+    {
+      "season": 2016,
+      "matches": 60,
+      "runs": 18862,
+      "sixes": 639,
+      "wickets": 666
+    },
+    {
+      "season": 2017,
+      "matches": 59,
+      "runs": 18786,
+      "sixes": 706,
+      "wickets": 711
+    },
+    {
+      "season": 2018,
+      "matches": 60,
+      "runs": 19901,
+      "sixes": 872,
+      "wickets": 722
+    },
+    {
+      "season": 2019,
+      "matches": 60,
+      "runs": 19434,
+      "sixes": 786,
+      "wickets": 685
+    },
+    {
+      "season": 2020,
+      "matches": 60,
+      "runs": 19416,
+      "sixes": 736,
+      "wickets": 677
+    },
+    {
+      "season": 2021,
+      "matches": 60,
+      "runs": 18637,
+      "sixes": 687,
+      "wickets": 717
+    },
+    {
+      "season": 2022,
+      "matches": 74,
+      "runs": 24395,
+      "sixes": 1062,
+      "wickets": 912
+    },
+    {
+      "season": 2023,
+      "matches": 74,
+      "runs": 25688,
+      "sixes": 1124,
+      "wickets": 916
+    },
+    {
+      "season": 2024,
+      "matches": 71,
+      "runs": 25971,
+      "sixes": 1261,
+      "wickets": 883
+    },
+    {
+      "season": 2025,
+      "matches": 74,
+      "runs": 26527,
+      "sixes": 1302,
+      "wickets": 873
+    },
+    {
+      "season": 2026,
+      "matches": 24,
+      "runs": 8567,
+      "sixes": 424,
+      "wickets": 283
+    }
+  ],
+  "team_wins": {
+    "Mumbai Indians": 152,
+    "Chennai Super Kings": 144,
+    "Kolkata Knight Riders": 135,
+    "Rajasthan Royals": 118,
+    "Royal Challengers Bangalore": 114,
+    "Sunrisers Hyderabad": 95,
+    "Kings XI Punjab": 85,
+    "Delhi Daredevils": 67,
+    "Delhi Capitals": 53,
+    "Gujarat Titans": 39,
+    "Punjab Kings": 38,
+    "Lucknow Super Giants": 32,
+    "Deccan Chargers": 29,
+    "Unknown": 24,
+    "Royal Challengers Bengaluru": 22
+  },
+  "head_to_head": [
+    {
+      "team1": "Chennai Super Kings",
+      "team2": "Mumbai Indians",
+      "matches": 39,
+      "team1_wins": 18,
+      "team2_wins": 21
+    },
+    {
+      "team1": "Kolkata Knight Riders",
+      "team2": "Mumbai Indians",
+      "matches": 36,
+      "team1_wins": 11,
+      "team2_wins": 25
+    },
+    {
+      "team1": "Mumbai Indians",
+      "team2": "Royal Challengers Bangalore",
+      "matches": 32,
+      "team1_wins": 18,
+      "team2_wins": 13
+    },
+    {
+      "team1": "Chennai Super Kings",
+      "team2": "Kolkata Knight Riders",
+      "matches": 32,
+      "team1_wins": 21,
+      "team2_wins": 11
+    },
+    {
+      "team1": "Chennai Super Kings",
+      "team2": "Rajasthan Royals",
+      "matches": 32,
+      "team1_wins": 16,
+      "team2_wins": 16
+    },
+    {
+      "team1": "Kolkata Knight Riders",
+      "team2": "Royal Challengers Bangalore",
+      "matches": 32,
+      "team1_wins": 18,
+      "team2_wins": 14
+    },
+    {
+      "team1": "Mumbai Indians",
+      "team2": "Rajasthan Royals",
+      "matches": 31,
+      "team1_wins": 16,
+      "team2_wins": 15
+    },
+    {
+      "team1": "Kolkata Knight Riders",
+      "team2": "Sunrisers Hyderabad",
+      "matches": 31,
+      "team1_wins": 19,
+      "team2_wins": 11
+    },
+    {
+      "team1": "Chennai Super Kings",
+      "team2": "Royal Challengers Bangalore",
+      "matches": 30,
+      "team1_wins": 20,
+      "team2_wins": 10
+    },
+    {
+      "team1": "Kolkata Knight Riders",
+      "team2": "Rajasthan Royals",
+      "matches": 30,
+      "team1_wins": 16,
+      "team2_wins": 12
+    }
+  ]
+}
