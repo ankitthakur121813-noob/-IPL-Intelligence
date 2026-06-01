@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from db import current_engine
-import queries as Q
+import json
+import os
 
 st.set_page_config(
     page_title="IPL Intelligence Platform",
@@ -14,9 +14,12 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+  /* ── Base ── */
   [data-testid="stAppViewContainer"] { background: #0f1117; }
   [data-testid="stSidebar"] { background: #0d1117; border-right: 1px solid #1e293b; }
   [data-testid="stSidebar"] * { color: #94a3b8 !important; }
+
+  /* ── Stat cards ── */
   .stat-card {
     background: #1e293b; border-radius: 12px; padding: 16px;
     border-left: 4px solid var(--accent); margin-bottom: 12px;
@@ -24,6 +27,8 @@ st.markdown("""
   .stat-value { font-size: 1.6rem; font-weight: 700; color: #f1f5f9; }
   .stat-label { font-size: 0.7rem; color: #64748b; text-transform: uppercase; letter-spacing: 1px; }
   .stat-sub   { font-size: 0.7rem; color: #475569; margin-top: 4px; }
+
+  /* ── Insight cards ── */
   .insight-card {
     background: #1e293b; border-radius: 10px; padding: 16px;
     margin-bottom: 10px; border: 1px solid #334155;
@@ -31,15 +36,30 @@ st.markdown("""
   .insight-icon  { font-size: 1.4rem; }
   .insight-title { font-weight: 600; color: #f1f5f9; margin: 6px 0 4px; font-size: 0.95rem; }
   .insight-text  { font-size: 0.82rem; color: #94a3b8; }
+
+  /* ── Typography ── */
   h1, h2, h3 { color: #f1f5f9 !important; }
   p, li, label { color: #94a3b8 !important; }
+
+  /* ── Responsive tables ── */
   [data-testid="stDataFrame"] { width: 100% !important; }
+
+  /* ── Mobile: hide sidebar by default ── */
   @media (max-width: 768px) {
     .stat-value { font-size: 1.2rem; }
     .stat-card  { padding: 12px; }
   }
 </style>
 """, unsafe_allow_html=True)
+
+# ── Data ─────────────────────────────────────────────────────────────────────
+DATA_DIR = "data"
+
+@st.cache_data
+def load(key):
+    path = os.path.join(DATA_DIR, f"{key}.json")
+    with open(path, "r") as f:
+        return json.load(f)
 
 TEAM_CLR = {
     "Mumbai Indians": "#1d4ed8", "Chennai Super Kings": "#ca8a04",
@@ -82,25 +102,13 @@ with st.sidebar:
         "Season Leaders", "Advanced", "Moneyball", "Records"
     ], label_visibility="collapsed")
     st.divider()
-    engine = current_engine().upper()
-    engine_color = "#22c55e" if engine == "POSTGRESQL" else "#3b82f6"
-    st.markdown(
-        f'<div style="font-size:0.7rem;color:{engine_color};font-weight:600;">'
-        f'⬡ {engine}</div>',
-        unsafe_allow_html=True
-    )
     st.caption("Data: 1,193 matches · 19 seasons · 2008–2026")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # OVERVIEW
 # ══════════════════════════════════════════════════════════════════════════════
 if tab == "Overview":
-    # Single cached call — fetches all overview data via SQL
-    @st.cache_data(ttl=3600)
-    def load_overview():
-        return Q.overview_stats()
-
-    ov    = load_overview()
+    ov    = load("overview")
     ss    = ov["season_stats"]
     df_ss = pd.DataFrame(ss)
 
@@ -149,7 +157,7 @@ if tab == "Overview":
 
     st.divider()
     st.subheader("Season Trends")
-    metric    = st.radio("Metric", ["runs","sixes","wickets"], horizontal=True, key="ov_m")
+    metric   = st.radio("Metric", ["runs","sixes","wickets"], horizontal=True, key="ov_m")
     color_map = {"runs":"#f97316","sixes":"#14b8a6","wickets":"#a855f7"}
     fill_map  = {"runs":"rgba(249,115,22,0.2)","sixes":"rgba(20,184,166,0.2)","wickets":"rgba(168,85,247,0.2)"}
     fig = px.area(df_ss, x="season", y=metric, color_discrete_sequence=[color_map[metric]])
@@ -163,6 +171,7 @@ if tab == "Overview":
     with col_l:
         st.subheader("All-Time Team Wins")
         sorted_teams = sorted(ov["team_wins"].items(), key=lambda x: x[1], reverse=True)
+        # filter out noise
         sorted_teams = [(k,v) for k,v in sorted_teams if k not in ["Unknown","nan",""] and isinstance(k,str)][:12]
         df_tw = pd.DataFrame(sorted_teams, columns=["Team","Wins"])
         df_tw["Short"] = df_tw["Team"].map(TEAM_SHORT).fillna(df_tw["Team"].str[:3])
@@ -179,28 +188,17 @@ if tab == "Overview":
     with col_r:
         st.subheader("Head to Head")
         df_h2h = pd.DataFrame(ov["head_to_head"])
-        if not df_h2h.empty:
-            df_h2h["T1 Win%"] = (df_h2h["team1_wins"] / df_h2h["matches"] * 100).round(0).astype(int).astype(str) + "%"
-            df_h2h.columns = ["Team 1","Team 2","Matches","T1 Wins","T2 Wins","T1 Win%"]
-            st.dataframe(df_h2h, use_container_width=True, hide_index=True, height=380)
+        df_h2h["T1 Win%"] = (df_h2h["team1_wins"]/df_h2h["matches"]*100).round(0).astype(int).astype(str)+"%"
+        df_h2h.columns = ["Team 1","Team 2","Matches","T1 Wins","T2 Wins","T1 Win%"]
+        st.dataframe(df_h2h, use_container_width=True, hide_index=True, height=380)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # BATTING
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Batting":
-    @st.cache_data(ttl=3600)
-    def load_batting():
-        return Q.top_run_scorers(500)
-
-    df_bat = load_batting()
-
-    # load similarity from JSON (ML output — not in DB)
-    import json, os
-    sim = {}
-    sim_path = os.path.join("data", "similarity.json")
-    if os.path.exists(sim_path):
-        with open(sim_path) as f:
-            sim = json.load(f)
+    bat    = load("batting")
+    sim    = load("similarity")
+    df_bat = pd.DataFrame(bat["leaderboard"])
 
     st.title("🏏 Batting Analytics")
 
@@ -222,7 +220,7 @@ elif tab == "Batting":
     st.divider()
 
     st.subheader("Batting Leaderboard")
-    sort_col = st.selectbox("Sort by", ["total_runs","average","strike_rate","sixes","highest"])
+    sort_col = st.selectbox("Sort by", ["total_runs","average","strike_rate","sixes","impact_score"])
     df_sorted = df_filtered.sort_values(sort_col, ascending=False).reset_index(drop=True)
     st.dataframe(df_sorted, use_container_width=True, hide_index=True, height=350)
 
@@ -243,29 +241,25 @@ elif tab == "Batting":
     fig_sc.update_layout(showlegend=False)
     st.plotly_chart(fig_sc, use_container_width=True)
 
-    if sim:
-        st.divider()
-        st.subheader("Player Similarity Finder")
-        players  = list(sim.keys())
-        selected = st.selectbox("Select player", players)
-        if selected and selected in sim:
-            df_sim = pd.DataFrame(sim[selected], columns=["Similar Player","Similarity Score"])
-            st.dataframe(df_sim, use_container_width=True, hide_index=True)
+    st.divider()
+    st.subheader("Player Similarity Finder")
+    players  = list(sim.keys())
+    selected = st.selectbox("Select player", players)
+    if selected and selected in sim:
+        df_sim = pd.DataFrame(sim[selected], columns=["Similar Player","Similarity Score"])
+        st.dataframe(df_sim, use_container_width=True, hide_index=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # BOWLING
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Bowling":
-    @st.cache_data(ttl=3600)
-    def load_bowling():
-        return Q.top_wicket_takers(500)
-
-    df_bowl = load_bowling()
+    bowl    = load("bowling")
+    df_bowl = pd.DataFrame(bowl["leaderboard"])
 
     st.title("🎳 Bowling Analytics")
 
     col_b1, col_b2 = st.columns([3,1])
-    search_b    = col_b1.text_input("🔍 Search bowler", placeholder="e.g. Bumrah, Chahal, Rashid")
+    search_b   = col_b1.text_input("🔍 Search bowler", placeholder="e.g. Bumrah, Chahal, Rashid")
     min_wickets = col_b2.number_input("Min wickets", min_value=1, max_value=300, value=1)
 
     df_bf = df_bowl[df_bowl["wickets"] >= min_wickets].copy()
@@ -307,12 +301,10 @@ elif tab == "Bowling":
 # VENUES
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Venues":
-    @st.cache_data(ttl=3600)
-    def load_venues():
-        return Q.venue_win_percentages()
-
-    df_ven = load_venues()
-    df_ven["venue_short"] = df_ven["venue"].str.split(",").str[0]
+    ven    = load("venues")
+    df_ven = pd.DataFrame(ven["venues"])
+    df_ven["venue_short"]   = df_ven["venue"].str.split(",").str[0]
+    df_ven["chase_win_pct"] = (100 - df_ven["bat_first_win_pct"]).round(1)
 
     st.title("🏟️ Venue Analysis")
     st.divider()
@@ -337,16 +329,16 @@ elif tab == "Venues":
 
     st.divider()
     st.subheader("Venue Details")
-    df_display = df_ven[["venue_short","total_matches","avg_first_innings",
-                          "avg_second_innings","bat_first_win_pct"]].copy()
-    df_display.columns = ["Venue","Matches","Avg 1st Inn","Avg 2nd Inn","Bat First Win%"]
+    df_display = df_ven[["venue_short","matches","avg_first_innings",
+                          "avg_second_innings","pitch_type","boundary_opportunity","boundary_pct"]].copy()
+    df_display.columns = ["Venue","Matches","Avg 1st Inn","Avg 2nd Inn","Pitch Type","Boundary Opp","Boundary %"]
     st.dataframe(df_display, use_container_width=True, hide_index=True)
 
     st.divider()
     st.subheader("Avg First vs Second Innings")
     fig_inn = px.scatter(
         df_ven, x="avg_first_innings", y="avg_second_innings",
-        text="venue_short", size="total_matches", size_max=30,
+        text="venue_short", color="pitch_type", size="matches", size_max=30,
         labels={"avg_first_innings":"Avg First Innings","avg_second_innings":"Avg Second Innings"},
     )
     fig_inn.update_traces(textposition="top center")
@@ -357,11 +349,7 @@ elif tab == "Venues":
 # SEASON LEADERS
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Season Leaders":
-    @st.cache_data(ttl=3600)
-    def load_season_leaders():
-        return Q.season_leaders()
-
-    sl      = load_season_leaders()
+    sl      = load("season_leaders")
     seasons = sl["seasons"]
 
     st.title("🏅 Season Leaders")
@@ -400,11 +388,11 @@ elif tab == "Season Leaders":
     st.divider()
     st.subheader("All Season Caps")
     df_all = pd.DataFrame([{
-        "Season":     s["season"],
+        "Season": s["season"],
         "Orange Cap": s["orange_cap"]["player"],
-        "Runs":       s["orange_cap"]["runs"],
+        "Runs": s["orange_cap"]["runs"],
         "Purple Cap": s["purple_cap"]["player"],
-        "Wickets":    s["purple_cap"]["wickets"],
+        "Wickets": s["purple_cap"]["wickets"],
     } for s in seasons])
     st.dataframe(df_all, use_container_width=True, hide_index=True)
 
@@ -412,11 +400,7 @@ elif tab == "Season Leaders":
 # ADVANCED
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Advanced":
-    @st.cache_data(ttl=3600)
-    def load_advanced():
-        return Q.advanced_stats()
-
-    adv       = load_advanced()
+    adv       = load("advanced")
     df_impact = pd.DataFrame(adv["impact_scores"])
 
     st.title("📊 Advanced Analytics")
@@ -448,11 +432,7 @@ elif tab == "Advanced":
 # MONEYBALL
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Moneyball":
-    @st.cache_data(ttl=3600)
-    def load_advanced_mb():
-        return Q.advanced_stats()
-
-    adv       = load_advanced_mb()
+    adv       = load("advanced")
     df_impact = pd.DataFrame(adv["impact_scores"])
 
     st.title("💰 Moneyball — Value Analysis")
@@ -483,15 +463,11 @@ elif tab == "Moneyball":
 # RECORDS
 # ══════════════════════════════════════════════════════════════════════════════
 elif tab == "Records":
-    @st.cache_data(ttl=3600)
-    def load_records():
-        return (
-            Q.top_run_scorers(500),
-            Q.top_wicket_takers(500),
-            Q.overview_stats(),
-        )
-
-    df_bat, df_bowl, ov = load_records()
+    bat    = load("batting")
+    bowl   = load("bowling")
+    ov     = load("overview")
+    df_bat  = pd.DataFrame(bat["leaderboard"])
+    df_bowl = pd.DataFrame(bowl["leaderboard"])
 
     st.title("🏆 Records & Milestones")
     st.divider()
@@ -500,24 +476,25 @@ elif tab == "Records":
     with col1:
         st.subheader("🏏 Batting Records")
         for rec, col_name, fmt in [
-            ("Most Runs",        "total_runs",  lambda v: f"{v:,}"),
-            ("Best Average",     "average",     lambda v: f"{v:.1f}"),
-            ("Best Strike Rate", "strike_rate", lambda v: f"{v:.1f}"),
-            ("Most Sixes",       "sixes",       lambda v: f"{v:,}"),
-            ("Highest Score",    "highest",     lambda v: f"{v}"),
+            ("Most Runs",        "total_runs",   lambda v: f"{v:,}"),
+            ("Best Average",     "average",      lambda v: f"{v:.1f}"),
+            ("Best Strike Rate", "strike_rate",  lambda v: f"{v:.1f}"),
+            ("Most Sixes",       "sixes",        lambda v: f"{v:,}"),
+            ("Highest Score",    "highest",      lambda v: f"{v}"),
         ]:
-            idx = df_bat[col_name].idxmax()
-            row = df_bat.loc[idx]
+            asc   = False
+            idx   = df_bat[col_name].idxmax() if not asc else df_bat[col_name].idxmin()
+            row   = df_bat.loc[idx]
             st.markdown(f"**{rec}** — {row['batter']} `{fmt(row[col_name])}`")
 
     with col2:
         st.subheader("🎳 Bowling Records")
         for rec, col_name, best in [
-            ("Most Wickets",     "wickets",        "max"),
-            ("Best Economy",     "economy",        "min"),
-            ("Best Average",     "average",        "min"),
-            ("Most 4-Wkt Hauls", "four_wkt_hauls", "max"),
-            ("Most 5-Wkt Hauls", "five_wkt_hauls", "max"),
+            ("Most Wickets",    "wickets",        "max"),
+            ("Best Economy",    "economy",        "min"),
+            ("Best Average",    "average",        "min"),
+            ("Most 4-Wkt Hauls","four_wkt_hauls", "max"),
+            ("Most 5-Wkt Hauls","five_wkt_hauls", "max"),
         ]:
             idx = df_bowl[col_name].idxmax() if best=="max" else df_bowl[col_name].idxmin()
             row = df_bowl.loc[idx]
