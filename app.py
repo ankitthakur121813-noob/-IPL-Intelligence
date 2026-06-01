@@ -23,6 +23,16 @@ st.markdown("""
     border-right: 1px solid #1a2332;
 }
 
+/* Always show sidebar */
+[data-testid="stSidebar"] {
+    min-width: 240px !important;
+    max-width: 240px !important;
+    transform: none !important;
+    visibility: visible !important;
+}
+[data-testid="stSidebarCollapsedControl"] { display: none !important; }
+[data-testid="collapsedControl"] { display: none !important; }
+
 /* Hide streamlit branding */
 #MainMenu, footer, header { visibility: hidden; }
 [data-testid="stDecoration"] { display: none; }
